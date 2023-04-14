@@ -111,3 +111,78 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 </li>
 </ul>
 </div>
+<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/mobile/Library" folder</span></b></h2></p>
+<div>
+<ul>
+<li>
+<b>/mobile/Library/Accounts/Accounts3.sqlite</b>
+<ul>
+<li><b>iOS Analysis Test No. 19-5551 Summary Report
+https://cts-forensics.com/reports/19-5551_Web.pdf
+<li><b>iOS Analysis Test No. 20-5551 Summary Report
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report
+https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS - Tracking Device Migration</b></li>
+https://blog.d204n6.com/2021/06/ios-tracking-device-migration.html
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>Cellebrite CTF 2022 - Beth's iPhone</b></li>
+https://www.stark4n6.com/2022/06/cellebrite-ctf-2022-beths-iphone.html
+<li><b>Magnet Forensics Virtual Summit 2023 CTF – iOS</b></li>
+https://www.forgottennook.com/blog/magnet-ios-2023
+<li><b>iLEAPP Accounts Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/accs.py
+<li><b>Accounts3.sqlite query</b></li>
+https://github.com/kacos2000/Queries/blob/master/Accounts3_sqlite.sql
+</ul>
+</li>
+<li>
+<b>/mobile/Library/AddressBook/AddressBook.sqlitedb</b>
+<ul>
+<li><b>Getting Started with iOS Forensics</b></li>
+https://www.systoolsgroup.com/forensics/sqlite/ios.html
+<li><b>Identification and analysis of email and contacts artefacts on iOS and OS X</b></li>
+https://researchonline.gcu.ac.uk/ws/portalfiles/portal/24600592/K.Ovens_PID4325955.pdf
+<li><b>TIME IS NOT ON OUR SIDE WHEN IT COMES TO MESSAGES IN IOS 11</b></li>
+https://smarterforensics.com/2017/09/time-is-not-on-our-side-when-it-comes-to-messages-in-ios-11/
+<li><b>How To Identify When an IPhone or iPad was Factory Reset</b></li>
+https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory-reset/
+<li><b>A Digital Forensic Analysis on the iCloud® and its Synchronization to Apple® Devices</b></li>
+https://www.marshall.edu/forensics/files/FRIEDMANRACHEL-Research-Paper-08242012.pdf
+<li><b>Upgrade From NULL—Detecting iOS Wipe Artifacts</b></li>
+https://dfir.pubpub.org/pub/6i7d593n/release/1
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551
+https://cts-forensics.com/reports/38551_Web.pdf
+<li><b>iOS Analysis Test No. 19-5551 Summary Report
+https://cts-forensics.com/reports/19-5551_Web.pdf
+<li><b>iOS Analysis Test No. 20-5551 Summary Report
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report
+https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>AddressBook.sqlitedb query</b></li>
+https://github.com/kacos2000/Queries/blob/master/AddressBook_sqlite.sql
+<li><b>iPhone Artifacts - Champlain College</b></li>
+https://www.champlain.edu/Documents/LCDI/iPhone%20Artifacts.pdf
+</ul>
+</li>
+<li>
+<b>/mobile/Library/AddressBook/AddressBookImages.sqlitedb</b>
+<ul>
+<li><b>
+<li><b>
+<li><b>
+<li><b>
+<li><b>
+<li><b>AddressBookImages.sqlitedb query</b></li>
+https://github.com/kacos2000/Queries/blob/master/AddressBookImages_sqlite.sql
+</ul>
+</li>
+</ul>
+</div>
