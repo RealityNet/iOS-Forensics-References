@@ -2,10 +2,29 @@
 
 <p>Last update: April 14th 2023</p>
 <p><h1>DATA Partition (/private/var)</p></h1>
-<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/db/" folder</span></b></h2></p>
+<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/containers/" folder</span></b></h2></p>
 <div>
 <ul>
-<li><b>/db/biome/</b>
+<li>
+<b>/containers/Shared/SystemGroup/<GUID>/Library/BatteryLife/CurrentPowerLog.PLSQL</b>
+<ul>
+<li><b>
+</ul>
+</li>
+<li>
+<b>/containers/Shared/SystemGroup/<GUID>/Library/Database/com.apple.MobileBluetooth.ledevices.other.db</b>
+<ul>
+<li><b>
+</ul>
+</li>
+<li>
+<b>/containers/Shared/SystemGroup/<GUID>/Library/Database/com.apple.MobileBluetooth.ledevices.paired.db</b>
+<ul>
+<li><b>
+</ul>
+</li>
+<li>
+<b>/containers/Shared/SystemGroup/<GUID>/Library/Preferences/com.apple.MobileBluetooth.devices.plist</b>
 <ul>
 <li><b>
 </ul>
