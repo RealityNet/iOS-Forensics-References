@@ -634,15 +634,33 @@ https://bitsplease4n6.wordpress.com/2020/12/17/wireless-network-preferences-ios/
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.Preferences.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.purplebuddy.plist</b>
 <ul>
-<li><b>
+<li><b>iOS - Tracking Device Migration
+https://blog.d204n6.com/2021/06/ios-tracking-device-migration.html
+<li><b>Putting a User Behind an iOS Device
+https://dfrws.org/wp-content/uploads/2020/06/2020_USA_pres-putting_a_user_behind_an_ios_device.pdf
+<li><b>How was an iPhone set up?
+https://dfir.pubpub.org/pub/2q177smo/release/5
+<li><b>How was an iPhone set up?
+https://smarterforensics.com/2019/01/how-was-an-iphone-setup/
+<li><b>How To Identify When an IPhone or iPad was Factory Reset
+https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory-reset/
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
 </ul>
 </li>
 <li>
