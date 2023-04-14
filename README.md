@@ -255,12 +255,40 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <ul>
 <li><b>Artifacts of an IOS device</b></li>
 https://infosecaddicts.com/artifacts-ios-device/
-iOS Forensics: HFS+ file system, partitions and relevant evidences
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 </ul>
 </li>
 <li>
 <b>/mobile/Library/Caches/com.apple.Pasteboard/*</b>
 </li>
+<li>
+<b>/mobile/Library/Caches/com.apple.routined/Cache.sqlite</b>
+<ul>
+<li><b>Locations, Locations, Locations
+https://doubleblak.com/blogPosts.php?id=14</b></li>
+<li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis
+http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
+<li><b>APOLLO iOS Routined Cache Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cache_zrtcllocationmo.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cache_zrthintmo.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cache_zrvisitmo.txt
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>iOS Location Artifacts Explained
+https://cellebrite.com/en/ios-location-artifacts-explained/
+<li><b>SANS 2022 DFIR Summit Queries</b></li>
+https://for585.com/dfirsummit22
+<li><b>iPhone Device Speeds via Cache.sqlite > ZRTCLLOCATIONMO table</b></li>
+https://theforensicscooter.com/2021/09/22/iphone-device-speeds-in-cache-sqlite-zrtcllocationmo/
+<li><b>Cache.sqlite query</b></li>
+https://github.com/ScottKjr3347/iOS_Cache.sqlite_Queries
+<li><b>Apple Probably Knows What You Did Last Summer</b></li>
+https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/
+<li><b>UAV Forensics: DJI Mini 2 Case Study</b></li>
+https://www.researchgate.net/publication/352058134_UAV_Forensics_DJI_Mini_2_Case_Study
+</ul>
+</li>
+
 </ul>
 </div>
