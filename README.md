@@ -691,9 +691,10 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.timed.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
