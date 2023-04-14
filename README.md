@@ -241,9 +241,26 @@ https://www.goldencelle.com/post/a-look-into-apple-s-screen-time-feature-and-wha
 https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
 <li><b>Magnet Forensics Virtual Summit 2023 CTF – iOS</b></li>
 https://www.forgottennook.com/blog/magnet-ios-2023
-<li><b>
 </ul>
 </li>
-
+<li>
+<b>/mobile/Library/ApplicationSync/AssetSortOrder.plist</b>
+<ul>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+</ul>
+</li>
+<li>
+<b>/mobile/Library/BulletinBoard/ClearedSections.plist</b>
+<ul>
+<li><b>Artifacts of an IOS device</b></li>
+https://infosecaddicts.com/artifacts-ios-device/
+iOS Forensics: HFS+ file system, partitions and relevant evidences
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Caches/com.apple.Pasteboard/*</b>
+</li>
 </ul>
 </div>
