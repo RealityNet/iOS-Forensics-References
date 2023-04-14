@@ -221,7 +221,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li><b>iOS14 Maps History BLOB Script</b></li>
 http://cheeky4n6monkey.blogspot.com/2020/11/ios14-maps-history-blob-script.html
 https://github.com/cheeky4n6monkey/4n6-scripts/blob/master/iOS/ios14_maps_history.py
-<li><b>ROTTEN TO THE CORE? NAH, IOS14 IS MOSTLY SWEET
+<li><b>ROTTEN TO THE CORE? NAH, IOS14 IS MOSTLY SWEET</b></li>
 https://smarterforensics.com/2020/09/rotten-to-the-core-nah-ios14-is-mostly-sweet/
 <li><b>iLEAPP Maps Sync Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mapsSync.py
@@ -505,25 +505,31 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/CallHistoryDB/CallHistoryTemp.storedata</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>…WON’T YOU BACK THAT THING UP: A GLIMPSE OF IOS 13 ARTIFACTS</b></li>
+https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-ios-13-artifacts/
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/mobile/Library/CallHistoryTransactions/</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/mobile/Library/com.apple.itunesstored/itunesstored2.sqlitedb</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
 </ul>
 </li>
 <li>
 <b>/mobile/Library/com.apple.itunesstored/kvs.sqlitedb</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
@@ -549,20 +555,27 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/DeviceRegistry.state/activeStateMachine.plist</b>
 <ul>
-<li><b>
+<li><b>Apple Watch Forensics 02: Analysis</b></li>
+https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
+<li><b>APPLE WATCH FORENSICS: IS IT EVER POSSIBLE, AND WHAT IS THE PROFIT?</b></li>
+https://dfrws.org/wp-content/uploads/2019/06/2019_EU_pres-apple_watch_forensics_is_it_ever_possible_and_what_is_the_profit.pdf
+<li><b>Data Extraction and Forensic Analysis for Smartphone Paired Wearables and IoT Devices</b></li>
+https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_Analysis_for_Smartphone_Paired_Wearables_and_IoT_Devices
 </ul>
 </li>
 <li>
 <b>/mobile/Library/DeviceRegistry.state/historySecureProperties.plist</b>
 <ul>
-<li><b>
+<li><b>Apple Watch Forensics 02: Analysis</b></li>
+https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
+<li><b>APPLE WATCH FORENSICS: IS IT EVER POSSIBLE, AND WHAT IS THE PROFIT?</b></li>
+https://dfrws.org/wp-content/uploads/2019/06/2019_EU_pres-apple_watch_forensics_is_it_ever_possible_and_what_is_the_profit.pdf
+<li><b>Data Extraction and Forensic Analysis for Smartphone Paired Wearables and IoT Devices</b></li>
+https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_Analysis_for_Smartphone_Paired_Wearables_and_IoT_Devices
 </ul>
 </li>
 <li>
 <b>/mobile/Library/DoNotDisturb/DB/Settings.sqlite</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/mobile/Library/DuetExpertCenter/streams/userNotificationEvent/local</b>
