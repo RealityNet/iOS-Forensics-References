@@ -1323,79 +1323,152 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/root/Library/Caches/locationd/cache_encryptedA.db</b>
 <ul>
-<li><b>
+<li><b>New Script – iOS Locations Scraper</b></li>
+http://www.mac4n6.com/blog/2016/6/6/new-script-ios-locations-scraper
+<li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
+https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>Getting Started with iOS Forensics</b></li>
+https://www.systoolsgroup.com/forensics/sqlite/ios.html
+<li><b>APOLLO cache_ecnryptedA/B Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedAB_cdmacelllocation.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedAB_celllocation.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedAB_celllocationlocal.txt
 </ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/cache_encryptedB.db</b>
 <ul>
-<li><b>
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>New Script – iOS Locations Scraper</b></li>
+http://www.mac4n6.com/blog/2016/6/6/new-script-ios-locations-scraper
+<li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
+https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>APOLLO cache_ecnryptedA/B Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedAB_cdmacelllocation.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedAB_celllocation.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedAB_celllocationlocal.txt
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/cache_encryptedC.db</b>
 <ul>
-<li><b>
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>SANS 2022 DFIR Summit Queries</b></li>
+https://for585.com/dfirsummit22
+<li><b>APOLLO cache_ecnryptedC Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedC_motionstatehistory.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedC_stepcounthistory.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedC_nataliehistory.txt
+<li><b>The phone reveals your motion: Digital traces of walking, driving and other movements on iPhones</b></li>
+https://www.sciencedirect.com/science/article/abs/pii/S2666281721000780
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/clients.plist</b>
 <ul>
-<li><b>
+<li><b>iOS Location Services and System Services ON or OFF?</b></li>
+https://theforensicscooter.com/2021/09/20/ios-location-services-and-system-services-on-or-off/
+<li><b>iOS Location Services and System Services are they ON or OFF</b></li>
+https://dfir.pubpub.org/pub/4sv4kxyh/release/2
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/consolidated.db</b>
 <ul>
-<li><b>
+<li><b>iOS GeoFences</b></li>
+http://www.doubleblak.com/m/blogPosts.php?id=22
+<li><b>BELKASOFT CTF JULY 2022: WRITE-UP</b></li>
+https://belkasoft.com/belkactf-jul2022-writeup
 </ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/significant.plist</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/significantVisitAuth.plist</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/significantVisitInterest.plist</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/root/Library/Lockdown/data_ark.plist</b>
 <ul>
-<li><b>
+<li><b>Putting a User Behind an iOS Device</b></li>
+https://dfrws.org/wp-content/uploads/2020/06/2020_USA_pres-putting_a_user_behind_an_ios_device.pdf
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Oh no! I have a wiped iPhone, now what?</b></li>
+https://blog.digital-forensics.it/2021/05/oh-no-i-have-wiped-iphone-now-what.html
+<li><b>KnowledgeC (and Friends)</b></li>
+http://www.doubleblak.com/m/blogPosts.php?id=2
+<li><b>Magnet Virtual Summit 2020 CTF (iOS)</b></li>
+https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-ios.html
+<li><b>iOS - Tracking Device Migration</b></li>
+https://blog.d204n6.com/2021/06/ios-tracking-device-migration.html
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>Artifacts of an IOS device</b></li>
+https://infosecaddicts.com/artifacts-ios-device/
 </ul>
 </li>
 <li>
 <b>/root/Library/Lockdown/escrow_records/</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Understanding usbmux and the iOS lockdown service</b></li>
+https://jon-gabilondo-angulo-7635.medium.com/understanding-usbmux-and-the-ios-lockdown-service-7f2a1dfd07ae
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
 <b>/root/Library/Lockdown/pair_records/</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Understanding usbmux and the iOS lockdown service</b></li>
+https://jon-gabilondo-angulo-7635.medium.com/understanding-usbmux-and-the-ios-lockdown-service-7f2a1dfd07ae
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
 <b>/root/Library/Logs/MobileContainerManager</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>How To Identify When an IPhone or iPad was Factory Reset</b></li>
+https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory-reset/
+<li><b>So Long Lockdown!</b></li>
+http://www.doubleblak.com/m/blogPosts.php?id=9
+<li><b>Upgrade From NULL—Detecting iOS Wipe Artifacts</b></li>
+https://dfir.pubpub.org/pub/6i7d593n/release/1
+<li><b>Using Apple “Bug Reporting” for forensic purposes</b></li>
+https://for585.com/sysdiagnose
+<li><b>Apple Watch Forensics 02: Analysis</b></li>
+https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
+<li><b>Apple TV Forensics 03: Analysis</b></li>
+https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
 </ul>
 </li>
 <li>
 <b>/root/Library/MobileContainerManager/containers.sqlite3</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Application Groups & Shared data</b></li>
+http://www.swiftforensics.com/2021/01/ios-application-groups-shared-data.html
 </ul>
 </li>
 <li>
