@@ -354,4 +354,16 @@ https://www.stark4n6.com/2022/06/cellebrite-ctf-2022-beths-iphone.html
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
 </ul>
+</li>
+<li>
+<b>/mobile/Library/BulletinBoard/ClearedSections.plist</b>
+<ul>
+<li><b>Artifacts of an IOS device</b></li>
+https://infosecaddicts.com/artifacts-ios-device/
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+</ul>
+</li>
+  
+</ul>
 </div>
