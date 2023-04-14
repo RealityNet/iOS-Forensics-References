@@ -125,11 +125,6 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mobileInstall.py
 </ul>
 </li>
-</ul>
-</div>
-<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/mobile/Library/" folder</span></b></h2></p>
-<div>
-<ul>
 <li>
 <b>/installd/Library/Logs/MobileInstallation/LastBuildInfo.plist</b>
 <ul>
@@ -144,7 +139,10 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 </ul>
 </li>
 </ul>
-c<ul>
+</div>
+<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/mobile/Library/" folder</span></b></h2></p>
+<div>
+<ul>
 <li>
 <b>/mobile/Library/Accounts/Accounts3.sqlite</b>
 <ul>
