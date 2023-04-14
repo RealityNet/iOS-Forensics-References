@@ -9,11 +9,19 @@
 <b>/containers/Shared/SystemGroup/<<GUID>>/Library/BatteryLife/CurrentPowerLog.PLSQL</b>
 <ul>
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
-https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdfc
-<li><b>iOS Forensics for Investigators</b></li>
-https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>On the Third Day of APOLLO, My True Love Gave to Me – Application Usage to Determine Who Has Been Naughty or Nice</b></li>
+http://www.mac4n6.com/blog/2018/12/16/on-the-third-day-of-apollo-my-true-love-gave-to-me-application-usage-to-determine-who-has-been-naughty-or-nice
+<li><b>On the Fourth Day of APOLLO, My True Love Gave to Me – Media Analysis to Prove You Listened to “All I Want for Christmas is You” Over and Over Since Before Thanksgiving</b></li>
+http://www.mac4n6.com/blog/2018/12/17/on-the-fourth-day-of-apollo-my-true-love-gave-to-me-media-analysis-to-prove-you-listened-to-all-i-want-for-christmas-is-you-over-and-over-since-before-thanksgiving
 <li><b>On the Sixth Day of APOLLO, My True Love Gave to Me – Blinky Things with Buttons – Device Status Analysis</b></li>
 http://www.mac4n6.com/blog/2018/12/19/on-the-sixth-day-of-apollo-my-true-love-gave-to-me-blinky-things-with-buttons-device-status-analysis
+<li><b>On the Seventh Day of APOLLO, My True Love Gave to Me – A Good Conversation – Analysis of Communications and Data Usage</b></li>
+http://www.mac4n6.com/blog/2018/12/20/on-the-seventh-day-of-apollo-my-true-love-gave-to-me-a-good-conversation-analysis-of-communications-and-data-usage
+<li><b>On the Eighth Day of APOLLO, My True Love Gave to Me – A Glorious Lightshow – Analysis of Device Connections</b></li>
+http://www.mac4n6.com/blog/2018/12/21/on-the-eighth-day-of-apollo-my-true-love-gave-to-me-a-glorious-lightshow-analysis-of-device-connections
+<li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis</b></li>
+http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
 <li><b>APOLLO CurrentPowerLog Modules</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_accessory_connection.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_airdrop.txt
@@ -70,6 +78,12 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_video_vtsession.tx
 https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_wallet_card.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_wallet_transaction.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_wifi_properties.txt
+<li><b>Oh no! I have a wiped iPhone, now what?</b></li>
+https://blog.digital-forensics.it/2021/05/oh-no-i-have-wiped-iphone-now-what.html
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
