@@ -377,7 +377,7 @@ https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acqui
 <li>
 <b>/mobile/Library/Preferences/com.apple.AppStore.plist</b>
 <ul>
-<li><b>Hacking and Securing iOS Applications by Jonathan Zdziarski, Chapter 4
+<li><b>Hacking and Securing iOS Applications by Jonathan Zdziarski, Chapter 4</b></li>
 https://www.oreilly.com/library/view/hacking-and-securing/9781449325213/ch04.html
 </ul>
 </li>
@@ -390,7 +390,7 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
-<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
 https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
 </ul>
 </li>
@@ -398,9 +398,12 @@ https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-nota
 <b>/mobile/Library/Preferences/com.apple.BatteryCenter.BatteryWidget.plist</b>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.camera.plist</b>
 <ul>
-<li><b>
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+<li><b>Do you have a Full-Sized Asset…or just a Thumbnail? Did Optimized iPhone Storage process occur?
+https://theforensicscooter.com/2022/12/05/do-you-have-a-full-sized-assetor-just-a-thumbnail-did-optimized-iphone-storage-process-occur/
 </ul>
 </li>
 <li>
