@@ -651,6 +651,8 @@ https://blog.d204n6.com/2021/06/ios-tracking-device-migration.html
 https://dfrws.org/wp-content/uploads/2020/06/2020_USA_pres-putting_a_user_behind_an_ios_device.pdf
 <li><b>How was an iPhone set up?</b></li>
 https://dfir.pubpub.org/pub/2q177smo/release/5
+<li><b>Upgrade From NULL—Detecting iOS Wipe Artifacts</b></li>
+https://dfir.pubpub.org/pub/6i7d593n/release/1
 <li><b>How was an iPhone set up?</b></li>
 https://smarterforensics.com/2019/01/how-was-an-iphone-setup/
 <li><b>How To Identify When an IPhone or iPad was Factory Reset</b></li>
@@ -675,9 +677,17 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.springboard.plist</b>
 <ul>
-<li><b>
+<li><b>Recover your iPhone Screen Time or restrictions passcode (supports iOS 14)</b></li>
+https://www.iphonebackupextractor.com/guides/recover-screen-time-parental-restrictions-passcode/
+<li><b>Artifacts of an IOS device</b></li>
+https://infosecaddicts.com/artifacts-ios-device/
+<li><b>Auto-Parser: Android Auto and Apple CarPlay Forensics</b></li>
+https://link.springer.com/chapter/10.1007/978-3-031-06365-7_4
+https://github.com/BiTLab-BaggiliTruthLab/Auto-Parser-Android-Auto-Apple-CarPlay
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
