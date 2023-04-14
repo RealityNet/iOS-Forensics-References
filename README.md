@@ -8,25 +8,29 @@
 <li>
 <b>/containers/Shared/SystemGroup/<GUID>/Library/BatteryLife/CurrentPowerLog.PLSQL</b>
 <ul>
-<li><b></b></li>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/containers/Shared/SystemGroup/<GUID>/Library/Database/com.apple.MobileBluetooth.ledevices.other.db</b>
 <ul>
-<li><b></b></li>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/containers/Shared/SystemGroup/<GUID>/Library/Database/com.apple.MobileBluetooth.ledevices.paired.db</b>
 <ul>
-<li><b></b></li>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/containers/Shared/SystemGroup/<GUID>/Library/Preferences/com.apple.MobileBluetooth.devices.plist</b>
 <ul>
-<li><b></b></li>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 </ul>
@@ -146,7 +150,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 <li>
 <b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Caches/com.apple.mobilesafari/</b>
 <ul>
-<li><b></b></li>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -158,7 +163,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 <li>
 <b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Cookies/Cookies.binarycookies</b>
 <ul>
-<li><b></b></li>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -278,6 +284,8 @@ https://cts-forensics.com/reports/22-5551_Web.pdf
 https://github.com/kacos2000/Queries/blob/master/AddressBook_sqlite.sql
 <li><b>iPhone Artifacts - Champlain College</b></li>
 https://www.champlain.edu/Documents/LCDI/iPhone%20Artifacts.pdf
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -404,6 +412,8 @@ https://github.com/ScottKjr3347/iOS_Cache.sqlite_Queries
 https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/
 <li><b>UAV Forensics: DJI Mini 2 Case Study</b></li>
 https://www.researchgate.net/publication/352058134_UAV_Forensics_DJI_Mini_2_Case_Study
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -438,6 +448,8 @@ https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
 https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -467,6 +479,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 https://www.stark4n6.com/2022/06/cellebrite-ctf-2022-beths-iphone.html
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -478,7 +492,8 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 <li>
 <b>/mobile/Library/CallHistoryDB/CallHistory.storedata</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -508,13 +523,15 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 <li>
 <b>/mobile/Library/CoreDuet/Knowledge/knowledgeC.db</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/mobile/Library/CoreDuet/People/interactionC.db</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -623,7 +640,8 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 <li>
 <b>/mobile/Library/Mail/</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -907,10 +925,10 @@ Missing Pieces: Tips and Tricks on how to ensure your acquisitions aren’t miss
 https://static1.squarespace.com/static/62ab5b933d903d4c55e5d716/t/62fa28d8fd3a89429f8a9a80/1660561630138/MissingPieces_Hyde_Quezada_Final.pdf
 <li><b>The Meaning of Messages</b></li>
 https://www.magnetforensics.com/blog/the-meaning-of-messages/
-<li><b>iOS Forensics for Investigators</b></li>
-https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -1016,25 +1034,29 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/mobile/Library/Safari/Bookmarks.db</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/mobile/Library/Safari/BrowserState.db</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/mobile/Library/Safari/CloudTabs.db</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/mobile/Library/Safari/History.db</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -1046,25 +1068,29 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/mobile/Library/SMS/Attachments/</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/mobile/Library/SMS/Drafts/</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/mobile/Library/SMS/sms.db</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/mobile/Library/SMS/sms-temp.db</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -1189,7 +1215,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/mobile/Media/PhotoData/Photos.sqlite</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -1271,6 +1298,8 @@ https://blog.elcomsoft.com/2014/03/itunes-icloud-backups/
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -1402,6 +1431,8 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedC_n
 https://www.sciencedirect.com/science/article/abs/pii/S2666281721000780
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -1422,6 +1453,8 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 http://www.doubleblak.com/m/blogPosts.php?id=22
 <li><b>BELKASOFT CTF JULY 2022: WRITE-UP</b></li>
 https://belkasoft.com/belkactf-jul2022-writeup
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -1617,6 +1650,8 @@ https://cts-forensics.com/reports/21-5551_Web.pdf
 https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 </ul>
