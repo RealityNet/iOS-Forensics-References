@@ -515,7 +515,7 @@ https://cts-forensics.com/reports/38551_Web.pdf
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
-<li><b>Making the most of Property Lists
+<li><b>Making the most of Property Lists</b></li>
 https://forensicskween.com/research/making-the-most-of-property-lists/
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
@@ -551,33 +551,42 @@ https://www.magnetforensics.com/blog/the-meaning-of-messages/
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.mmcs.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.mobile.ldbackup.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.mobilegestalt.plist</b>
 <ul>
-<li><b>
+<li><b>WHO IS THE OWNER OF THE MOBILE DEVICE?</b></li>
+https://www.digitalforensics.com/blog/articles/who-is-the-owner-of-the-mobile-device/
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.mobilephone.plist</b>
 <ul>
-<li><b>
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.mobileslideshow.plist</b>
 <ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
+<li><b>How to find iOS Hidden Assets</b></li>
+https://theforensicscooter.com/2022/07/29/how-to-find-ios-hidden-assets/
+<li><b>Do you have a Full-Sized Asset…or just a Thumbnail? Did Optimized iPhone Storage process occur?</b></li>
+https://theforensicscooter.com/2022/12/05/do-you-have-a-full-sized-assetor-just-a-thumbnail-did-optimized-iphone-storage-process-occur/
 </ul>
 </li>
 <li>
