@@ -645,28 +645,33 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <li>
 <b>/mobile/Library/Preferences/com.apple.purplebuddy.plist</b>
 <ul>
-<li><b>iOS - Tracking Device Migration
+<li><b>iOS - Tracking Device Migration</b></li>
 https://blog.d204n6.com/2021/06/ios-tracking-device-migration.html
-<li><b>Putting a User Behind an iOS Device
+<li><b>Putting a User Behind an iOS Device</b></li>
 https://dfrws.org/wp-content/uploads/2020/06/2020_USA_pres-putting_a_user_behind_an_ios_device.pdf
-<li><b>How was an iPhone set up?
+<li><b>How was an iPhone set up?</b></li>
 https://dfir.pubpub.org/pub/2q177smo/release/5
-<li><b>How was an iPhone set up?
+<li><b>How was an iPhone set up?</b></li>
 https://smarterforensics.com/2019/01/how-was-an-iphone-setup/
-<li><b>How To Identify When an IPhone or iPad was Factory Reset
+<li><b>How To Identify When an IPhone or iPad was Factory Reset</b></li>
 https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory-reset/
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
-<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
 https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.sharingd.plist</b>
 <ul>
-<li><b>
+<li><b>Analysis of Apple Unified Logs: Quarantine Edition [Entry 11] – AirDropping Some Knowledge</b></li>
+http://www.mac4n6.com/blog/2020/6/5/analysis-of-apple-unified-logs-quarantine-edition-entry-11-airdropping-some-knowledge
+<li><b>EXTRACTING FORENSIC ARTIFACTS FROM APPLE CONTINUITY</b></li>
+https://smarterforensics.com/wp-content/uploads/2014/06/The-Cider-Press-DFIR_Summit2017.pdf
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
