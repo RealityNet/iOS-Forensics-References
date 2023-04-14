@@ -78,6 +78,8 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_video_vtsession.tx
 https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_wallet_card.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_wallet_transaction.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/powerlog_wifi_properties.txt
+<li><b>Time Well Spent: Precision Timing, Monotonic Clocks, and the PowerLogs Database for iOS</b></li>
+https://www.forensicfocus.com/webinars/time-well-spent-precision-timing-monotonic-clocks-and-the-powerlogs-database-for-ios/
 <li><b>Oh no! I have a wiped iPhone, now what?</b></li>
 https://blog.digital-forensics.it/2021/05/oh-no-i-have-wiped-iphone-now-what.html
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
