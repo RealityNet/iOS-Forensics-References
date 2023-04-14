@@ -1223,7 +1223,10 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/networkd/netusage.sqlite</b>
 <ul>
-<li><b>
+<li><b>Network and Application Usage using netusage.sqlite & DataUsage.sqlite iOS Databases</b></li>
+http://www.mac4n6.com/blog/2019/1/6/network-and-application-usage-using-netusagesqlite-amp-datausagesqlite-ios-databases
+<li><b>iOS - Tracking Traces of Deleted Applications</b></li>
+https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
 </ul>
 </li>
 </ul>
@@ -1233,32 +1236,41 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <ul>
 <li>
 <b>/preferences/com.apple.networkextension.plist</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/preferences/com.apple.wifi.known-networks.plist</b>
 <ul>
-<li><b>
+<li><b>Apple Private Wi-Fi Addresses</b></li>
+https://ciofecaforensics.com/2020/10/24/apple-private-addresses/
+<li><b>Sysdiagnose in iOS 16: a first look from a Digital Forensics perspective</b></li>
+https://blog.digital-forensics.it/2022/11/sysdiagnose-in-ios-16-first-look-from.html
+<li><b>mac_apt WiFi Plugin</b></li>
+https://github.com/ydkhatri/mac_apt/blob/master/plugins/ios_wifi.py
 </ul>
 </li>
 <li>
 <b>/preferences/SystemConfiguration/com.apple.accounts.exists.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iLEAPP Conf Accounts Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/confaccts.py
 </ul>
 </li>
 <li>
 <b>/preferences/SystemConfiguration/com.apple.networkidentification.plist</b>
 <ul>
-<li><b>
+<li><b>Artifacts of an IOS device</b></li>
+https://infosecaddicts.com/artifacts-ios-device/
+<li><b>Everything You Always Wanted to Know About iTunes and iCloud Backups But Were Afraid to Ask</b></li>
+https://blog.elcomsoft.com/2014/03/itunes-icloud-backups/
 </ul>
 </li>
 <li>
 <b>/preferences/SystemConfiguration/com.apple.radios.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
@@ -1270,13 +1282,27 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/preferences/SystemConfiguration/com.apple.wifi-private-mac-networks.plist</b>
 <ul>
-<li><b>
+<li><b>Apple Private Wi-Fi Addresses</b></li>
+https://ciofecaforensics.com/2020/10/24/apple-private-addresses/
+<li><b>iLEAPP WiFi Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/appleWifiPlist.py
+<li><b>mac_apt WiFi Plugin</b></li>
+https://github.com/ydkhatri/mac_apt/blob/master/plugins/ios_wifi.py
 </ul>
 </li>
 <li>
 <b>/preferences/SystemConfiguration/NetworkInterfaces.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Sysdiagnose Network Interfaces script</b></li>
+https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts/blob/master/sysdiagnose-networkinterfaces.py
+<li><b>Using Apple “Bug Reporting” for forensic purposes</b></li>
+https://for585.com/sysdiagnose
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
