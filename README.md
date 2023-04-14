@@ -415,7 +415,7 @@ https://doubleblak.com/blogPosts.php?id=14
 https://doubleblak.com/BlogArticles/14/PDF2.pdf
 <li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis</b></li>
 http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
-<li><b>APOLLO iOS Routined Cloud Modules</b></li>  
+<li><b>APOLLO iOS Routined Cloud Modules</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_entry.txt 
 https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_exit.txt 
 https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_inbound_start.txt 
@@ -1424,37 +1424,56 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/wireless/Library/Databases/DataUsage.sqlite</b>
 <ul>
-<li><b>
+<li><b>Network and Application Usage using netusage.sqlite & DataUsage.sqlite iOS Databases</b></li>
+http://www.mac4n6.com/blog/2019/1/6/network-and-application-usage-using-netusagesqlite-amp-datausagesqlite-ios-databases
+<li><b>APOLLO DataUsage Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/datausage_zliveusage.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/netusage_zprocess.txt
+<li><b>iLEAPP DataUsage Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
 </ul>
 </li>
 <li>
 <b>/wireless/Library/preferences/com.apple.commcenter.callservices.plist</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
-<b>/wireless/Library/Preferences/com.apple.CommCenter.counts.plist</b>
+<b>/wireless/Library/Preferences/com.apple.commcenter.counts.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
 <b>/wireless/Library/Preferences/com.apple.commcenter.data.plist</b>
 <ul>
-<li><b>
+<li><b>Mo’ SIMs, Mo’ Problems. Examining Phones with Dual SIMs.</b></li>
+https://thebinaryhick.blog/2022/12/06/mo-sims-mo-problems-examining-phones-with-dual-sims/
 </ul>
 </li>
 <li>
 <b>/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
 <b>/wireless/Library/Preferences/com.apple.commcenter.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>Artifacts of an IOS device</b></li>
+https://infosecaddicts.com/artifacts-ios-device/
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+https://cts-forensics.com/reports/38551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 </ul>
