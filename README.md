@@ -427,46 +427,46 @@ https://github.com/BiTLab-BaggiliTruthLab/Auto-Parser-Android-Auto-Apple-CarPlay
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.celestial.plist</b>
 <ul>
-<li><b>
+<li><b>Ridin’ With Apple CarPlay</b></li>
+https://thebinaryhick.blog/2019/05/08/ridin-with-apple-carplay/
+<li><b>Auto-Parser: Android Auto and Apple CarPlay Forensics</b></li>
+https://link.springer.com/chapter/10.1007/978-3-031-06365-7_4
+https://github.com/BiTLab-BaggiliTruthLab/Auto-Parser-Android-Auto-Apple-CarPlay
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.cloud.quota.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.cloudphotod.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.cmfsyncagent.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>The Meaning of Messages
+https://www.magnetforensics.com/blog/the-meaning-of-messages/
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.commcenter.shared.plist</b>
 <ul>
-<li><b>
+<li><b>Practical Mobile Forensics - Fourth Edition
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
+<b>/mobile/Library/Preferences/com.apple.conference.plist</b>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
+<b>/mobile/Library/Preferences/com.apple.contacts.donation-agent.plist</b>
 </li>
 <li>
 <b>/mobile/Library/Preferences/</b>
