@@ -140,6 +140,83 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 </li>
 </ul>
 </div>
+<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/mobile/Containers/" folder</span></b></h2></p>
+<div>
+<ul>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Caches/com.apple.mobilesafari/</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Caches/com.apple.WebAppCache/ApplicationCache.db</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Cookies/Cookies.binarycookies</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Favicons/Favicons/</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Preferences/com.apple.mobilesafari.plist</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Safari/Downloads/Downloads.plist</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Safari/Thumbnails/</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/WebKit/WebsiteData/LocalStorage/</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple_Maps_GUID>/Library/Maps/GeoHistory.mapsdata</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple_Maps_GUID>/Library/Preferences/com.apple.Maps.plist</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Data/Application/<Apple_Maps_GUID>/Library/SyncedPreferences/com.apple.Maps-com.apple.Maps.recents.plist</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+<li>
+<b>/mobile/Containers/Shared/AppGroup/<Apple_Maps_GUID>/Maps/MapsSync_0.0.1</b>
+<ul>
+<li><b></b></li>
+</ul>
+</li>
+</ul>
+</div>
 <p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/mobile/Library/" folder</span></b></h2></p>
 <div>
 <ul>
