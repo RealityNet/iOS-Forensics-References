@@ -1293,32 +1293,39 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/root/.obliterated</b>
 <ul>
-<li><b>
+<li><b>Upgrade From NULL—Detecting iOS Wipe Artifacts</b></li>
+https://dfir.pubpub.org/pub/6i7d593n/release/1
+<li><b>How To Identify When an IPhone or iPad was Factory Reset</b></li>
+https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory-reset/
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
 </ul>
 </li>
 <li>
 <b>/root/Library/Application Support/com.apple.wifianalyticsd/DeviceAnalyticsModel.sqlite</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/root/Library/Application Support/com.apple.wifianalyticsd/WiFiNetworkStoreModel.sqlite</b>
 <ul>
-<li><b>
+<li><b>iLEAPP WifiNetworkStoreModel Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/wifiNetworkStoreModel.py
 </ul>
 </li>
 <li>
 <b>/root/Library/Caches/com.apple.wifid/ThreeBars.sqlite</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Locations, Locations, Locations</b></li>
+https://doubleblak.com/blogPosts.php?id=14
 </ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/Cache.sqlite</b>
-<ul>
-<li><b></b></li>
-</ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/cache_encryptedA.db</b>
