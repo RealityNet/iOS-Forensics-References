@@ -224,16 +224,23 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
-<li><b>ScreenTimeController
+<li><b>ScreenTimeController</b></li>
 https://github.com/Evian-Zhang/ScreenTimeController/blob/master/README.md
-<li><b>MAC Apt SceenTime Plugin
+<li><b>MAC Apt SceenTime Plugin</b></li>
 https://github.com/ydkhatri/mac_apt/blob/master/plugins/screentime.py
 <li><b>APOLLO ScreenTime Modules</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_timed_items.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_counted_items.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_by_hour.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_by_category.txt
-<li><b>
+<li><b>Plaso iOS SceenTime Parser</b></li>
+https://plaso.readthedocs.io/en/latest/_modules/plaso/parsers/sqlite_plugins/ios_screentime.html
+<li><b>A Look Into Apple’s Screen Time Feature and What Insights It Lends To Forensics</b></li>
+https://www.goldencelle.com/post/a-look-into-apple-s-screen-time-feature-and-what-insights-it-lends-to-forensics
+<li><b>Cellebrite CTF 2020: Ruth Langmore</b></li>
+https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
+<li><b>Magnet Forensics Virtual Summit 2023 CTF – iOS</b></li>
+https://www.forgottennook.com/blog/magnet-ios-2023
 <li><b>
 </ul>
 </li>
