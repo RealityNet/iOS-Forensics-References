@@ -619,13 +619,15 @@ https://www.youtube.com/watch?v=D8AOXCBkaTY
 <li>
 <b>/mobile/Library/Keyboard/langlikelihood.dat</b>
 <ul>
-<li><b>
+<li><b>Cellebrite CTF 2021 Writeup</b></li>
+https://medium.com/@williamskosasi/cellebrite-ctf-2021-writeup-b73d821a708
 </ul>
 </li>
 <li>
 <b>/mobile/Library/Keyboard/UserDictionary.sqlite</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 </ul>
 </li>
 <li>
