@@ -84,19 +84,29 @@ https://www.mac4n6.com/blog/2020/4/19/introducing-analysis-of-apple-unified-logs
 <ul>
 <li><b>CyberDefenders - Jailbreak CTF</b></li>
 https://www.netscylla.com/blog/2022/06/09/Cyberdefenders-Jailbreak-CTF.html
-<li><b>iOS Mobile Installation Logs
+<li><b>iOS Mobile Installation Logs</b></li>
 https://dfir.pubpub.org/pub/e5xlbw88/release/2
-<li><b>iOS Mobile Installation Logs
+<li><b>iOS Mobile Installation Logs</b></li>
 https://dfrws.org/wp-content/uploads/2019/10/2019_review-ios_mobile_installation_logs.pdf
-<li><b>iOS Mobile Installation Logs Parser
+<li><b>iOS Mobile Installation Logs Parser</b></li>
 https://abrignoni.blogspot.com/2019/01/ios-mobile-installation-logs-parser.html
-<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
-
-<li><b>
-<li><b>
-<li><b>
-<li><b>
+<li><b>iLEAPP Mobile Installation Log Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mobileInstall.py
+</ul>
+</li>
+<li>
+<b>/installd/Library/Logs/MobileInstallation/LastBuildInfo.plist</b>
+<ul>
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Cellebrite CTF 2020: Ruth Langmore</b></li>
+https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
+<li><b>iLEAPP Last Build Info Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 </ul>
 </li>
 </ul>
