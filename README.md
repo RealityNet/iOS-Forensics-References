@@ -1418,7 +1418,16 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/wireless/Library/Databases/CellularUsage.db</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>A Few Interesting iOS Forensic Artefacts</b></li>
+https://salt4n6.com/2018/05/15/a-few-interesting-ios-forensic-artefacts/
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>Cellebrite CTF 2021 - Marsha's Backup</b></li>
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-marshas-backup.html
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
 </ul>
 </li>
 <li>
@@ -1426,11 +1435,25 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <ul>
 <li><b>Network and Application Usage using netusage.sqlite & DataUsage.sqlite iOS Databases</b></li>
 http://www.mac4n6.com/blog/2019/1/6/network-and-application-usage-using-netusagesqlite-amp-datausagesqlite-ios-databases
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>APOLLO DataUsage Modules</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/datausage_zliveusage.txt 
 https://github.com/mac4n6/APOLLO/blob/master/modules/netusage_zprocess.txt
 <li><b>iLEAPP DataUsage Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
+<li><b>iOS - Tracking Traces of Deleted Applications</b></li>
+https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
