@@ -218,7 +218,13 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Containers/Shared/AppGroup/<Apple_Maps_GUID>/Maps/MapsSync_0.0.1</b>
 <ul>
-<li><b></b></li>
+<li><b>iOS14 Maps History BLOB Script</b></li>
+http://cheeky4n6monkey.blogspot.com/2020/11/ios14-maps-history-blob-script.html
+https://github.com/cheeky4n6monkey/4n6-scripts/blob/master/iOS/ios14_maps_history.py
+<li><b>ROTTEN TO THE CORE? NAH, IOS14 IS MOSTLY SWEET
+https://smarterforensics.com/2020/09/rotten-to-the-core-nah-ios14-is-mostly-sweet/
+<li><b>iLEAPP Maps Sync Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mapsSync.py
 </ul>
 </li>
 </ul>
