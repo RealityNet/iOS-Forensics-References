@@ -356,14 +356,64 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 </ul>
 </li>
 <li>
-<b>/mobile/Library/BulletinBoard/ClearedSections.plist</b>
+<b>/mobile/Library/Preferences/addaily.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.accountsettings.plist</b>
 <ul>
-<li><b>Artifacts of an IOS device</b></li>
-https://infosecaddicts.com/artifacts-ios-device/
-<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
-https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
 </ul>
 </li>
-  
+<li>
+<b>/mobile/Library/Preferences/com.apple.ActivitySharing.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.AdLib.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.aggregated.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.AppStore.plist</b>
+<ul>
+<li><b>Hacking and Securing iOS Applications by Jonathan Zdziarski, Chapter 4
+https://www.oreilly.com/library/view/hacking-and-securing/9781449325213/ch04.html
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.assistant.backedup.plist</b>
+<ul>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.BatteryCenter.BatteryWidget.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/</b>
+<ul>
+<li><b>
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Preferences/</b>
+<ul>
+<li><b>
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Preferences/</b>
+<ul>
+<li><b>
+</ul>
+</li>
 </ul>
 </div>
