@@ -1062,7 +1062,12 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/Safari/SafariTabs.db</b>
 <ul>
-<li><b>
+<li><b>iOS 16 - Breaking Down the Biomes (Part 4) - Surfin' with Safari</b></li>
+https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-4.html
+<li><b>iOS 16: What Digital Investigators Need to Know</b></li>
+https://www.magnetforensics.com/blog/ios-16-what-digital-investigators-need-to-know/
+<li><b>Checking in on iOS 16 in Magnet AXIOM 6.8</b></li>
+https://www.magnetforensics.com/blog/checking-in-on-ios-16-in-magnet-axiom-6-8/
 </ul>
 </li>
 <li>
@@ -1089,39 +1094,42 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/SMS/sms-temp.db</b>
 <ul>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
-<b>/mobile/Library/SpringBoard/HomeBackground.cpbitmap</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Safari/SpringBoard/HomeBackgroundThumbnail.jpg </b>
-<ul>
-<li><b>
-</ul>
+<b>/mobile/Library/SpringBoard/HomeBackgroundThumbnail.jpg</b>
 </li>
 <li>
 <b>/mobile/Library/SpringBoard/IconState.plist</b>
 <ul>
-<li><b>
+<li><b>Today, Widgets, & Ignored Apps in iOS</b></li>
+https://thebinaryhick.blog/2021/07/25/today-widgets-ignored-apps-in-ios/
+<li><b>Recover iOS App Screen Layouts with the New iOS Home Screen Items Artifact</b></li>
+https://www.magnetforensics.com/blog/recover-ios-app-screen-layouts-with-the-new-ios-home-screen-items-artifact/
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iLEAPP Icon State Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/iconsScreen.py
+<li><b>A Few Interesting iOS Forensic Artefacts</b></li>
+https://salt4n6.com/2018/05/15/a-few-interesting-ios-forensic-artefacts/
+<li><b>iOS - Tracking Traces of Deleted Applications</b></li>
+https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>Auto-Parser: Android Auto and Apple CarPlay Forensics</b></li>
+https://link.springer.com/chapter/10.1007/978-3-031-06365-7_4
+https://github.com/BiTLab-BaggiliTruthLab/Auto-Parser-Android-Auto-Apple-CarPlay
+<li><b>They See Us Rollin’; They Hatin’: Forensics of iOS CarPlay and Android Auto</b></li>
+https://papers.put.as/papers/ios/2019/summit_archive_1564072550.pdf
 </ul>
 </li>
 <li>
 <b>/mobile/Library/SpringBoard/LockBackgroundThumbnail.jpg</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/mobile/SpringBoard/LockBackgroundThumbnaildark.jpg</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/mobile/Library/SpringBoard/PushStore/</b>
