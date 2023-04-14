@@ -139,6 +139,8 @@ https://www.forgottennook.com/blog/magnet-ios-2023
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/accs.py
 <li><b>Accounts3.sqlite query</b></li>
 https://github.com/kacos2000/Queries/blob/master/Accounts3_sqlite.sql
+<li><b>Case Study: Forensic Analysis of TikTok on iOS</b></li>
+https://dfir.pubpub.org/pub/h6vyh33u/release/1
 </ul>
 </li>
 <li>
