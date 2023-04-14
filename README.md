@@ -604,7 +604,10 @@ https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_
 <li>
 <b>/mobile/Library/homed/datastore.sqlite</b>
 <ul>
-<li><b>
+<li><b>A journey into IoT Forensics - Episode 5 - Analysis of the Apple HomePod and the Apple Home Kit Environment (aka thanks RN Team!)</b></li>
+https://blog.digital-forensics.it/2021/01/a-journey-into-iot-forensics-episode-5.html
+<li><b>Forensic Analysis of Apple HomePod & Apple HomeKit Environment w/ Mattia Epifani - SANS DFIR Summit</b></li>
+https://www.youtube.com/watch?v=D8AOXCBkaTY
 </ul>
 </li>
 <li>
@@ -637,7 +640,6 @@ https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_
 <li><b>
 </ul>
 </li>
-<li>
 <li>
 <b>/mobile/Library/Logs/mobile_installation_helper.log*</b>
 <ul>
