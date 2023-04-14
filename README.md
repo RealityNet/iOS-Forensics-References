@@ -176,12 +176,35 @@ https://www.champlain.edu/Documents/LCDI/iPhone%20Artifacts.pdf
 <b>/mobile/Library/AddressBook/AddressBookImages.sqlitedb</b>
 <ul>
 <li><b>
-<li><b>
-<li><b>
-<li><b>
-<li><b>
+<li><b>Identification and analysis of email and contacts artefacts on iOS and OS X</b></li>
+https://researchonline.gcu.ac.uk/ws/portalfiles/portal/24600592/K.Ovens_PID4325955.pdf
+<li><b>IOS 13 – SUMMARY FOR THOSE OF YOU WHO ENJOY THE CLIFFSNOTES</b></li>
+https://smarterforensics.com/2019/09/ios-13-summary-for-those-of-you-who-enjoy-the-cliffsnotes/
 <li><b>AddressBookImages.sqlitedb query</b></li>
 https://github.com/kacos2000/Queries/blob/master/AddressBookImages_sqlite.sql
+</ul>
+</li>
+<li>
+<b>/mobile/Library/AggregatedDictionary/ADDataStore.sqlitedb</b>
+<ul>
+<li><b>
+<li><b>Pincodes, Passcodes, & TouchID on iOS - An Introduction to the Aggregate Dictionary Database (ADDataStore.sqlite)</b></li>
+https://www.mac4n6.com/blog/2017/3/12/introduction-to-the-aggregate-dictionary-database-addatastoresqlite
+<li><b>On the Fifth Day of APOLLO, My True Love Gave to Me – A Stocking Full of Random Junk, Some of Which Might be Useful!</b></li>
+https://www.mac4n6.com/blog/2018/12/18/on-the-fifth-day-of-apollo-my-true-love-gave-to-me-a-stocking-full-of-random-junk-some-of-which-might-be-useful
+<li><b>APOLLO ADDataStore Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/aggregate_dictionary_scalars.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/aggregate_dictionary_distributed_keys.txt
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>SANS 2022 DFIR Summit Queries</b></li>
+https://for585.com/dfirsummit22
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>Forensics Tools: Stop Miscalculating iOS Usage Analytics!</b></li>
+https://www.zdziarski.com/blog/?p=2686
 </ul>
 </li>
 </ul>
