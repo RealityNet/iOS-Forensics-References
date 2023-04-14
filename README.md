@@ -451,14 +451,14 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
-<li><b>The Meaning of Messages
+<li><b>The Meaning of Messages</b></li>
 https://www.magnetforensics.com/blog/the-meaning-of-messages/
 </ul>
 </li>
 <li>
 <b>/mobile/Library/Preferences/com.apple.commcenter.shared.plist</b>
 <ul>
-<li><b>Practical Mobile Forensics - Fourth Edition
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
@@ -469,87 +469,85 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <b>/mobile/Library/Preferences/com.apple.contacts.donation-agent.plist</b>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.contextstored.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.CoreDuet.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.CoreDuet.QueuedDenials.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.coreduetd.batterysaver.state.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.coreduetd.plist</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.corerecents.recentsd.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.corespotlightui.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.FeedbackAssistant.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.homesharing.plist</b>
 <ul>
-<li><b>
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+https://cts-forensics.com/reports/38551_Web.pdf
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.icloud.findmydeviced.FMIPAccounts.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.identityservices.idstatuscache.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Making the most of Property Lists
+https://forensicskween.com/research/making-the-most-of-property-lists/
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.imservice*.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.locationd.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Location Services and System Services are they ON or OFF</b></li>
+https://dfir.pubpub.org/pub/4sv4kxyh/release/2
+<li><b>iOS Location Services and System Services ON or OFF?</b></li>
+https://theforensicscooter.com/2021/09/20/ios-location-services-and-system-services-on-or-off/
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+https://cts-forensics.com/reports/38551_Web.pdf
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.madrid.plist</b>
 <ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
+<li><b>The Meaning of Messages</b></li>
+https://www.magnetforensics.com/blog/the-meaning-of-messages/
 </ul>
 </li>
 <li>
