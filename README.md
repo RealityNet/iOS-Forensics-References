@@ -117,13 +117,13 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 <li>
 <b>/mobile/Library/Accounts/Accounts3.sqlite</b>
 <ul>
-<li><b>iOS Analysis Test No. 19-5551 Summary Report
+<li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/19-5551_Web.pdf
-<li><b>iOS Analysis Test No. 20-5551 Summary Report
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
 <li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
-<li><b>iOS Analysis Test No. 22-5551 Summary Report
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
@@ -156,15 +156,15 @@ https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory
 https://www.marshall.edu/forensics/files/FRIEDMANRACHEL-Research-Paper-08242012.pdf
 <li><b>Upgrade From NULL—Detecting iOS Wipe Artifacts</b></li>
 https://dfir.pubpub.org/pub/6i7d593n/release/1
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
 https://cts-forensics.com/reports/38551_Web.pdf
-<li><b>iOS Analysis Test No. 19-5551 Summary Report
+<li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/19-5551_Web.pdf
-<li><b>iOS Analysis Test No. 20-5551 Summary Report
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
 <li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
-<li><b>iOS Analysis Test No. 22-5551 Summary Report
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>AddressBook.sqlitedb query</b></li>
 https://github.com/kacos2000/Queries/blob/master/AddressBook_sqlite.sql
@@ -265,9 +265,9 @@ https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-an
 <li>
 <b>/mobile/Library/Caches/com.apple.routined/Cache.sqlite</b>
 <ul>
-<li><b>Locations, Locations, Locations
-https://doubleblak.com/blogPosts.php?id=14</b></li>
-<li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis
+<li><b>Locations, Locations, Locations</b></li>
+https://doubleblak.com/blogPosts.php?id=14
+<li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis</b></li>
 http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
 <li><b>APOLLO iOS Routined Cache Modules</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cache_zrtcllocationmo.txt 
@@ -275,7 +275,7 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cache_zrthintmo.tx
 https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cache_zrvisitmo.txt
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
-<li><b>iOS Location Artifacts Explained
+<li><b>iOS Location Artifacts Explained</b></li>
 https://cellebrite.com/en/ios-location-artifacts-explained/
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
 https://for585.com/dfirsummit22
