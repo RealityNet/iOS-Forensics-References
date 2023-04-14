@@ -1401,13 +1401,27 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/root/Library/Preferences/com.apple.MobileBackup.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Using Apple “Bug Reporting” for forensic purposes</b></li>
+https://for585.com/sysdiagnose
+<li><b>Sysdiagnose in iOS 16: a first look from a Digital Forensics perspective</b></li>
+https://blog.digital-forensics.it/2022/11/sysdiagnose-in-ios-16-first-look-from.html
+<li><b>iOS Sysdiagnose Mobile Backup script</b></li>
+https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts/blob/master/sysdiagnose-mobilebackup.py
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
 <b>/root/Library/Preferences/com.apple.preferences.network.plist</b>
 <ul>
-<li><b>
+<li><b>Artifacts of an IOS device</b></li>
+https://infosecaddicts.com/artifacts-ios-device/
+<li><b>Wireless Network Preferences – iOS</b></li>
+https://bitsplease4n6.wordpress.com/2020/12/17/wireless-network-preferences-ios/
 </ul>
 </li>
 </ul>
