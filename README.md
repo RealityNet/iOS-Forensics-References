@@ -1317,7 +1317,7 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/root/Library/Caches/locationd/Cache.sqlite</b>
 <ul>
-<li><b>
+<li><b></b></li>
 </ul>
 </li>
 <li>
