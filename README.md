@@ -175,7 +175,6 @@ https://www.champlain.edu/Documents/LCDI/iPhone%20Artifacts.pdf
 <li>
 <b>/mobile/Library/AddressBook/AddressBookImages.sqlitedb</b>
 <ul>
-<li><b>
 <li><b>Identification and analysis of email and contacts artefacts on iOS and OS X</b></li>
 https://researchonline.gcu.ac.uk/ws/portalfiles/portal/24600592/K.Ovens_PID4325955.pdf
 <li><b>IOS 13 – SUMMARY FOR THOSE OF YOU WHO ENJOY THE CLIFFSNOTES</b></li>
@@ -187,7 +186,6 @@ https://github.com/kacos2000/Queries/blob/master/AddressBookImages_sqlite.sql
 <li>
 <b>/mobile/Library/AggregatedDictionary/ADDataStore.sqlitedb</b>
 <ul>
-<li><b>
 <li><b>Pincodes, Passcodes, & TouchID on iOS - An Introduction to the Aggregate Dictionary Database (ADDataStore.sqlite)</b></li>
 https://www.mac4n6.com/blog/2017/3/12/introduction-to-the-aggregate-dictionary-database-addatastoresqlite
 <li><b>On the Fifth Day of APOLLO, My True Love Gave to Me – A Stocking Full of Random Junk, Some of Which Might be Useful!</b></li>
@@ -207,5 +205,38 @@ https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acqui
 https://www.zdziarski.com/blog/?p=2686
 </ul>
 </li>
+<li>
+<b>/mobile/Library/AppConduit/AvailableApps.plist</b>
+<ul>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+</ul>
+</li>
+<li>
+<b>/mobile/Library/AppConduit/AvailableCompanionApps.plist</b>
+<ul>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Application Support/com.apple.remotemanagmentd/RMAdminStore-Cloud.sqlite</b>
+<ul>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>ScreenTimeController
+https://github.com/Evian-Zhang/ScreenTimeController/blob/master/README.md
+<li><b>MAC Apt SceenTime Plugin
+https://github.com/ydkhatri/mac_apt/blob/master/plugins/screentime.py
+<li><b>APOLLO ScreenTime Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_timed_items.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_counted_items.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_by_hour.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_by_category.txt
+<li><b>
+<li><b>
+</ul>
+</li>
+
 </ul>
 </div>
