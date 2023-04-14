@@ -2,7 +2,7 @@
 
 <p>Last update: April 14th 2023</p>
 <p><h1>DATA Partition (/private/var)</p></h1>
-<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"db" folder</span></b></h2></p>
+<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/db/" folder</span></b></h2></p>
 <div>
 <ul>
 <li>
@@ -76,7 +76,7 @@ https://www.mac4n6.com/blog/2020/4/19/introducing-analysis-of-apple-unified-logs
 </li>
 </ul>
 </div>
-<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"installd" folder</span></b></h2></p>
+<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/installd/" folder</span></b></h2></p>
 <div>
 <ul>
 <li>
@@ -110,10 +110,7 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 </ul>
 </li>
 </ul>
-</div>
-<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/mobile/Library" folder</span></b></h2></p>
-<div>
-<ul>
+c<ul>
 <li>
 <b>/mobile/Library/Accounts/Accounts3.sqlite</b>
 <ul>
@@ -786,13 +783,11 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li><b>
 </ul>
 </li>
-</li>
 <li>
 <b>/mobile/SpringBoard/LockBackgroundThumbnaildark.jpg</b>
 <ul>
 <li><b>
 </ul>
-</li>
 </li>
 <li>
 <b>/mobile/Library/SpringBoard/PushStore/</b>
@@ -800,49 +795,47 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li><b>
 </ul>
 </li>
-</li>
 <li>
-<b>/mobile/Library/Safari/SafariTabs.db</b>
+<b>/mobile/Library/Suggestions/query_predictions.db</b>
 <ul>
 <li><b>
 </ul>
 </li>
-</li>
 <li>
-<b>/mobile/Library/Safari/SafariTabs.db</b>
+<b>/mobile/Library/TCC/TCC.db</b>
 <ul>
 <li><b>
 </ul>
 </li>
-</li>
 <li>
-<b>/mobile/Library/Safari/SafariTabs.db</b>
+<b>/mobile/Library/UserConfigurationProfiles/PublicEffectiveUserSettings.plist</b>
 <ul>
 <li><b>
 </ul>
 </li>
-</li>
 <li>
-<b>/mobile/Library/Safari/SafariTabs.db</b>
+<b>/mobile/Library/UserConfigurationProfiles/UserSettings.plist</b>
 <ul>
 <li><b>
 </ul>
 </li>
-</li>
 <li>
-<b>/mobile/Library/Safari/SafariTabs.db</b>
+<b>/mobile/Library/UserNotifications/</b>
 <ul>
 <li><b>
 </ul>
 </li>
-</li>
 <li>
-<b>/mobile/Library/Safari/SafariTabs.db</b>
+<b>/mobile/Library/Voicemail/voicemail.db</b>
 <ul>
 <li><b>
 </ul>
 </li>
-</li>
+</ul>
+</div>
+<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/installd/" folder</span></b></h2></p>
+<div>
+<ul>
 <li>
 <b>/mobile/Library/Safari/SafariTabs.db</b>
 <ul>
