@@ -221,6 +221,7 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </li>
 <li>
 <b>/mobile/Library/Application Support/com.apple.remotemanagmentd/RMAdminStore-Cloud.sqlite</b>
+<br>
 <b>/mobile/Library/Application Support/com.apple.remotemanagmentd/RMAdminStore-Local.sqlite</b>
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
