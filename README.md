@@ -221,6 +221,7 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </li>
 <li>
 <b>/mobile/Library/Application Support/com.apple.remotemanagmentd/RMAdminStore-Cloud.sqlite</b>
+<b>/mobile/Library/Application Support/com.apple.remotemanagmentd/RMAdminStore-Local.sqlite</b>
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
@@ -267,6 +268,7 @@ https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-an
 <ul>
 <li><b>Locations, Locations, Locations</b></li>
 https://doubleblak.com/blogPosts.php?id=14
+https://doubleblak.com/BlogArticles/14/PDF2.pdf
 <li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis</b></li>
 http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
 <li><b>APOLLO iOS Routined Cache Modules</b></li>
@@ -289,6 +291,66 @@ https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer
 https://www.researchgate.net/publication/352058134_UAV_Forensics_DJI_Mini_2_Case_Study
 </ul>
 </li>
-
+<li>
+<b>/mobile/Library/Caches/com.apple.routined/Cloud.sqlite</b>
+<b>/mobile/Library/Caches/com.apple.routined/Cloud-V2.sqlite</b>
+<ul>
+<li><b>Locations, Locations, Locations</b></li>
+https://doubleblak.com/blogPosts.php?id=14
+https://doubleblak.com/BlogArticles/14/PDF2.pdf
+<li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis</b></li>
+http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
+<li><b>APOLLO iOS Routined Cloud Modules</b></li>  
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_entry.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_exit.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_inbound_start.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_inbound_stop.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_outbound_start.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_outbound_stop.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_address.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_mapitem.txt
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>iOS Location Artifacts Explained</b></li>
+https://cellebrite.com/en/ios-location-artifacts-explained/
+<li><b>SANS 2022 DFIR Summit Queries</b></li>
+https://for585.com/dfirsummit22
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
+<li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
+<li><b>Apple Probably Knows What You Did Last Summer</b></li>
+https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/
+<li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
+https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Caches/com.apple.routined/Local.sqlite</b>
+<ul>
+<li><b>Locations, Locations, Locations</b></li>
+https://doubleblak.com/blogPosts.php?id=14
+https://doubleblak.com/BlogArticles/14/PDF2.pdf
+<li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis</b></li>
+http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
+<li><b>APOLLO iOS Routined Local Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_entry.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_exit.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_transition_start.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_transition_stop.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_vehicle_parked.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_vehicle_parked_history.txt
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>iOS Location Artifacts Explained</b></li>
+https://cellebrite.com/en/ios-location-artifacts-explained/
+<li><b>SANS 2022 DFIR Summit Queries</b></li>
+https://for585.com/dfirsummit22
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
+<li><b>Cellebrite CTF 2022 - Beth's iPhone</b></li>
+https://www.stark4n6.com/2022/06/cellebrite-ctf-2022-beths-iphone.html
+<li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
+https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
 </ul>
 </div>
