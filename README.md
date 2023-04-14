@@ -544,10 +544,10 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
-<li><b>iOS Forensics for Investigators</b></li>
-https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li><b>The Meaning of Messages</b></li>
 https://www.magnetforensics.com/blog/the-meaning-of-messages/
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -590,39 +590,47 @@ https://theforensicscooter.com/2022/12/05/do-you-have-a-full-sized-assetor-just-
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.MobileSMS.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+What is the likelihood of recovering deleted iPhone messages?
+https://improsec.com/tech-blog/what-is-the-likelihood-of-recovering-deleted-iphone-messages
+Missing Pieces: Tips and Tricks on how to ensure your acquisitions aren’t missing critical data
+https://static1.squarespace.com/static/62ab5b933d903d4c55e5d716/t/62fa28d8fd3a89429f8a9a80/1660561630138/MissingPieces_Hyde_Quezada_Final.pdf
+<li><b>The Meaning of Messages</b></li>
+https://www.magnetforensics.com/blog/the-meaning-of-messages/
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.mt.lastLaunch.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.nano.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.nanoregistry.plist</b>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.preferences.datetime.plist</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/</b>
+<b>/mobile/Library/Preferences/com.apple.preferences.network.plist</b>
 <ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
-<b>/mobile/Library/Preferences/</b>
-<ul>
-<li><b>
+<li><b>Artifacts of an IOS device</b></li>
+https://infosecaddicts.com/artifacts-ios-device/
+<li><b>Wireless Network Preferences – iOS</b></li>
+https://bitsplease4n6.wordpress.com/2020/12/17/wireless-network-preferences-ios/
 </ul>
 </li>
 <li>
