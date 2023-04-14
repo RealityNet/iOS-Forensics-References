@@ -490,12 +490,6 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Biome/</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
 <b>/mobile/Library/CallHistoryDB/CallHistory.storedata</b>
 <ul>
 <li><b>iOS Forensics for Investigators</b></li>
