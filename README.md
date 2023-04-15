@@ -91,6 +91,12 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/containers/Shared/SystemGroup/<GUID>/Library/Database/com.apple.MobileBluetooth.ledevices.other.db</b>
 <ul>
+<li><b>Bluetooth – iOS</b></li>
+https://bitsplease4n6.wordpress.com/2020/12/17/bluetooth-ios/
+<li><b>How to Use iOS Bluetooth Connections to Solve Crimes Faster</b></li>
+https://dfir.pubpub.org/pub/frknihlg/release/1
+<li><b>iLEAPP Bluetooth Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/bluetooth.py
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -98,6 +104,14 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/containers/Shared/SystemGroup/<GUID>/Library/Database/com.apple.MobileBluetooth.ledevices.paired.db</b>
 <ul>
+<li><b>Bluetooth – iOS</b></li>
+https://bitsplease4n6.wordpress.com/2020/12/17/bluetooth-ios/
+<li><b>How to Use iOS Bluetooth Connections to Solve Crimes Faster</b></li>
+https://dfir.pubpub.org/pub/frknihlg/release/1
+<li><b>iLEAPP Bluetooth Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/bluetooth.py
+<li><b>EXTRACTING FORENSIC ARTIFACTS FROM APPLE CONTINUITY</b></li>
+https://smarterforensics.com/wp-content/uploads/2014/06/The-Cider-Press-DFIR_Summit2017.pdf
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -105,6 +119,26 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/containers/Shared/SystemGroup/<GUID>/Library/Preferences/com.apple.MobileBluetooth.devices.plist</b>
 <ul>
+<li><b>Bluetooth – iOS</b></li>
+https://bitsplease4n6.wordpress.com/2020/12/17/bluetooth-ios/
+<li><b>How to Use iOS Bluetooth Connections to Solve Crimes Faster</b></li>
+https://dfir.pubpub.org/pub/frknihlg/release/1
+<li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
+<li><b>Cellebrite CTF 2020: Juan Mortyme</b></li>
+https://ciofecaforensics.com/2020/10/30/cellebrite-ctf-juan/
+<li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/19-5551_Web.pdf
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>iLEAPP Bluetooth Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/bluetooth.py
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
