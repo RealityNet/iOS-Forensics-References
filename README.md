@@ -733,7 +733,7 @@ https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_
 </ul>
 </li>
 <li>
-<b>/Health/ActivitySharing/contacts2.dat</b>
+<b>/mobile/Library/Health/ActivitySharing/contacts.dat</b>
 <ul>
 <li><b>
 </ul>
@@ -762,7 +762,17 @@ https://www.youtube.com/watch?v=D8AOXCBkaTY
 <li>
 <b>/mobile/Library/Keyboard/<language>-dynamic.lm/dynamic-lexicon.dat</b>
 <ul>
-<li><b>
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>iLEAPP Keyboard Lexicon</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/keyboardLexicon.py
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Keyboard/app_usage_database.plist</b>
+<ul>
+<li><b>iLEAPP App Usage Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/keyboardAppUsage.py
 </ul>
 </li>
 <li>
