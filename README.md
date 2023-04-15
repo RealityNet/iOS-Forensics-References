@@ -681,6 +681,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <ul>
 <li><b>Knowledge is Power! Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage</b></li>
 http://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage
+<li><b>iOS KnowledgeC.db Notifications</b></li>
+https://theforensicscooter.com/2021/10/03/ios-knowledgec-db-notifications/
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -753,6 +755,14 @@ https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_
 </li>
 <li>
 <b>/mobile/Library/DuetExpertCenter/streams/userNotificationEvent/local</b>
+<li><b>Peeking at User Notification Events in iOS 15</b></li>
+https://gforce4n6.blogspot.com/2022/05/peeking-at-user-notification-events-in.html
+<li><b>Peeking at User Notification Events in iOS 15</b></li>
+https://dfrws.org/presentation/dfir-review-showcase-peeking-at-user-notification-events-in-ios-15/
+<li><b>iOS 16 - "Paul unsent a message." ... OR DID HE?!</b></li>
+https://blog.d204n6.com/2022/09/ios-16-paul-unsent-message-or-did-he.html
+<li><b>iLEAPP User Notifications Plugins</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsDuet.py
 <ul>
 <li><b>
 </ul>
