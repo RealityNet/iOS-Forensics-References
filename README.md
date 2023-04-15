@@ -1360,7 +1360,14 @@ https://papers.put.as/papers/ios/2019/summit_archive_1564072550.pdf
 <li>
 <b>/mobile/Library/UserConfigurationProfiles/PublicEffectiveUserSettings.plist</b>
 <ul>
-<li><b>
+<li><b>iOS Settings Display Auto-Lock & Require Passcode
+https://theforensicscooter.com/2021/09/05/ios-settings-display-auto-lock-require-passcode/
+<li><b>iOS Settings Display Auto-Lock & Require Passcode
+https://dfir.pubpub.org/pub/khnqi0ff/release/1
+<li><b>Cellebrite CTF 2021 - Beth's iPhone
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
+<li><b>Cellebrite CTF 2021 Writeup
+https://medium.com/@williamskosasi/cellebrite-ctf-2021-writeup-b73d821a708
 </ul>
 </li>
 <li>
