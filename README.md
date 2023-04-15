@@ -487,7 +487,46 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/mobile/Library/Biome/</b>
 <ul>
-<li><b>
+<li><b>Analyzing iOS Biome AppIntent Files</b></li>
+https://bluecrewforensics.com/2022/03/07/ios-app-intents/
+<li><b>iOS 16 - Now You 'C' It, Now You Don't -- Breaking Down The Biomes Part 1</b></li>
+https://blog.d204n6.com/2022/09/ios-16-now-you-c-it-now-you-dont.html
+<li><b>iOS 16 Breaking Down the Biomes Part 2 - AppInstalls, AppLaunch, & AppIntents</b></li>
+https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-2.html
+<li><b>iOS 16 - Breaking Down the Biomes (Part 3) - Keeping up with CarPlay</b></li>
+https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-3.html
+<li><b>iOS 16 - Breaking Down the Biomes (Part 4) - Surfin' with Safari</b></li>
+https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-4.html
+<li><b>iOS 16 - Breaking Down the Biomes Part 5 -- "Hey Siri, find me some more data..."</b></li>
+https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-5-hey.html
+<li><b>An Alternate Location for Deleted SMS/iMessage Data in Apple Devices</b></li>
+https://dfir.pubpub.org/pub/yp6efc8q/release/1
+https://sqlmcgee.wordpress.com/2022/03/28/an-alternate-location-for-deleted-sms-imessage-data-in-apple-devices-2/
+<li><b>Lagging for the Win: Querying for Negative Evidence in the sms.db</b></li>
+https://belkasoft.com/lagging-for-win
+<li><b>The Meaning of Messages</b></li>
+https://www.magnetforensics.com/blog/the-meaning-of-messages/
+<li><b>Magnet Forensics Virtual Summit 2023 CTF – iOS</b></li>
+https://www.forgottennook.com/blog/magnet-ios-2023
+<li><b>iLEAPP Biome Plugins</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeAppinstall.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeBacklight.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeBattperc.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeBluetooth.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeCarplayisconnected.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeDevplugin.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeHardware.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeInfocus.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeIntents.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeLocationactivity.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeNotes.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeNotificationsPub.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeNowplaying.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeSafari.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeSync.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeTextinputses.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeUseractmeta.py
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeWifi.py
 </ul>
 </li>
 <li>
