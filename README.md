@@ -678,6 +678,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/mobile/Library/CoreDuet/Knowledge/knowledgeC.db</b>
 <ul>
+<li><b>Knowledge is Power! Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage</b></li>
+http://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -685,14 +687,42 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/CoreDuet/People/interactionC.db</b>
 <ul>
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>KnowledgeC (and Friends)</b></li>
+http://www.doubleblak.com/m/blogPosts.php?id=2
+<li><b>Socially Distant but Still Interacting! New and Improved Updates to macOS/iOS CoreDuet interactionC.db APOLLO Modules</b></li>
+http://www.mac4n6.com/blog/2020/6/21/socially-distant-but-still-interacting-new-and-improved-updates-to-macosios-coreduet-interactioncdb-apollo-modules
+<li><b>SANS 2022 DFIR Summit Queries</b></li>
+https://for585.com/dfirsummit22
+<li><b>APOLLO interactionC Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/interaction_contact_interactions.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/interaction_contact_interactions_keywords.txt
+<li><b>iLEAPP interactionC Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/interactionCcontacts.py
+<li><b>Local Photo Library Photos.sqlite Query Variations & WHERE statements</b></li>
+https://theforensicscooter.com/2022/02/21/photos-sqlite-update/
+<li><b>Comparison of iOS backups: Encrypted vs Unencrypted</b></li>
+https://www.arcpointforensics.com/news/comparison-of-ios-backups
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
 <b>/mobile/Library/DataAccess/</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>Artifacts of an IOS device</b></li>
+https://infosecaddicts.com/artifacts-ios-device/
+<li><b>A Digital Forensic Analysis on the iCloud® and its Synchronization to Apple® Devices</b></li>
+https://www.marshall.edu/forensics/files/FRIEDMANRACHEL-Research-Paper-08242012.pdf
 </ul>
 </li>
 <li>
