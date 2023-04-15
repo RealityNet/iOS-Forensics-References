@@ -842,7 +842,12 @@ https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts/blob/master/
 <li>
 <b>/mobile/Library/Logs/mobileactivationd/</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
+<li><b>Apple TV Forensics 03: Analysis</b></li>
+https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
 </ul>
 </li>
 <li>
@@ -855,7 +860,10 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/MedicalID/MedicalIDData.Archive</b>
 <ul>
-<li><b>
+<li><b>Magnet Virtual Summit 2020 CTF (iOS)</b></li>
+https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-ios.html
+<li><b>iLEAPP MedicalID Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/medicalID.py
 </ul>
 </li>
 <li>
@@ -1864,3 +1872,5 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </li>
 </ul>
 </div>
+  
+  /private/var/logs/lockdownd.log
