@@ -828,14 +828,16 @@ https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-an
 <li>
 <b>/mobile/Library/Logs/AppConduit/</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Using Apple “Bug Reporting” for forensic purposes</b></li>
+https://for585.com/sysdiagnose
+<li><b>iOS Sysdiagnose AppConduit script</b></li>
+https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts/blob/master/sysdiagnose-appconduit.py
 </ul>
 </li>
 <li>
 <b>/mobile/Library/Logs/mobile_installation_helper.log*</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/mobile/Library/Logs/mobileactivationd/</b>
