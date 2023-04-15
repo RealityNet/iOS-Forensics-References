@@ -1342,13 +1342,17 @@ https://papers.put.as/papers/ios/2019/summit_archive_1564072550.pdf
 <li>
 <b>/mobile/Library/SpringBoard/PushStore/</b>
 <ul>
-<li><b>
+<li><b>pushstore_parser</b></li>
+https://github.com/jakev/pushstore-parser
+<li><b>iLEAPP PushStore Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsXI.py
 </ul>
 </li>
 <li>
 <b>/mobile/Library/Suggestions/query_predictions.db</b>
 <ul>
-<li><b>
+<li><b>iLEAPP Query Predictions Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/queryPredictions.py
 </ul>
 </li>
 <li>
@@ -1376,16 +1380,25 @@ https://medium.com/@williamskosasi/cellebrite-ctf-2021-writeup-b73d821a708
 <li>
 <b>/mobile/Library/UserNotifications/</b>
 <ul>
-<li><b>Magnet User Summit 2022 CTF - iPhone
+<li><b>Magnet User Summit 2022 CTF - iPhone</b></li>
 https://www.stark4n6.com/2022/06/magnet-user-summit-2022-ctf-iphone.html
 <li><b>iLEAPP User Notifications Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsXII.py
+<li><b>Mobile Cyber Forensic Investigations of Web3 Wallets on Android and iOS</b></li>
+https://www.mdpi.com/2076-3417/12/21/11180
 </ul>
 </li>
 <li>
 <b>/mobile/Library/Voicemail/voicemail.db</b>
 <ul>
-<li><b>
+<li><b>iOS Voicemail Transcripts</b></li>
+https://www.linkedin.com/pulse/ios-voicemail-transcripts-charlie-rubisoff/
+<li><b>Dude, Where's My Banana? Retrieving data from an iPhone voicemail database</b></li>
+http://cheeky4n6monkey.blogspot.com/2013/01/dude-wheres-my-banana-retrieving-data.html
+<li><b>Dude, Where's My Data?</b></li>
+http://az4n6.blogspot.com/2012/12/dude-wheres-my-data.html
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 </ul>
@@ -1425,9 +1438,6 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsXII
 </li>
 <li>
 <b>/mobile/Media/PhotoData/Caches/GraphService/CLSPublicEventCache.sqlite</b>
-<ul>
-<li><b>
-</ul>
 </li>
 <li>
 <b>/mobile/Media/PhotoData/CPL/</b>
@@ -1462,7 +1472,12 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/MobileSoftwareUpdate/restore.log</b>
 <ul>
-<li><b>
+<li><b>Restore Log - Tracking iOS Update History
+https://www.stark4n6.com/2021/10/restore-log-tracking-ios-update-history.html
+<li><b>Cellebrite CTF 2021 Writeup</b></li>
+https://medium.com/@williamskosasi/cellebrite-ctf-2021-writeup-b73d821a708
+<li><b>iLEAPP restore.log Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/restoreLog.py
 </ul>
 </li>
 </ul>
@@ -1880,5 +1895,6 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </div>
   
-  /private/var/logs/lockdownd.log
+/private/var/logs/lockdownd.log
 Passes
+cloudthumbnails.db
