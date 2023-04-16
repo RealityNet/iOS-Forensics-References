@@ -344,6 +344,10 @@ https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-io
 https://commons.erau.edu/cgi/viewcontent.cgi?article=1414&context=jdfsl
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
@@ -763,6 +767,8 @@ http://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-da
 https://theforensicscooter.com/2021/10/03/ios-knowledgec-db-notifications/
 <li><b>USING PHOTOS.SQLITE TO SHOW THE RELATIONSHIPS BETWEEN PHOTOS AND THE APPLICATION THEY WERE CREATED WITH? BY SCOTT KOENIG</b></li>
 https://smarterforensics.com/2020/08/does-photos-sqlite-have-relations-with-cameramessagesapp-by-scott-koenig/
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -979,10 +985,12 @@ https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
 </ul>
 </li>
 <li>
-<b>/mobile/Library/Preferences/.GlobalPrefences.plist</b>
+<b>/mobile/Library/Preferences/.GlobalPreferences.plist</b>
 <ul>
 <li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
 </ul>
 </li>
 <li>
@@ -1007,6 +1015,10 @@ https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acqui
 <li>
 <b>/mobile/Library/Preferences/com.apple.AppStore.plist</b>
 <ul>
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>Hacking and Securing iOS Applications by Jonathan Zdziarski, Chapter 4</b></li>
 https://www.oreilly.com/library/view/hacking-and-securing/9781449325213/ch04.html
 </ul>
