@@ -338,6 +338,8 @@ https://smarterforensics.com/2020/09/rotten-to-the-core-nah-ios14-is-mostly-swee
 https://smarterforensics.com/2016/12/how-the-grinch-stole-apple-maps-artifacts-or-did-he-just-hide-them/
 <li><b>FIRST THE GRINCH AND NOW THE EASTER BUNNY! WHERE IS APPLE MAPS HIDING?</b></li>
 https://smarterforensics.com/2018/03/first-the-grinch-and-now-the-easter-bunny-where-is-apple-maps-hiding/
+<li><b>…WON’T YOU BACK THAT THING UP: A GLIMPSE OF IOS 13 ARTIFACTS</b></li>
+https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-ios-13-artifacts/
 <li><b>Find Me If You Can: Mobile GPS Mapping Applications Forensic Analysis & SNAVP the Open Source, Modular, Extensible Parser Analysis & SNAVP the Open Source, Modular, Extensible Parser</b></li>
 https://commons.erau.edu/cgi/viewcontent.cgi?article=1414&context=jdfsl
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
@@ -351,13 +353,18 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <li>
 <b>/mobile/Containers/Data/Application/"Apple Maps GUID"/Library/Preferences/com.apple.Maps.plist</b>
 <ul>
-<li><b></b></li>
-</ul>
-</li>
-<li>
-<b>/mobile/Containers/Data/Application/"Apple Maps GUID"/Library/SyncedPreferences/com.apple.Maps-com.apple.Maps.recents.plist</b>
-<ul>
-<li><b></b></li>
+<li><b>HOW THE GRINCH STOLE APPLE MAPS ARTIFACTS… OR DID HE JUST HIDE THEM?</b></li>
+https://smarterforensics.com/2016/12/how-the-grinch-stole-apple-maps-artifacts-or-did-he-just-hide-them/
+<li><b>FIRST THE GRINCH AND NOW THE EASTER BUNNY! WHERE IS APPLE MAPS HIDING?</b></li>
+https://smarterforensics.com/2018/03/first-the-grinch-and-now-the-easter-bunny-where-is-apple-maps-hiding/
+<li><b>…WON’T YOU BACK THAT THING UP: A GLIMPSE OF IOS 13 ARTIFACTS</b></li>
+https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-ios-13-artifacts/
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 </ul>
 </li>
 <li>
