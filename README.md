@@ -183,6 +183,14 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeWifi.py
 </ul>
 </li>
 <li>
+<b>/db/dhcpd_leases*</b>
+<ul>
+<li><b>iLEAPP DHCP Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/dhcphp.py
+<li>
+</ul>
+</li>
+<li>
 <b>/db/dhcpclient/</b>
 <ul>
 <li><b>MAC Apt Networking Plugin</b></li>
@@ -193,6 +201,8 @@ https://ciofecaforensics.com/2020/10/30/cellebrite-ctf-juan/
 https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iLEAPP DHCP Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/dhcpl.py
 </ul>
 </li>
 <li>
@@ -296,6 +306,8 @@ https://www.doubleblak.com/m/blogPosts.php?id=13
 <ul>
 <li><b>iOS 14 - First Thoughts and Analysis</b></li>
 https://blog.d204n6.com/2020/09/ios-14-first-thoughts-and-analysis.html
+<li><b>iLEAPP Recent Web Searches Safari Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariRecentWebSearches.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
@@ -450,6 +462,8 @@ https://cts-forensics.com/reports/22-5551_Web.pdf
 https://github.com/kacos2000/Queries/blob/master/AddressBook_sqlite.sql
 <li><b>iPhone Artifacts - Champlain College</b></li>
 https://www.champlain.edu/Documents/LCDI/iPhone%20Artifacts.pdf
+<li><b>iLEAPP Address Book Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/addressBook.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
@@ -712,6 +726,8 @@ https://cts-forensics.com/reports/22-5551_Web.pdf
 https://www.stark4n6.com/2022/06/magnet-user-summit-2022-ctf-iphone.html
 <li><b>Calendar.sqlitedb query</b></li>
 https://github.com/kacos2000/queries/blob/master/calendar_sqlitedb.sql
+<li><b>iLEAPP Calendar Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/calendarAll.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
@@ -753,6 +769,8 @@ https://cts-forensics.com/reports/22-5551_Web.pdf
 https://github.com/kacos2000/queries/blob/master/callhistory_storedata.sql
 <li><b>APOLLO CallHistory Module</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/call_history.txt 
+<li><b>iLEAPP CallHistory Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/callHistory.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1105,6 +1123,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://for585.com/sysdiagnose
 <li><b>iOS Sysdiagnose AppConduit script</b></li>
 https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts/blob/master/sysdiagnose-appconduit.py
+<li><b>iLEAPP AppConduit Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/appConduit.py
 </ul>
 </li>
 <li>
@@ -1119,6 +1139,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
 <li><b>Apple TV Forensics 03: Analysis</b></li>
 https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
+<li><b>iLEAPP Mobile Activation Logs Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mobileActivationLogs.py
 </ul>
 </li>
 <li>
@@ -1526,6 +1548,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/mobile/Library/Safari/Bookmarks.db</b>
 <ul>
+<li><b>iLEAPP Safari Bookmarks Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariBookmarks.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1535,6 +1559,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/Safari/BrowserState.db</b>
 <ul>
+<li><b>iLEAPP Safari Tabs Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariTabs.py
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1542,6 +1568,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/Safari/CloudTabs.db</b>
 <ul>
+<li><b>iLEAPP Safari Tabs Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariTabs.py
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1549,6 +1577,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/Safari/History.db</b>
 <ul>
+<li><b>iLEAPP Safari History Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariHistory.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1576,6 +1606,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/SMS/Drafts/</b>
 <ul>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/draftmessage.py
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1589,6 +1620,8 @@ https://cts-forensics.com/reports/38551_Web.pdf
 https://cts-forensics.com/reports/19-5551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>iLEAPP SMS Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/sms.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1664,7 +1697,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/queryPredictions
 <li>
 <b>/mobile/Library/TCC/TCC.db</b>
 <ul>
-<li><b>
+<li><b>iLEAPP TCC Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/tcc.py
 </ul>
 </li>
 <li>
@@ -1763,6 +1797,8 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <li>
 <b>/mobile/Media/PhotoData/Photos.sqlite</b>
 <ul>
+<li><b>iLEAPP Photos Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/photosMetadata.py
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1807,6 +1843,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/restoreLog.py
 http://www.mac4n6.com/blog/2019/1/6/network-and-application-usage-using-netusagesqlite-amp-datausagesqlite-ios-databases
 <li><b>iOS - Tracking Traces of Deleted Applications</b></li>
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>iLEAPP Net Usage Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
 </ul>
 </li>
 </ul>
@@ -2088,6 +2126,8 @@ https://for585.com/sysdiagnose
 https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
 <li><b>Apple TV Forensics 03: Analysis</b></li>
 https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
+<li><b>iLEAPP Mobile Container Manager Logs Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mobileContainerManager.py
 </ul>
 </li>
 <li>
@@ -2154,11 +2194,6 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 http://www.mac4n6.com/blog/2019/1/6/network-and-application-usage-using-netusagesqlite-amp-datausagesqlite-ios-databases
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
-<li><b>APOLLO DataUsage Modules</b></li>
-https://github.com/mac4n6/APOLLO/blob/master/modules/datausage_zliveusage.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/netusage_zprocess.txt
-<li><b>iLEAPP DataUsage Plugin</b></li>
-https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
 <li><b>iOS - Tracking Traces of Deleted Applications</b></li>
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
@@ -2169,6 +2204,11 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>APOLLO DataUsage Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/datausage_zliveusage.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/netusage_zprocess.txt
+<li><b>iLEAPP DataUsage Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -2188,6 +2228,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <ul>
 <li><b>Mo’ SIMs, Mo’ Problems. Examining Phones with Dual SIMs.</b></li>
 https://thebinaryhick.blog/2022/12/06/mo-sims-mo-problems-examining-phones-with-dual-sims/
+<li><b>iLEAPP SimInfo Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/simInfo.py  
 </ul>
 </li>
 <li>
