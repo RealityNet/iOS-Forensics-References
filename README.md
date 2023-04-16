@@ -1977,9 +1977,6 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </li>
 <li>
 <b>/preferences/SystemConfiguration/preferences.plist</b>
-<ul>
-<li><b>
-</ul>
 </li>
 </ul>
 </div>
