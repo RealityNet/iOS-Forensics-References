@@ -1928,7 +1928,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/MobileSoftwareUpdate/restore.log</b>
 <ul>
-<li><b>Restore Log - Tracking iOS Update History
+<li><b>Restore Log - Tracking iOS Update History</b></li>
 https://www.stark4n6.com/2021/10/restore-log-tracking-ios-update-history.html
 <li><b>Cellebrite CTF 2021 Writeup</b></li>
 https://medium.com/@williamskosasi/cellebrite-ctf-2021-writeup-b73d821a708
