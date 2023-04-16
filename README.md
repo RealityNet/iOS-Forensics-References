@@ -695,6 +695,8 @@ https://cellebrite.com/en/episode-15-ibeg-to-dfir-location-data-on-ios-and-andro
 https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/
 <li><b>UAV Forensics: DJI Mini 2 Case Study</b></li>
 https://www.researchgate.net/publication/352058134_UAV_Forensics_DJI_Mini_2_Case_Study
+<li><b>Magnet User Summit 2022 CTF - iPhone</b></li>
+https://www.stark4n6.com/2022/06/magnet-user-summit-2022-ctf-iphone.html
 <li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
 https://www.youtube.com/watch?v=eU7THDwFkiM
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
@@ -922,6 +924,8 @@ https://blog.d204n6.com/2022/09/ios-16-now-you-c-it-now-you-dont.html
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>Magnet User Summit 2022 CTF - iPhone</b></li>
+https://www.stark4n6.com/2022/06/magnet-user-summit-2022-ctf-iphone.html
 <li><b>KwnoledgeC queries</b></li>
 https://github.com/ScottKjr3347/iOS_KnowledgeC.db_Queries
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
@@ -1668,6 +1672,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 https://dfir.pubpub.org/pub/33vkc2ul/release/1
 <li><b>KnowledgeC (and Friends)</b></li>
 http://www.doubleblak.com/m/blogPosts.php?id=2
+<li><b>Magnet User Summit 2022 CTF - iPhone</b></li>
+https://www.stark4n6.com/2022/06/magnet-user-summit-2022-ctf-iphone.html
 <li><b>APOLLO Safari History Module</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/iconsScreen.py
 <li><b>iLEAPP Safari History Plugin</b></li>
@@ -2349,6 +2355,3 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </li>
 </ul>
 </div>
-  
-Passes
-cloudthumbnails.db
