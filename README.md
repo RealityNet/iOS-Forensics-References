@@ -1961,6 +1961,8 @@ http://www.mac4n6.com/blog/2019/1/6/network-and-application-usage-using-netusage
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
 <li><b>iLEAPP Net Usage Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
+<li><b>APOLLO Netusage Module</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/netusage_zprocess.txt
 </ul>
 </li>
 </ul>
@@ -2310,7 +2312,6 @@ https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acqui
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 <li><b>APOLLO DataUsage Modules</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/datausage_zliveusage.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/netusage_zprocess.txt
 <li><b>iLEAPP DataUsage Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
 <li><b>iOS Forensics for Investigators</b></li>
