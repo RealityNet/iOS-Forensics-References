@@ -1586,6 +1586,10 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/mobile/Library/Safari/Bookmarks.db</b>
 <ul>
+<li><b>iOS 14 - First Thoughts and Analysis</b></li>
+https://blog.d204n6.com/2020/09/ios-14-first-thoughts-and-analysis.html
+<li><b>Getting Started with iOS Forensics</b></li>
+https://www.systoolsgroup.com/forensics/sqlite/ios.html
 <li><b>iLEAPP Safari Bookmarks Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariBookmarks.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
@@ -1597,6 +1601,10 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/Safari/BrowserState.db</b>
 <ul>
+<li><b>Examining mobile devices: identiffying private internet browking activity in Mobile Safari</b></li>
+https://www.opentext.com/file_source/OpenText/en_US/PDF/Examining-mobiledevices-&-private-internet-browsing-activity-whitepaper-en.pdf
+<li><b>iOS 14 - First Thoughts and Analysis</b></li>
+https://blog.d204n6.com/2020/09/ios-14-first-thoughts-and-analysis.html
 <li><b>iLEAPP Safari Tabs Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariTabs.py
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1615,6 +1623,12 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/Safari/History.db</b>
 <ul>
+<li><b>Missing SQLite Records Analysis</b></li>
+https://dfir.pubpub.org/pub/33vkc2ul/release/1
+<li><b>KnowledgeC (and Friends)</b></li>
+http://www.doubleblak.com/m/blogPosts.php?id=2
+<li><b>APOLLO Safari History Module</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/iconsScreen.py
 <li><b>iLEAPP Safari History Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariHistory.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
