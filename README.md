@@ -465,6 +465,8 @@ https://researchonline.gcu.ac.uk/ws/portalfiles/portal/24600592/K.Ovens_PID43259
 https://smarterforensics.com/2019/09/ios-13-summary-for-those-of-you-who-enjoy-the-cliffsnotes/
 <li><b>AddressBookImages.sqlitedb query</b></li>
 https://github.com/kacos2000/Queries/blob/master/AddressBookImages_sqlite.sql
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
@@ -878,7 +880,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsDue
 <li>
 <b>/mobile/Library/FrontBoard/applicationState.db</b>
 <ul>
-<li><b>
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
@@ -1431,6 +1434,18 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/SMS/sms.db</b>
 <ul>
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+https://cts-forensics.com/reports/38551_Web.pdf
+<li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/19-5551_Web.pdf
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1478,7 +1493,7 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 </ul>
 </li>
 <li>
-<b>/mobile/SpringBoard/LockBackgroundThumbnaildark.jpg</b>
+<b>/mobile/Library/SpringBoard/LockBackgroundThumbnaildark.jpg</b>
 </li>
 <ul>
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
@@ -1543,6 +1558,15 @@ https://www.linkedin.com/pulse/ios-voicemail-transcripts-charlie-rubisoff/
 http://cheeky4n6monkey.blogspot.com/2013/01/dude-wheres-my-banana-retrieving-data.html
 <li><b>Dude, Where's My Data?</b></li>
 http://az4n6.blogspot.com/2012/12/dude-wheres-my-data.html
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+https://cts-forensics.com/reports/38551_Web.pdf
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
+
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
@@ -1689,7 +1713,16 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/preferences/SystemConfiguration/com.apple.wifi.plist</b>
 <ul>
-<li><b>
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+https://cts-forensics.com/reports/38551_Web.pdf
+<li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/19-5551_Web.pdf
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
 </ul>
 </li>
 <li>
