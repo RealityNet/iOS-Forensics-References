@@ -6,7 +6,7 @@
 <div>
 <ul>
 <li>
-<b>/containers/Shared/SystemGroup/<<GUID>>/Library/BatteryLife/CurrentPowerLog.PLSQL</b>
+<b>/containers/Shared/SystemGroup/"GUID"/Library/BatteryLife/CurrentPowerLog.PLSQL</b>
 <ul>
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
