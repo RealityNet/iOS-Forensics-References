@@ -205,7 +205,6 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeWifi.py
 <ul>
 <li><b>iLEAPP DHCP Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/dhcphp.py
-<li>
 </ul>
 </li>
 <li>
