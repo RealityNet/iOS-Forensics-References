@@ -89,7 +89,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
-<b>/containers/Shared/SystemGroup/<GUID>/Library/Database/com.apple.MobileBluetooth.ledevices.other.db</b>
+<b>/containers/Shared/SystemGroup/"GUID"/Library/Database/com.apple.MobileBluetooth.ledevices.other.db</b>
 <ul>
 <li><b>Bluetooth – iOS</b></li>
 https://bitsplease4n6.wordpress.com/2020/12/17/bluetooth-ios/
@@ -102,7 +102,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
-<b>/containers/Shared/SystemGroup/<GUID>/Library/Database/com.apple.MobileBluetooth.ledevices.paired.db</b>
+<b>/containers/Shared/SystemGroup/"GUID"/Library/Database/com.apple.MobileBluetooth.ledevices.paired.db</b>
 <ul>
 <li><b>Bluetooth – iOS</b></li>
 https://bitsplease4n6.wordpress.com/2020/12/17/bluetooth-ios/
@@ -117,7 +117,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
-<b>/containers/Shared/SystemGroup/<GUID>/Library/Preferences/com.apple.MobileBluetooth.devices.plist</b>
+<b>/containers/Shared/SystemGroup/"GUID"/Library/Preferences/com.apple.MobileBluetooth.devices.plist</b>
 <ul>
 <li><b>Bluetooth – iOS</b></li>
 https://bitsplease4n6.wordpress.com/2020/12/17/bluetooth-ios/
@@ -258,7 +258,7 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 <div>
 <ul>
 <li>
-<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Caches/com.apple.mobilesafari/</b>
+<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Caches/com.apple.mobilesafari/</b>
 <ul>
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
@@ -278,55 +278,55 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Favicons/Favicons/</b>
+<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Favicons/Favicons/</b>
 <ul>
 <li><b></b></li>
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Preferences/com.apple.mobilesafari.plist</b>
+<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Preferences/com.apple.mobilesafari.plist</b>
 <ul>
 <li><b></b></li>
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Safari/Downloads/Downloads.plist</b>
+<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Safari/Downloads/Downloads.plist</b>
 <ul>
 <li><b></b></li>
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Safari/Thumbnails/</b>
+<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Safari/Thumbnails/</b>
 <ul>
 <li><b></b></li>
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/WebKit/WebsiteData/LocalStorage/</b>
+<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/WebKit/WebsiteData/LocalStorage/</b>
 <ul>
 <li><b></b></li>
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Data/Application/<Apple_Maps_GUID>/Library/Maps/GeoHistory.mapsdata</b>
+<b>/mobile/Containers/Data/Application/"Apple Maps GUID"/Library/Maps/GeoHistory.mapsdata</b>
 <ul>
 <li><b></b></li>
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Data/Application/<Apple_Maps_GUID>/Library/Preferences/com.apple.Maps.plist</b>
+<b>/mobile/Containers/Data/Application/"Apple Maps GUID"/Library/Preferences/com.apple.Maps.plist</b>
 <ul>
 <li><b></b></li>
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Data/Application/<Apple_Maps_GUID>/Library/SyncedPreferences/com.apple.Maps-com.apple.Maps.recents.plist</b>
+<b>/mobile/Containers/Data/Application/"Apple Maps GUID"/Library/SyncedPreferences/com.apple.Maps-com.apple.Maps.recents.plist</b>
 <ul>
 <li><b></b></li>
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Shared/AppGroup/<Apple_Maps_GUID>/Maps/MapsSync_0.0.1</b>
+<b>/mobile/Containers/Shared/AppGroup/"Apple Maps GUID"/Maps/MapsSync_0.0.1</b>
 <ul>
 <li><b>iOS14 Maps History BLOB Script</b></li>
 http://cheeky4n6monkey.blogspot.com/2020/11/ios14-maps-history-blob-script.html
