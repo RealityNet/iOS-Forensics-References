@@ -282,6 +282,30 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 </li>
 </ul>
 </div>
+<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/logs/" folder</span></b></h2></p>
+<div>
+<ul>
+<li>
+<b>/logs/lockdownd.log</b>
+<ul>
+<li><b>So Long Lockdown!</b></li>
+http://www.doubleblak.com/m/blogPosts.php?id=9
+<li><b>KnowledgeC (and Friends)</b></li>
+http://www.doubleblak.com/m/blogPosts.php?id=2
+<li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+</ul>
+</li>
+<li>
+<b>/logs/usermanagerd.log.*</b>
+</li>
+<li>
+<b>/logs/wifimanager.log</b>
+</li>
+</ul>
+</div>
 <p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/mobile/Containers/" folder</span></b></h2></p>
 <div>
 <ul>
@@ -2281,6 +2305,5 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </div>
   
-/private/var/logs/lockdownd.log
 Passes
 cloudthumbnails.db
