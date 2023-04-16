@@ -663,7 +663,7 @@ https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-an
 <b>/mobile/Library/Caches/com.apple.Pasteboard/*</b>
 </li>
 <li>
-/mobile/Library/Caches/com.apple.findmy.fmipcore/
+<b>/mobile/Library/Caches/com.apple.findmy.fmipcore/</b>
 <ul>
 <li><b>Stored AirTag (and Other) Aritfacts</b></li>
 https://blog.d204n6.com/2022/04/airtag-youre-it.html
