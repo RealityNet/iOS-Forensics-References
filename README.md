@@ -2,6 +2,24 @@
 
 <p>Last update: April 14th 2023</p>
 <p><h1>DATA Partition (/private/var)</p></h1>
+<p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/.fseventsd/" folder</span></b></h2></p>
+<div>
+<ul>
+<li>
+<b>/.fseventsd</b>
+<ul>
+<li><b>Understanding MacOS File System Events with FSEventsParser</b></li>
+http://www.osdfcon.org/presentations/2017/Ibrahim-Understanding-MacOS-File-Ststem-Events-with-FSEvents-Parser.pdf
+<li><b>Mac OS X and iOS Forensics - Looking into the past with FSEvents</b></li>
+https://papers.put.as/papers/macosx/2017/summit_archive_1498158287.pdf
+<li><b>FSEvents Parser</b></li>
+https://github.com/dlcowen/FSEventsParser
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
+</ul>
+</li>
+</ul>
+</div>
 <p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/containers/" folder</span></b></h2></p>
 <div>
 <ul>
