@@ -1625,7 +1625,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/mobile/Library/Recents/Recents</b>
 <ul>
-<li><b>
+<li><b>Recents query</b></li>
+https://github.com/kacos2000/queries/blob/master/recents.sql
 </ul>
 </li>
 <li>
