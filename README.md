@@ -113,6 +113,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 https://bitsplease4n6.wordpress.com/2020/12/17/bluetooth-ios/
 <li><b>How to Use iOS Bluetooth Connections to Solve Crimes Faster</b></li>
 https://dfir.pubpub.org/pub/frknihlg/release/1
+<li><b>How to Use iOS Bluetooth Connections to Solve Crimes Faster</b></li>
+https://cellebrite.com/en/how-to-use-ios-bluetooth-connections-to-solve-crimes-faster/
 <li><b>iLEAPP Bluetooth Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/bluetooth.py
 <li><b>iOS Forensics for Investigators</b></li>
@@ -126,6 +128,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 https://bitsplease4n6.wordpress.com/2020/12/17/bluetooth-ios/
 <li><b>How to Use iOS Bluetooth Connections to Solve Crimes Faster</b></li>
 https://dfir.pubpub.org/pub/frknihlg/release/1
+<li><b>How to Use iOS Bluetooth Connections to Solve Crimes Faster</b></li>
+https://cellebrite.com/en/how-to-use-ios-bluetooth-connections-to-solve-crimes-faster/
 <li><b>iLEAPP Bluetooth Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/bluetooth.py
 <li><b>EXTRACTING FORENSIC ARTIFACTS FROM APPLE CONTINUITY</b></li>
@@ -141,6 +145,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 https://bitsplease4n6.wordpress.com/2020/12/17/bluetooth-ios/
 <li><b>How to Use iOS Bluetooth Connections to Solve Crimes Faster</b></li>
 https://dfir.pubpub.org/pub/frknihlg/release/1
+<li><b>How to Use iOS Bluetooth Connections to Solve Crimes Faster</b></li>
+https://cellebrite.com/en/how-to-use-ios-bluetooth-connections-to-solve-crimes-faster/
 <li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
 https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
 <li><b>Cellebrite CTF 2020: Juan Mortyme</b></li>
@@ -427,6 +433,8 @@ https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-an
 <li>
 <b>/mobile/Containers/Shared/AppGroup/"Apple Maps GUID"/Maps/MapsSync_0.0.1</b>
 <ul>
+<li><b>What Apple Maps Activity Can be Found Using a Logical Extraction</b></li>
+https://lordtemplar1.wordpress.com/2022/05/08/what-apple-maps-activity-can-be-found-using-a-logical-extraction/
 <li><b>iOS14 Maps History BLOB Script</b></li>
 http://cheeky4n6monkey.blogspot.com/2020/11/ios14-maps-history-blob-script.html
 https://github.com/cheeky4n6monkey/4n6-scripts/blob/master/iOS/ios14_maps_history.py
@@ -571,6 +579,10 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://github.com/Evian-Zhang/ScreenTimeController/blob/master/README.md
 <li><b>MAC Apt SceenTime Plugin</b></li>
 https://github.com/ydkhatri/mac_apt/blob/master/plugins/screentime.py
+<li><b>Data Quality and Quantity – How to Get the Best of Both Worlds, Part 2 – Examining Screen Time Artifacts</b></li>
+https://cellebrite.com/en/data-quality-and-quantity-how-to-get-the-best-of-both-worlds-part-2-examining-screen-time-artifacts/
+<li><b>A Look Into Apple’s Screen Time Feature and What Insights It Lends To Digital Intelligence</b></li>
+https://cellebrite.com/en/a-look-into-apples-screen-time-feature-and-what-insights-it-lends-to-digital-intelligence/
 <li><b>APOLLO ScreenTime Modules</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_timed_items.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_counted_items.txt
@@ -677,6 +689,8 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cache_zrvisitmo.tx
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>iOS Location Artifacts Explained</b></li>
 https://cellebrite.com/en/ios-location-artifacts-explained/
+<li><b>Location Data on iOS and Android Devices</b></li>
+https://cellebrite.com/en/episode-15-ibeg-to-dfir-location-data-on-ios-and-android-devices/
 <li><b>Apple Probably Knows What You Did Last Summer</b></li>
 https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/
 <li><b>UAV Forensics: DJI Mini 2 Case Study</b></li>
@@ -687,6 +701,8 @@ https://www.youtube.com/watch?v=eU7THDwFkiM
 https://for585.com/dfirsummit22
 <li><b>iPhone Device Speeds via Cache.sqlite > ZRTCLLOCATIONMO table</b></li>
 https://theforensicscooter.com/2021/09/22/iphone-device-speeds-in-cache-sqlite-zrtcllocationmo/
+<li><b>Vehicle and iPhone Speed Comparison</b></li>
+https://theforensicscooter.com/2022/07/01/vehicle-and-iphone-speed-comparison/
 <li><b>Cache.sqlite query</b></li>
 https://github.com/ScottKjr3347/iOS_Cache.sqlite_Queries
 <li><b>iOS Forensics for Investigators</b></li>
@@ -716,6 +732,8 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_mapitem.txt
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>iOS Location Artifacts Explained</b></li>
 https://cellebrite.com/en/ios-location-artifacts-explained/
+<li><b>Location Data on iOS and Android Devices</b></li>
+https://cellebrite.com/en/episode-15-ibeg-to-dfir-location-data-on-ios-and-android-devices/
 <li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
 https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
 <li><b>Apple Probably Knows What You Did Last Summer</b></li>
@@ -749,6 +767,8 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_vehicle_park
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>iOS Location Artifacts Explained</b></li>
 https://cellebrite.com/en/ios-location-artifacts-explained/
+<li><b>Location Data on iOS and Android Devices</b></li>
+https://cellebrite.com/en/episode-15-ibeg-to-dfir-location-data-on-ios-and-android-devices/
 <li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
 https://www.youtube.com/watch?v=eU7THDwFkiM
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
@@ -1081,6 +1101,8 @@ https://abrignoni.blogspot.com/2018/12/identifying-installed-and-uninstalled.htm
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
 <li><b>iOS Application Groups & Shared data</b></li>
 http://www.swiftforensics.com/2021/01/ios-application-groups-shared-data.html
+<li><b>iOS - Tracking Bundle IDs for Containers, Shared Containers, and Plugins</b></li>
+https://blog.d204n6.com/2020/09/ios-tracking-bundle-ids-for-containers.html
 <li><b>iOS – Tracking Bundle IDs for Containers, Shared Containers, and Plugins</b></li>
 https://www.magnetforensics.com/blog/ios-tracking-bundle-ids-for-containers-shared-containers-and-plugins/
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
@@ -1117,6 +1139,10 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>Audio and App Usage in Apple Health</b></li>
+https://www.stark4n6.com/2022/08/audio-and-app-usage-in-apple-health.html
+<li><b>Enriching Investigations with Apple Watch Data Through the healthdb_secure.sqlite Database</b></li>
+https://dfir.pubpub.org/pub/xqvcn3hj/release/1
 <li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
 https://www.youtube.com/watch?v=eU7THDwFkiM
 </ul>
@@ -1192,6 +1218,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mobileActivation
 <li>
 <b>/mobile/Library/Mail/</b>
 <ul>
+<li><b>iOS Mail</b></li>
+https://www.doubleblak.com/m/blogPosts.php?id=10
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1401,6 +1429,8 @@ https://cts-forensics.com/reports/38551_Web.pdf
 <li>
 <b>/mobile/Library/Preferences/com.apple.identityservices.idstatuscache.plist</b>
 <ul>
+<li><b>How iOS Properties Files Can Confirm a Suspect’s Contacts Even If Deleted</b></li>
+https://cellebrite.com/en/how-ios-properties-files-can-confirm-a-suspects-contacts-even-if-data-deleted/
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li><b>Making the most of Property Lists</b></li>
@@ -1677,6 +1707,12 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/SMS/sms.db</b>
 <ul>
+<li><b>iOS16 iMessages</b></li>
+https://doubleblak.com/blogPosts.php?id=27
+<li><b>iOS 16 - "Paul unsent a message." ... OR DID HE?!</b></li>
+https://blog.d204n6.com/2022/09/ios-16-paul-unsent-message-or-did-he.html
+<li><b>Message Reactions</b></li>
+https://doubleblak.com/blogPosts.php?id=24
 <li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
 https://cts-forensics.com/reports/38551_Web.pdf
 <li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
