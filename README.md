@@ -611,16 +611,18 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cache_zrvisitmo.tx
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>iOS Location Artifacts Explained</b></li>
 https://cellebrite.com/en/ios-location-artifacts-explained/
+<li><b>Apple Probably Knows What You Did Last Summer</b></li>
+https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/
+<li><b>UAV Forensics: DJI Mini 2 Case Study</b></li>
+https://www.researchgate.net/publication/352058134_UAV_Forensics_DJI_Mini_2_Case_Study
+<li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
+https://www.youtube.com/watch?v=eU7THDwFkiM
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
 https://for585.com/dfirsummit22
 <li><b>iPhone Device Speeds via Cache.sqlite > ZRTCLLOCATIONMO table</b></li>
 https://theforensicscooter.com/2021/09/22/iphone-device-speeds-in-cache-sqlite-zrtcllocationmo/
 <li><b>Cache.sqlite query</b></li>
 https://github.com/ScottKjr3347/iOS_Cache.sqlite_Queries
-<li><b>Apple Probably Knows What You Did Last Summer</b></li>
-https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/
-<li><b>UAV Forensics: DJI Mini 2 Case Study</b></li>
-https://www.researchgate.net/publication/352058134_UAV_Forensics_DJI_Mini_2_Case_Study
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -648,14 +650,16 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_mapitem.txt
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>iOS Location Artifacts Explained</b></li>
 https://cellebrite.com/en/ios-location-artifacts-explained/
-<li><b>SANS 2022 DFIR Summit Queries</b></li>
-https://for585.com/dfirsummit22
 <li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
 https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
 <li><b>Apple Probably Knows What You Did Last Summer</b></li>
 https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
+https://www.youtube.com/watch?v=eU7THDwFkiM
+<li><b>SANS 2022 DFIR Summit Queries</b></li>
+https://for585.com/dfirsummit22
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -679,6 +683,8 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_vehicle_park
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>iOS Location Artifacts Explained</b></li>
 https://cellebrite.com/en/ios-location-artifacts-explained/
+<li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
+https://www.youtube.com/watch?v=eU7THDwFkiM
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
 https://for585.com/dfirsummit22
 <li><b>Cellebrite CTF 2022 - Beth's iPhone</b></li>
@@ -810,6 +816,8 @@ https://theforensicscooter.com/2021/10/03/ios-knowledgec-db-notifications/
 https://smarterforensics.com/2020/08/does-photos-sqlite-have-relations-with-cameramessagesapp-by-scott-koenig/
 <li><b>KnowledgeC (and Friends)</b></li>
 http://www.doubleblak.com/m/blogPosts.php?id=2
+<li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
+https://www.youtube.com/watch?v=eU7THDwFkiM
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>KwnoledgeC queries</b></li>
