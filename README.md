@@ -131,7 +131,7 @@ https://ciofecaforensics.com/2020/10/30/cellebrite-ctf-juan/
 https://cts-forensics.com/reports/19-5551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
@@ -242,7 +242,7 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mobileInstall.py
 <li>
 <b>/installd/Library/Logs/MobileInstallation/LastBuildInfo.plist</b>
 <ul>
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
@@ -344,7 +344,7 @@ https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-io
 https://commons.erau.edu/cgi/viewcontent.cgi?article=1414&context=jdfsl
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -395,7 +395,7 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mapsSync.py
 https://cts-forensics.com/reports/19-5551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -442,7 +442,7 @@ https://cts-forensics.com/reports/38551_Web.pdf
 https://cts-forensics.com/reports/19-5551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -698,7 +698,7 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://cts-forensics.com/reports/38551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -739,7 +739,7 @@ https://cts-forensics.com/reports/38551_Web.pdf
 https://cts-forensics.com/reports/19-5551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -788,12 +788,117 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <ul>
 <li><b>Knowledge is Power! Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage</b></li>
 http://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage
+<li><b>Knowledge is Power II – A Day in the Life of My iPhone using knowledgeC.db</b></li>
+https://www.mac4n6.com/blog/2018/9/12/knowledge-is-power-ii-a-day-in-the-life-of-my-iphone-using-knowledgecdb
+<li><b>Extensive knowledgeC APOLLO Updates!</b></li>
+https://www.mac4n6.com/blog/2020/6/17/extensive-knowledgec-apollo-updates
+<li><b>Socially Distant but Still Interacting! New and Improved Updates to macOS/iOS CoreDuet interactionC.db APOLLO Modules</b></li>
+https://www.mac4n6.com/blog/2020/6/21/socially-distant-but-still-interacting-new-and-improved-updates-to-macosios-coreduet-interactioncdb-apollo-modules
+<li><b>Providing Context to iOS App Usage with knowledgeC.db and APOLLO</b></li>
+https://www.mac4n6.com/blog/2020/1/13/apollo-into-the-details-with-application-activities
+<li><b>On the Third Day of APOLLO, My True Love Gave to Me – Application Usage to Determine Who Has Been Naughty or Nice</b></li>
+https://www.mac4n6.com/blog/2018/12/16/on-the-third-day-of-apollo-my-true-love-gave-to-me-application-usage-to-determine-who-has-been-naughty-or-nice
+<li><b>On the Fourth Day of APOLLO, My True Love Gave to Me – Media Analysis to Prove You Listened to “All I Want for Christmas is You” Over and Over Since Before Thanksgiving</b></li>
+https://www.mac4n6.com/blog/2018/12/17/on-the-fourth-day-of-apollo-my-true-love-gave-to-me-media-analysis-to-prove-you-listened-to-all-i-want-for-christmas-is-you-over-and-over-since-before-thanksgiving
+<li><b>On the Sixth Day of APOLLO, My True Love Gave to Me – Blinky Things with Buttons – Device Status Analysis</b></li>
+https://www.mac4n6.com/blog/2018/12/19/on-the-sixth-day-of-apollo-my-true-love-gave-to-me-blinky-things-with-buttons-device-status-analysis
+<li><b>On the Eighth Day of APOLLO, My True Love Gave to Me – A Glorious Lightshow – Analysis of Device Connections</b></li>
+http://www.mac4n6.com/blog/2018/12/21/on-the-eighth-day-of-apollo-my-true-love-gave-to-me-a-glorious-lightshow-analysis-of-device-connections
 <li><b>iOS KnowledgeC.db Notifications</b></li>
 https://theforensicscooter.com/2021/10/03/ios-knowledgec-db-notifications/
 <li><b>USING PHOTOS.SQLITE TO SHOW THE RELATIONSHIPS BETWEEN PHOTOS AND THE APPLICATION THEY WERE CREATED WITH? BY SCOTT KOENIG</b></li>
 https://smarterforensics.com/2020/08/does-photos-sqlite-have-relations-with-cameramessagesapp-by-scott-koenig/
+<li><b>KnowledgeC (and Friends)</b></li>
+http://www.doubleblak.com/m/blogPosts.php?id=2
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>KwnoledgeC queries</b></li>
+https://github.com/ScottKjr3347/iOS_KnowledgeC.db_Queries
+<li><b>SANS 2022 DFIR Summit Queries</b></li>
+https://for585.com/dfirsummit22
+<li><b>APOLLO KnowledgeC Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_activity_level.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_activity_level_feedback.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_airplay_prediction.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity_calendar.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity_clock.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity_mail.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity_maps.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity_notes.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity_passbook.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity_photos.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity_safari.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_activity_weather.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_inFocus.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_install.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_intents.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_location_activity.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_media_usage.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_relevantshortcuts.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_usage.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_app_webusage.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_audio_bluetooth_connected.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_audio_input_route.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_audio_media_nowplaying.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_audio_output_route.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_calendar_event_title.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_charging_smart_topoff_checkpoint.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_dasd_activity_profile.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_dasd_battery_temperature.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_dasd_control_effort.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_battery_saver.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_batterylevel.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_carplay_connected.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_inferred_motion.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_is_backlit.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_keybag_locked.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_locked.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_locked_imputed.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_low_power_mode.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_orientation.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_pluggedin.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_device_watch_nearby.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_discoverability_signals.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_discoverability_usage.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_disk_subsystem_access.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_event_tombstone.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_family_prediction.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_inferred_microlocation_visit.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_knowledge_sync_addition_window.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_notification_usage.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_paired_device_nearby.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_photos_deletes_all.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_photos_deletes_recent.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_photos_edit_all.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_photos_engagement.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_photos_favorites_other.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_photos_share_airdrop.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_photos_share_all.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_photos_share_extension.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_portrait_entity.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_portrait_topic.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_safari_browsing.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_segment_monitor.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_settings_doNotDisturb.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_sharesheet_feedback.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_siri.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_siri_activites.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_siri_flow_activity.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_siri_service.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_spotlight_viewer_event.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_standby_timer.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_sync_addition_window.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_sync_deletion_bookmark.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_system_airplane_mode.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_system_tlc.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_system_userwakingevent.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_user_first_backlight_after_wakeup.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_user_interaction_app_directory.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_widget_refresh.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_widget_view.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_widgets_viewed.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/knowledge_wifi_connection.txt
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1013,7 +1118,7 @@ https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
 <li>
 <b>/mobile/Library/Preferences/.GlobalPreferences.plist</b>
 <ul>
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -1041,7 +1146,7 @@ https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acqui
 <li>
 <b>/mobile/Library/Preferences/com.apple.AppStore.plist</b>
 <ul>
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -1440,10 +1545,6 @@ https://cts-forensics.com/reports/38551_Web.pdf
 https://cts-forensics.com/reports/19-5551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
-https://cts-forensics.com/reports/21-5551_Web.pdf
-<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
-https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1562,7 +1663,7 @@ http://az4n6.blogspot.com/2012/12/dude-wheres-my-data.html
 https://cts-forensics.com/reports/38551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -1719,7 +1820,7 @@ https://cts-forensics.com/reports/38551_Web.pdf
 https://cts-forensics.com/reports/19-5551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -1745,7 +1846,7 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts/blob/master/sysdiagnose-networkinterfaces.py
 <li><b>Using Apple “Bug Reporting” for forensic purposes</b></li>
 https://for585.com/sysdiagnose
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
@@ -1771,7 +1872,7 @@ https://dfir.pubpub.org/pub/6i7d593n/release/1
 https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory-reset/
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
@@ -2063,7 +2164,7 @@ https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acqui
 https://infosecaddicts.com/artifacts-ios-device/
 <li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
 https://cts-forensics.com/reports/38551_Web.pdf
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
