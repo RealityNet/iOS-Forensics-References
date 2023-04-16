@@ -998,15 +998,31 @@ https://gforce4n6.blogspot.com/2022/05/peeking-at-user-notification-events-in.ht
 https://dfrws.org/presentation/dfir-review-showcase-peeking-at-user-notification-events-in-ios-15/
 <li><b>iOS 16 - "Paul unsent a message." ... OR DID HE?!</b></li>
 https://blog.d204n6.com/2022/09/ios-16-paul-unsent-message-or-did-he.html
-<li><b>iLEAPP User Notifications Plugins</b></li>
+<li><b>iLEAPP User Notifications Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsDuet.py
 </ul>
 </li>
 <li>
 <b>/mobile/Library/FrontBoard/applicationState.db</b>
 <ul>
+<li><b>Identifying installed and uninstalled apps in iOS</b></li>
+https://abrignoni.blogspot.com/2018/12/identifying-installed-and-uninstalled.html
+<li><b>iOS - Tracking Traces of Deleted Applications</b></li>
+https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>iOS Application Groups & Shared data</b></li>
+http://www.swiftforensics.com/2021/01/ios-application-groups-shared-data.html
+<li><b>iOS – Tracking Bundle IDs for Containers, Shared Containers, and Plugins</b></li>
+https://www.magnetforensics.com/blog/ios-tracking-bundle-ids-for-containers-shared-containers-and-plugins/
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Magnet Virtual Summit 2020 CTF (iOS)</b></li>
+https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-ios.html
+<li><b>iLEAPP Application State Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/applicationstate.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
