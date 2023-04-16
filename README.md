@@ -1028,7 +1028,10 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/Health/ActivitySharing/contacts.dat</b>
 <ul>
-<li><b>
+<li><b>#DFIRFIT or Bust - A forensic exploration of iOS Health Data</b></li>
+https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
+<li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
+https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
 </ul>
 </li>
 <li>
@@ -1040,7 +1043,12 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/Health/healthdb_secure.sqlite</b>
 <ul>
-<li><b>
+<li><b>#DFIRFIT or Bust - A forensic exploration of iOS Health Data</b></li>
+https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
+<li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
+https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
+https://www.youtube.com/watch?v=eU7THDwFkiM
 </ul>
 </li>
 <li>
