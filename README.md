@@ -1150,12 +1150,6 @@ https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-an
 </ul>
 </li>
 <li>
-<b>/mobile/Library/locationd/user.plist</b>
-<ul>
-<li><b>
-</ul>
-</li>
-<li>
 <b>/mobile/Library/Logs/AppConduit/</b>
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
