@@ -294,25 +294,37 @@ https://www.doubleblak.com/m/blogPosts.php?id=13
 <li>
 <b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Preferences/com.apple.mobilesafari.plist</b>
 <ul>
-<li><b></b></li>
+<li><b>iOS 14 - First Thoughts and Analysis</b></li>
+https://blog.d204n6.com/2020/09/ios-14-first-thoughts-and-analysis.html
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
 <b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Safari/Downloads/Downloads.plist</b>
 <ul>
-<li><b></b></li>
+<li><b>iOS / macOS - Tracking Downloads from Safari Without Downloads</b></li>
+https://blog.d204n6.com/2021/05/ios-macos-tracking-downloads-from.html
+Safari and iPhone Internet History Parser
+http://az4n6.blogspot.com/2014/07/safari-and-iphone-internet-history.html
 </ul>
 </li>
 <li>
 <b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Safari/Thumbnails/</b>
 <ul>
-<li><b></b></li>
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
 <b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/WebKit/WebsiteData/LocalStorage/</b>
 <ul>
-<li><b></b></li>
+<li><b>Mobile Cyber Forensic Investigations of Web3 Wallets on Android and iOS</b></li>
+https://www.mdpi.com/2076-3417/12/21/11180
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
 </ul>
 </li>
 <li>
@@ -905,6 +917,13 @@ https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
 <b>/mobile/Library/PersonalizationPortrait/PPSQLDatabase.db</b>
 <ul>
 <li><b>
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Preferences/.GlobalPrefences.plist</b>
+<ul>
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
 </ul>
 </li>
 <li>
