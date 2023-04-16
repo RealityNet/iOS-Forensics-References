@@ -422,6 +422,10 @@ https://www.systoolsgroup.com/forensics/sqlite/ios.html
 https://researchonline.gcu.ac.uk/ws/portalfiles/portal/24600592/K.Ovens_PID4325955.pdf
 <li><b>TIME IS NOT ON OUR SIDE WHEN IT COMES TO MESSAGES IN IOS 11</b></li>
 https://smarterforensics.com/2017/09/time-is-not-on-our-side-when-it-comes-to-messages-in-ios-11/
+<li><b>…WON’T YOU BACK THAT THING UP: A GLIMPSE OF IOS 13 ARTIFACTS</b></li>
+https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-ios-13-artifacts/
+<li><b>ROTTEN TO THE CORE? NAH, IOS14 IS MOSTLY SWEET</b></li>
+https://smarterforensics.com/2020/09/rotten-to-the-core-nah-ios14-is-mostly-sweet/
 <li><b>How To Identify When an IPhone or iPad was Factory Reset</b></li>
 https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory-reset/
 <li><b>A Digital Forensic Analysis on the iCloud® and its Synchronization to Apple® Devices</b></li>
@@ -638,8 +642,6 @@ https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 https://cellebrite.com/en/ios-location-artifacts-explained/
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
 https://for585.com/dfirsummit22
-<li><b>iOS Forensics for Investigators</b></li>
-https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
 https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
 <li><b>Apple Probably Knows What You Did Last Summer</b></li>
@@ -671,8 +673,6 @@ https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 https://cellebrite.com/en/ios-location-artifacts-explained/
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
 https://for585.com/dfirsummit22
-<li><b>iOS Forensics for Investigators</b></li>
-https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li><b>Cellebrite CTF 2022 - Beth's iPhone</b></li>
 https://www.stark4n6.com/2022/06/cellebrite-ctf-2022-beths-iphone.html
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
@@ -684,6 +684,42 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/CallHistoryDB/CallHistory.storedata</b>
 <ul>
+<li><b>Missing SQLite Records Analysis</b></li>
+https://dfir.pubpub.org/pub/33vkc2ul/release/1
+<li><b>A GLIMPSE OF IOS 10 FROM A SMARTPHONE FORENSIC PERSPECTIVE</b></li>
+https://smarterforensics.com/2016/09/a-glimpse-of-ios-10-from-a-smartphone-forensic-perspective/
+<li><b>TIME IS NOT ON OUR SIDE WHEN IT COMES TO MESSAGES IN IOS 11</b></li>
+https://smarterforensics.com/2017/09/time-is-not-on-our-side-when-it-comes-to-messages-in-ios-11/
+<li><b>…WON’T YOU BACK THAT THING UP: A GLIMPSE OF IOS 13 ARTIFACTS</b></li>
+https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-ios-13-artifacts/
+<li><b>IOS 13 – SUMMARY FOR THOSE OF YOU WHO ENJOY THE CLIFFSNOTES</b></li>
+https://smarterforensics.com/2019/09/ios-13-summary-for-those-of-you-who-enjoy-the-cliffsnotes/
+<li><b>ROTTEN TO THE CORE? NAH, IOS14 IS MOSTLY SWEET</b></li>
+https://smarterforensics.com/2020/09/rotten-to-the-core-nah-ios14-is-mostly-sweet/
+<li><b>How To Identify When an IPhone or iPad was Factory Reset</b></li>
+https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory-reset/
+<li><b>iOS 14 - First Thoughts and Analysis</b></li>
+https://blog.d204n6.com/2020/09/ios-14-first-thoughts-and-analysis.html
+<li><b>Cellebrite CTF 2022 - Marsha's iPhone</b></li>
+https://www.stark4n6.com/2022/06/cellebrite-ctf-2022-marshas-iphone.html
+<li><b>Mo’ SIMs, Mo’ Problems. Examining Phones with Dual SIMs.</b></li>
+https://thebinaryhick.blog/2022/12/06/mo-sims-mo-problems-examining-phones-with-dual-sims/
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+https://cts-forensics.com/reports/38551_Web.pdf
+<li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/19-5551_Web.pdf
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Mobile Digital Evidence - iOS Analysis Test No. 21-5551</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>CallHistory Query</b></li>
+https://github.com/kacos2000/queries/blob/master/callhistory_storedata.sql
+<li><b>APOLLO CallHistory Module</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/call_history.txt 
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -725,6 +761,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 http://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage
 <li><b>iOS KnowledgeC.db Notifications</b></li>
 https://theforensicscooter.com/2021/10/03/ios-knowledgec-db-notifications/
+<li><b>USING PHOTOS.SQLITE TO SHOW THE RELATIONSHIPS BETWEEN PHOTOS AND THE APPLICATION THEY WERE CREATED WITH? BY SCOTT KOENIG</b></li>
+https://smarterforensics.com/2020/08/does-photos-sqlite-have-relations-with-cameramessagesapp-by-scott-koenig/
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
