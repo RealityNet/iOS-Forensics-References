@@ -2096,15 +2096,6 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
-<b>/root/Library/Caches/locationd/significant.plist</b>
-</li>
-<li>
-<b>/root/Library/Caches/locationd/significantVisitAuth.plist</b>
-</li>
-<li>
-<b>/root/Library/Caches/locationd/significantVisitInterest.plist</b>
-</li>
-<li>
 <b>/root/Library/Lockdown/data_ark.plist</b>
 <ul>
 <li><b>Putting a User Behind an iOS Device</b></li>
