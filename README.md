@@ -14,8 +14,6 @@ http://www.osdfcon.org/presentations/2017/Ibrahim-Understanding-MacOS-File-Stste
 https://papers.put.as/papers/macosx/2017/summit_archive_1498158287.pdf
 <li><b>FSEvents Parser</b></li>
 https://github.com/dlcowen/FSEventsParser
-<li><b>iOS Forensics for Investigators</b></li>
-https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 </ul>
@@ -476,6 +474,8 @@ https://dfir.pubpub.org/pub/h6vyh33u/release/1
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/accs.py
 <li><b>Accounts3.sqlite query</b></li>
 https://github.com/kacos2000/Queries/blob/master/Accounts3_sqlite.sql
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -1705,6 +1705,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/SMS/Drafts/</b>
 <ul>
+<li><b>iLEAPP Draft SMS Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/draftmessage.py
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
@@ -1727,6 +1728,8 @@ https://cts-forensics.com/reports/19-5551_Web.pdf
 https://cts-forensics.com/reports/20-5551_Web.pdf
 <li><b>iLEAPP SMS Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/sms.py
+<li><b>The Meaning of Messages</b></li>
+https://www.magnetforensics.com/blog/the-meaning-of-messages/
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1888,6 +1891,13 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <b>/mobile/Media/PhotoData/AlbumsMetadata/</b>
 <ul>
 <li><b>
+</ul>
+</li>
+<li>
+<b>/mobile/Media/PhotoData/PhotoCloudSharingData/</b>
+<ul>
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
