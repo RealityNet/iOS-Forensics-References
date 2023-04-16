@@ -258,8 +258,12 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 <div>
 <ul>
 <li>
-<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Caches/com.apple.mobilesafari/</b>
+<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Caches/com.apple.mobilesafari/Cache.db</b>
 <ul>
+<li><b>Getting Started with iOS Forensics</b></li>
+https://www.systoolsgroup.com/forensics/sqlite/ios.html
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -267,20 +271,24 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Caches/com.apple.WebAppCache/ApplicationCache.db</b>
 <ul>
-<li><b></b></li>
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
 <b>/mobile/Containers/Data/Application/<Apple Safari GUID>/Library/Cookies/Cookies.binarycookies</b>
 <ul>
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
-<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/Favicons/Favicons/</b>
+<b>/mobile/Containers/Data/Application/"Apple Safari GUID"/Library/ImageCache/Favicons/Favicon.db</b>
 <ul>
-<li><b></b></li>
+<li><b>Favicons</b></li>
+https://www.doubleblak.com/m/blogPosts.php?id=13
 </ul>
 </li>
 <li>
