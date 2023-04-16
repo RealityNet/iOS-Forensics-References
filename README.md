@@ -1213,7 +1213,10 @@ https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
 <li>
 <b>/mobile/Library/PersonalizationPortrait/PPSQLDatabase.db</b>
 <ul>
-<li><b>
+<li><b>Guest Post by @bizzybarney! A Peek Inside the PPSQLDatabase.db Personalization Portrait Database</b></li>
+http://www.mac4n6.com/blog/2020/6/2/guest-post-by-bizzybarney-a-peek-inside-the-ppsqldatabasedb-personalization-portrait-database
+<li><b>Lucky (iOS) #13: Time to Press Your Bets w/ Jared Barnhart - SANS DFIR Summit 2020</b></li>
+https://www.youtube.com/watch?v=8Fy83iQ4f8Q
 </ul>
 </li>
 <li>
