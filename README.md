@@ -797,6 +797,7 @@ https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_
 </li>
 <li>
 <b>/mobile/Library/DuetExpertCenter/streams/userNotificationEvent/local</b>
+<ul>
 <li><b>Peeking at User Notification Events in iOS 15</b></li>
 https://gforce4n6.blogspot.com/2022/05/peeking-at-user-notification-events-in.html
 <li><b>Peeking at User Notification Events in iOS 15</b></li>
@@ -805,8 +806,6 @@ https://dfrws.org/presentation/dfir-review-showcase-peeking-at-user-notification
 https://blog.d204n6.com/2022/09/ios-16-paul-unsent-message-or-did-he.html
 <li><b>iLEAPP User Notifications Plugins</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsDuet.py
-<ul>
-<li><b>
 </ul>
 </li>
 <li>
