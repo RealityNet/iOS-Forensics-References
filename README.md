@@ -810,14 +810,26 @@ https://www.mac4n6.com/blog/2018/12/17/on-the-fourth-day-of-apollo-my-true-love-
 https://www.mac4n6.com/blog/2018/12/19/on-the-sixth-day-of-apollo-my-true-love-gave-to-me-blinky-things-with-buttons-device-status-analysis
 <li><b>On the Eighth Day of APOLLO, My True Love Gave to Me – A Glorious Lightshow – Analysis of Device Connections</b></li>
 http://www.mac4n6.com/blog/2018/12/21/on-the-eighth-day-of-apollo-my-true-love-gave-to-me-a-glorious-lightshow-analysis-of-device-connections
+<li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
+https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>Apple TV Forensics 03: Analysis</b></li>
+https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
 <li><b>iOS KnowledgeC.db Notifications</b></li>
 https://theforensicscooter.com/2021/10/03/ios-knowledgec-db-notifications/
+<li><b>iOS KnowledgeC.db Notifications</b></li>
+https://dfir.pubpub.org/pub/g2v1z97i/release/1
+<li><b>KnowledgeC: Now Playing entries</b></li>
+https://www.forensicmike1.com/2019/10/07/knowledgec-now-playing-entries/
 <li><b>USING PHOTOS.SQLITE TO SHOW THE RELATIONSHIPS BETWEEN PHOTOS AND THE APPLICATION THEY WERE CREATED WITH? BY SCOTT KOENIG</b></li>
 https://smarterforensics.com/2020/08/does-photos-sqlite-have-relations-with-cameramessagesapp-by-scott-koenig/
 <li><b>KnowledgeC (and Friends)</b></li>
 http://www.doubleblak.com/m/blogPosts.php?id=2
 <li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
 https://www.youtube.com/watch?v=eU7THDwFkiM
+<li><b>iOS 16 - Now You 'C' It, Now You Don't -- Breaking Down The Biomes Part 1</b></li>
+https://blog.d204n6.com/2022/09/ios-16-now-you-c-it-now-you-dont.html
+<li><b>iOS - Tracking Traces of Deleted Applications</b></li>
+https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>KwnoledgeC queries</b></li>
