@@ -305,7 +305,7 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <ul>
 <li><b>iOS / macOS - Tracking Downloads from Safari Without Downloads</b></li>
 https://blog.d204n6.com/2021/05/ios-macos-tracking-downloads-from.html
-Safari and iPhone Internet History Parser
+<li><b>Safari and iPhone Internet History Parser</b></li>
 http://az4n6.blogspot.com/2014/07/safari-and-iphone-internet-history.html
 </ul>
 </li>
