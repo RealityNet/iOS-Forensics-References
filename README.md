@@ -651,6 +651,17 @@ https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-an
 <b>/mobile/Library/Caches/com.apple.Pasteboard/*</b>
 </li>
 <li>
+/mobile/Library/Caches/com.apple.findmy.fmipcore/
+<ul>
+<li><b>Stored AirTag (and Other) Aritfacts</b></li>
+https://blog.d204n6.com/2022/04/airtag-youre-it.html
+<li><b>AirTags within iOS File Systems</b></li>
+https://medium.com/@Appalachian4n6/airtags-within-ios-file-systems-279dc783b69f
+<li><b>iLEAPP AirTags Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/airtags.py
+</ul>
+</li>
+<li>
 <b>/mobile/Library/Caches/com.apple.routined/Cache.sqlite</b>
 <ul>
 <li><b>Locations, Locations, Locations</b></li>
