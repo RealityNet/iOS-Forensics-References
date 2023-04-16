@@ -1623,7 +1623,7 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <b>/mobile/Library/Preferences/com.apple.weather.plist</b>
 </li>
 <li>
-<b>/mobile/Library/Recents/</b>
+<b>/mobile/Library/Recents/Recents</b>
 <ul>
 <li><b>
 </ul>
