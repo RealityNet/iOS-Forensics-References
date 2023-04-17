@@ -557,7 +557,7 @@ https://www.zdziarski.com/blog/?p=2686
 </ul>
 </li>
 <li>
-<b>/mobile/Library/AppConduit/AvailableApps.plist</b>
+<b>/mobile/Library/AppConduit/AvailableApps.plist</b>F
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
@@ -1035,6 +1035,10 @@ https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 http://www.doubleblak.com/m/blogPosts.php?id=2
 <li><b>Socially Distant but Still Interacting! New and Improved Updates to macOS/iOS CoreDuet interactionC.db APOLLO Modules</b></li>
 http://www.mac4n6.com/blog/2020/6/21/socially-distant-but-still-interacting-new-and-improved-updates-to-macosios-coreduet-interactioncdb-apollo-modules
+<li><b>Local Photo Library Photos.sqlite Query Variations & WHERE statements</b></li>
+https://theforensicscooter.com/2022/02/21/photos-sqlite-update/
+<li><b>Comparison of iOS backups: Encrypted vs Unencrypted</b></li>
+https://www.arcpointforensics.com/news/comparison-of-ios-backups
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
 https://for585.com/dfirsummit22
 <li><b>APOLLO interactionC Modules</b></li>
@@ -1042,10 +1046,6 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/interaction_contact_interac
 https://github.com/mac4n6/APOLLO/blob/master/modules/interaction_contact_interactions_keywords.txt
 <li><b>iLEAPP interactionC Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/interactionCcontacts.py
-<li><b>Local Photo Library Photos.sqlite Query Variations & WHERE statements</b></li>
-https://theforensicscooter.com/2022/02/21/photos-sqlite-update/
-<li><b>Comparison of iOS backups: Encrypted vs Unencrypted</b></li>
-https://www.arcpointforensics.com/news/comparison-of-ios-backups
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1136,6 +1136,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <b>/mobile/Library/Health/ActivitySharing/contacts.dat</b>
 <ul>
 <li><b>#DFIRFIT or Bust - A forensic exploration of iOS Health Data</b></li>
+https://github.com/mac4n6/Presentations/blob/master/%23DFIRFIT%20or%20BUST/DFIRFIT.pdf
 https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
@@ -1146,6 +1147,7 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 <ul>
 <li><b>#DFIRFIT or Bust - A forensic exploration of iOS Health Data</b></li>
 https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
+https://github.com/mac4n6/Presentations/blob/master/%23DFIRFIT%20or%20BUST/DFIRFIT.pdf
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>Enriching Investigations with Apple Watch Data Through the healthdb_secure.sqlite Database</b></li>
@@ -1172,9 +1174,14 @@ https://github.com/kacos2000/Queries/blob/master/healthdb.sql
 <b>/mobile/Library/Health/healthdb_secure.sqlite</b>
 <ul>
 <li><b>#DFIRFIT or Bust - A forensic exploration of iOS Health Data</b></li>
+https://github.com/mac4n6/Presentations/blob/master/%23DFIRFIT%20or%20BUST/DFIRFIT.pdf
 https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>On the Second Day of APOLLO, My True Love Gave to Me - Holiday Treats and a Trip to the Gym - A Look at iOS Health Data</b></li>
+https://www.mac4n6.com/blog/2018/12/15/on-the-second-day-of-apollo-my-true-love-gave-to-me-holiday-treats-and-a-trip-to-the-gym-a-look-at-ios-health-data
+<li><b>Just Call Me Buffy the Proto Slayer – An Initial Look into Protobuf Data in Mac and iOS Forensics</b></li>
+http://www.mac4n6.com/blog/2019/9/27/just-call-me-buffy-the-proto-slayer-an-initial-look-into-protobuf-data-in-mac-and-ios-forensics
 <li><b>The iPhone Health App from a forensic perspective: can steps and distances registered during walking and running be used as digital evidence?</b></li>
 https://www.sciencedirect.com/science/article/pii/S1742287619300313
 https://dfrws.org/sites/default/files/session-files/2019_EU_paper-the_iphone_health_app_from_a_forensic_perspective.pdf
@@ -1196,12 +1203,46 @@ https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-io
 https://www.stark4n6.com/2022/08/audio-and-app-usage-in-apple-health.html
 <li><b>Enriching Investigations with Apple Watch Data Through the healthdb_secure.sqlite Database</b></li>
 https://dfir.pubpub.org/pub/xqvcn3hj/release/1
+https://sqlmcgee.wordpress.com/2022/04/01/enriching-investigations-with-apple-watch-data-through-the-healthdb_secure-sqlite-database/
+<li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
+<li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/19-5551_Web.pdf
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>Securing and Extracting Health Data: Apple Health vs. Google Fit</b></li>
+https://blog.elcomsoft.com/2019/01/securing-and-extracting-health-data-apple-health-vs-google-fit/
 <li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
 https://www.youtube.com/watch?v=eU7THDwFkiM
+<li><b>Personal Injury & Insurance Fraud Investigation: Get the Mobile Device!</b></li>
+http://prodigital4n6.blogspot.com/2017/07/personal-injury-insurance-fraud.html
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 <li><b>healthdb_secure.sqlite query</b></li>
 https://github.com/kacos2000/Queries/blob/master/healthdb_secure.sql
+<li><b>APOLLO health_secure.sqlite Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_distance.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_ecg_average_heart_rate.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_flights.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_heart_rate.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_steps.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_stood_up.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_weight.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_cadence.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_elevation.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_general.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_humidity.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_indoor.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_location_latitude.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_location_longitude.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_max_ground_elevation.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_mets.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_min_ground_elevation.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_temperature.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_timeofday.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_weather.txt
 </ul>
 </li>
 <li>
@@ -1800,6 +1841,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/SMS/sms.db</b>
 <ul>
+<li><b>The Meaning of Messages</b></li>
+https://www.magnetforensics.com/blog/the-meaning-of-messages/
 <li><b>iOS16 iMessages</b></li>
 https://doubleblak.com/blogPosts.php?id=27
 <li><b>iOS 16 - "Paul unsent a message." ... OR DID HE?!</b></li>
@@ -1818,8 +1861,10 @@ https://cts-forensics.com/reports/19-5551_Web.pdf
 https://cts-forensics.com/reports/20-5551_Web.pdf
 <li><b>iLEAPP SMS Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/sms.py
-<li><b>The Meaning of Messages</b></li>
-https://www.magnetforensics.com/blog/the-meaning-of-messages/
+<li><b>APOLLO SMS Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/sms_chat.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/sms_chat_message_delivered.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/sms_chat_message_read.txt
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1893,6 +1938,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsXI.
 <ul>
 <li><b>iLEAPP Query Predictions Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/queryPredictions.py
+<li><b>APOLLO Query Predictions Module</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/query_predictions.txt
 </ul>
 </li>
 <li>
@@ -1900,6 +1947,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/queryPredictions
 <ul>
 <li><b>iLEAPP TCC Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/tcc.py
+<li><b>APOLLO TCC Module</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/tcc_db.txt
 </ul>
 </li>
 <li>
@@ -2057,6 +2106,8 @@ https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-an
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
 <li><b>APOLLO Netusage Module</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/netusage_zprocess.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/netusage_zliveusage.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/netusage_zliverouteperf.txt
 </ul>
 </li>
 </ul>
@@ -2413,6 +2464,7 @@ https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acqui
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 <li><b>APOLLO DataUsage Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/datausage_zprocess.txt
 https://github.com/mac4n6/APOLLO/blob/master/modules/datausage_zliveusage.txt 
 <li><b>iLEAPP DataUsage Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
