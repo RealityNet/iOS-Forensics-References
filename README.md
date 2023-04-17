@@ -2062,7 +2062,20 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <li>
 <b>/mobile/Media/iTunes_Control/iTunes/MediaLibrary.sqlitedb</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Cellebrite CTF 2020: Ruth Langmore</b></li>
+https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
+<li><b>Apple TV Forensics 03: Analysis</b></li>
+https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
+<li><b>Forensicating The Apple TV</b></li>
+https://www.forensicfocus.com/webinars/forensicating-the-apple-tv/
+<li><b>Apple Watch Forensics 02: Analysis</b></li>
+https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
+<li><b>Apple Watch Forensics: Is It Ever Possible, And What Is The Profit?</b></li>
+https://www.forensicfocus.com/webinars/apple-watch-forensics-is-it-ever-possible-and-what-is-the-profit/
+<li><b>iLEAPP Media Library Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mediaLibrary.py
 </ul>
 </li>
 <li>
