@@ -1137,6 +1137,8 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 <ul>
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 </ul>
 </li>
 <li>
@@ -1154,6 +1156,8 @@ https://www.stark4n6.com/2022/08/audio-and-app-usage-in-apple-health.html
 https://dfir.pubpub.org/pub/xqvcn3hj/release/1
 <li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
 https://www.youtube.com/watch?v=eU7THDwFkiM
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 </ul>
 </li>
 <li>
@@ -1442,6 +1446,8 @@ https://cts-forensics.com/reports/38551_Web.pdf
 https://cellebrite.com/en/how-ios-properties-files-can-confirm-a-suspects-contacts-even-if-data-deleted/
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 <li><b>Making the most of Property Lists</b></li>
 https://forensicskween.com/research/making-the-most-of-property-lists/
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
@@ -1964,6 +1970,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/restoreLog.py
 http://www.mac4n6.com/blog/2019/1/6/network-and-application-usage-using-netusagesqlite-amp-datausagesqlite-ios-databases
 <li><b>iOS - Tracking Traces of Deleted Applications</b></li>
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 <li><b>iLEAPP Net Usage Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/netusage.py
 <li><b>APOLLO Netusage Module</b></li>
@@ -2354,6 +2362,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 <li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
 https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
 <li><b>Artifacts of an IOS device</b></li>
