@@ -1214,6 +1214,8 @@ https://cts-forensics.com/reports/21-5551_Web.pdf
 https://blog.elcomsoft.com/2019/01/securing-and-extracting-health-data-apple-health-vs-google-fit/
 <li><b>Building a Pattern of Life - Leveraging Location and Health Data</b></li>
 https://www.youtube.com/watch?v=eU7THDwFkiM
+<li><b>Health Data Types</b></li>
+https://www.doubleblak.com/blogPosts.php?id=21
 <li><b>Personal Injury & Insurance Fraud Investigation: Get the Mobile Device!</b></li>
 http://prodigital4n6.blogspot.com/2017/07/personal-injury-insurance-fraud.html
 <li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
@@ -2031,7 +2033,6 @@ https://cts-forensics.com/reports/20-5551_Web.pdf
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
-
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
@@ -2090,6 +2091,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Media/PhotoData/Photos.sqlite</b>
 <ul>
+<li><b>iOS Media Adjustments</b></li>
+https://www.doubleblak.com/blogPosts.php?id=23
 <li><b>iLEAPP Photos Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/photosMetadata.py
 <li><b>iOS Forensics for Investigators</b></li>
@@ -2275,6 +2278,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/wifiNetworkStore
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li><b>Locations, Locations, Locations</b></li>
 https://doubleblak.com/blogPosts.php?id=14
+<li><b>Harvested Locations</b></li>
+https://www.doubleblak.com/blogPosts.php?id=16
 </ul>
 </li>
 <li>
@@ -2312,6 +2317,8 @@ http://www.mac4n6.com/blog/2016/6/6/new-script-ios-locations-scraper
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Harvested Locations</b></li>
+https://www.doubleblak.com/blogPosts.php?id=16
 <li><b>APOLLO cache_ecnryptedA/B Modules</b></li>
 https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedAB_cdmacelllocation.txt 
 https://github.com/mac4n6/APOLLO/blob/master/modules/locationd_cacheencryptedAB_celllocation.txt 
