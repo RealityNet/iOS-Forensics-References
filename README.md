@@ -1769,6 +1769,8 @@ https://blog.d204n6.com/2022/09/ios-16-paul-unsent-message-or-did-he.html
 https://doubleblak.com/blogPosts.php?id=24
 <li><b>iOS 14 - Message Mentions and Threading</b></li>
 https://blog.d204n6.com/2020/09/ios-14-message-mentions-and-threading.html
+<li><b>Cellebrite CTF 2020: Juan Mortyme</b></li>
+https://ciofecaforensics.com/2020/10/30/cellebrite-ctf-juan/
 <li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
 https://cts-forensics.com/reports/38551_Web.pdf
 <li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
@@ -2123,6 +2125,8 @@ https://cts-forensics.com/reports/20-5551_Web.pdf
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>Cellebrite CTF 2020: Ruth Langmore</b></li>
+https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
 </ul>
 </li>
 <li>
