@@ -1685,9 +1685,9 @@ https://theforensicscooter.com/2022/12/05/do-you-have-a-full-sized-assetor-just-
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
-What is the likelihood of recovering deleted iPhone messages?
+<li><b>What is the likelihood of recovering deleted iPhone messages?</b></li>
 https://improsec.com/tech-blog/what-is-the-likelihood-of-recovering-deleted-iphone-messages
-Missing Pieces: Tips and Tricks on how to ensure your acquisitions aren’t missing critical data
+<li><b>Missing Pieces: Tips and Tricks on how to ensure your acquisitions aren’t missing critical data</b></li>
 https://static1.squarespace.com/static/62ab5b933d903d4c55e5d716/t/62fa28d8fd3a89429f8a9a80/1660561630138/MissingPieces_Hyde_Quezada_Final.pdf
 <li><b>The Meaning of Messages</b></li>
 https://www.magnetforensics.com/blog/the-meaning-of-messages/
