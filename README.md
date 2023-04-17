@@ -922,6 +922,7 @@ https://dfir.pubpub.org/pub/g2v1z97i/release/1
 <li><b>KnowledgeC: Now Playing entries</b></li>
 https://www.forensicmike1.com/2019/10/07/knowledgec-now-playing-entries/
 <li><b>USING PHOTOS.SQLITE TO SHOW THE RELATIONSHIPS BETWEEN PHOTOS AND THE APPLICATION THEY WERE CREATED WITH? BY SCOTT KOENIG</b></li>
+https://dfir.pubpub.org/pub/v19rksyf/release/1
 https://smarterforensics.com/2020/08/does-photos-sqlite-have-relations-with-cameramessagesapp-by-scott-koenig/
 <li><b>KnowledgeC (and Friends)</b></li>
 http://www.doubleblak.com/m/blogPosts.php?id=2
@@ -2073,7 +2074,10 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <li>
 <b>/mobile/Media/MediaAnalysis/mediaanalysis.db</b>
 <ul>
-<li><b>
+<li><b>Follow-on to DFIR Summit Talk: Lucky (iOS) 13: Time To Press Your Bets (via @bizzybarney)</b></li>
+http://www.mac4n6.com/blog/2020/7/19/follow-on-to-dfir-summit-talk-lucky-ios-13-time-to-press-your-bets-via-bizzybarney
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
@@ -2085,6 +2089,16 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <li>
 <b>/mobile/Media/PhotoData/PhotoCloudSharingData/</b>
 <ul>
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+<li><b>Local Photo Library Photos.sqlite Query Variations & WHERE statements</b></li>
+https://theforensicscooter.com/2022/02/21/photos-sqlite-update/
+<li><b>Photos.sqlite ZINTERNALRESOURCE Table Reference Guide</b></li>
+https://theforensicscooter.com/2022/12/03/photos-sqlite-zinternalresource-table-reference-guide/
+<li><b>Sharing is Caring – An Overview of Shared Albums in iOS</b></li>
+https://gforce4n6.blogspot.com/2020/09/sharing-is-caring-overview-of-shared.html
+<li><b>iLEAPP Shared Albumbs Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/icloudSharedalbums.py
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -2095,16 +2109,60 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Media/PhotoData/CPL/</b>
 <ul>
-<li><b>
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+<li><b>Do you have a Full-Sized Asset…or just a Thumbnail? Did Optimized iPhone Storage process occur?</b></li>
+https://theforensicscooter.com/2022/12/05/do-you-have-a-full-sized-assetor-just-a-thumbnail-did-optimized-iphone-storage-process-occur/
+<li><b>How to find iOS Hidden Assets</b></li>
+https://theforensicscooter.com/2022/07/29/how-to-find-ios-hidden-assets/
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
 <b>/mobile/Media/PhotoData/Photos.sqlite</b>
 <ul>
+<li><b>Photos.sqlite Queries – Original Blog Posting</b></li>
+https://theforensicscooter.com/2021/11/23/photos-sqlite-queries/
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+<li><b>Local Photo Library Photos.sqlite Query Variations & WHERE statements</b></li>
+https://theforensicscooter.com/2022/02/21/photos-sqlite-update/
+<li><b>How to find iOS Hidden Assets</b></li>
+https://theforensicscooter.com/2022/07/29/how-to-find-ios-hidden-assets/
+<li><b>Photos.sqlite ZINTERNALRESOURCE Table Reference Guide</b></li>
+https://theforensicscooter.com/2022/12/03/photos-sqlite-zinternalresource-table-reference-guide/
+<li><b>Do you have a Full-Sized Asset…or just a Thumbnail? Did Optimized iPhone Storage process occur?</b></li>
+https://theforensicscooter.com/2022/12/05/do-you-have-a-full-sized-assetor-just-a-thumbnail-did-optimized-iphone-storage-process-occur/
+<li><b>Part B Filling a device internal storage for Optimize iPhone Storage Research</b></li>
+https://theforensicscooter.com/2022/12/03/part-b-filling-a-device-internal-storage-for-optimize-iphone-storage-research/
 <li><b>iOS Media Adjustments</b></li>
 https://www.doubleblak.com/blogPosts.php?id=23
+<li><b>iOS Local Photo Library (PL) Photos.sqlite Queries</b></li>
+https://github.com/ScottKjr3347/iOS_Local_PL_Photos.sqlite_Queries
+<li><b>USING PHOTOS.SQLITE TO SHOW THE RELATIONSHIPS BETWEEN PHOTOS AND THE APPLICATION THEY WERE CREATED WITH? BY SCOTT KOENIG</b></li>
+https://smarterforensics.com/2020/08/does-photos-sqlite-have-relations-with-cameramessagesapp-by-scott-koenig/
+https://dfir.pubpub.org/pub/v19rksyf/release/1
+<li><b>How Did That Photo Get on That iPhone? – Deep Dive into the iOS “Photos.sqlite” database</b></li>
+https://msab.com/guides-whitepapers/forensic-dive-into-ios-photos-sqlite-database/
+<li><b>How Did That Photo Get on That iPhone: Media Attribution for iOS</b></li>
+https://www.msab.com/blog/media-attribution-for-ios/
+<li><b>iOS Photos.sqlite Forensics</b></li>
+https://www.forensicmike1.com/2019/05/02/ios-photos-sqlite-forensics/
+<li><b>macOS & iOS Photos Support with Magnet AXIOM</b></li>
+https://www.magnetforensics.com/blog/macos-ios-photos-support-with-magnet-axiom/
+<li><b>Apple Watch Forensics 02: Analysis</b></li>
+https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
+<li><b>Apple iOS: Recently Deleted images</b></li>
+https://forensenellanebbia.blogspot.com/2015/10/apple-ios-recently-deleted-images.html
+<li><b>The Apple Photos library</b></li>
+https://www.tonkata.com/posts/apple-photos/
+<li><b>Photos.sqlite query</b></li>
+https://github.com/kacos2000/queries/blob/master/Photos_sqlite.sql
 <li><b>iLEAPP Photos Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/photosMetadata.py
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -2112,7 +2170,20 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Media/PhotoData/Thumbnails/</b>
 <ul>
-<li><b>
+<li><b>iPhone Photodata Thumbnails</b></li>
+https://athenaforensics.co.uk/iphone-photodata-thumbnails/
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+<li><b>Do you have a Full-Sized Asset…or just a Thumbnail? Did Optimized iPhone Storage process occur?
+https://theforensicscooter.com/2022/12/05/do-you-have-a-full-sized-assetor-just-a-thumbnail-did-optimized-iphone-storage-process-occur/
+<li><b>Photos.sqlite ZINTERNALRESOURCE Table Reference Guide</b></li>
+https://theforensicscooter.com/2022/12/03/photos-sqlite-zinternalresource-table-reference-guide/
+<li><b>iOS iThmbs</b></li>
+http://dig-forensics.blogspot.com/2013/05/ios-ithmbs.html
+<li><b>iThmb Converter</b></li>
+https://www.ithmbconverter.com/
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
