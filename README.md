@@ -1983,6 +1983,16 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/query_predictions.txt
 <li>
 <b>/mobile/Library/TCC/TCC.db</b>
 <ul>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
+<li><b>Analysis of Apple Unified Logs: Quarantine Edition [Entry 10] – You down with TCC? Yea, you know me! Tracking App Permissions and the TCC APOLLO Module</b></li>
+http://www.mac4n6.com/blog/2020/6/1/analysis-of-apple-unified-logs-quarantine-edition-entry-10-you-down-with-tcc-yea-you-know-me-tracking-app-permissions-and-the-tcc-apollo-module?rq=tcc
 <li><b>iLEAPP TCC Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/tcc.py
 <li><b>APOLLO TCC Module</b></li>
