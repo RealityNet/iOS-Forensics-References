@@ -1144,10 +1144,28 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 <li>
 <b>/mobile/Library/Health/healthdb.sqlite</b>
 <ul>
+<li><b>#DFIRFIT or Bust - A forensic exploration of iOS Health Data</b></li>
+https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>Enriching Investigations with Apple Watch Data Through the healthdb_secure.sqlite Database</b></li>
+https://dfir.pubpub.org/pub/xqvcn3hj/release/1
+<li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
+https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>Apple Health</b></li>
+https://media.rootcon.org/ROOTCON%2012/Talks/Apple%20Health.pdf
+<li><b>Health and Activity</b></li>
+https://www.elcomsoft.com/presentations/20200129_health_and_activity_evidence_en.pdf
+<li><b>Making a Murderer: Health Activity Edition</b></li>
+https://smarterforensics.com/wp-content/uploads/2018/11/Making-a-Murderer-Health-Edition_Stockholm.pdf
+<li><b>…WON’T YOU BACK THAT THING UP: A GLIMPSE OF IOS 13 ARTIFACTS</b></li>
+https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-ios-13-artifacts/
+<li><b>Audio and App Usage in Apple Health</b></li>
+https://www.stark4n6.com/2022/08/audio-and-app-usage-in-apple-health.html
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>healthdb.sqlite query</b></li>
+https://github.com/kacos2000/Queries/blob/master/healthdb.sql
 </ul>
 </li>
 <li>
@@ -1167,6 +1185,10 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 https://media.rootcon.org/ROOTCON%2012/Talks/Apple%20Health.pdf
 <li><b>Health and Activity</b></li>
 https://www.elcomsoft.com/presentations/20200129_health_and_activity_evidence_en.pdf
+<li><b>Making a Murderer: Health Activity Edition</b></li>
+https://smarterforensics.com/wp-content/uploads/2018/11/Making-a-Murderer-Health-Edition_Stockholm.pdf
+<li><b>…WON’T YOU BACK THAT THING UP: A GLIMPSE OF IOS 13 ARTIFACTS</b></li>
+https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-ios-13-artifacts/
 <li><b>Audio and App Usage in Apple Health</b></li>
 https://www.stark4n6.com/2022/08/audio-and-app-usage-in-apple-health.html
 <li><b>Enriching Investigations with Apple Watch Data Through the healthdb_secure.sqlite Database</b></li>
@@ -1175,6 +1197,8 @@ https://dfir.pubpub.org/pub/xqvcn3hj/release/1
 https://www.youtube.com/watch?v=eU7THDwFkiM
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>healthdb_secure.sqlite query</b></li>
+https://github.com/kacos2000/Queries/blob/master/healthdb_secure.sql
 </ul>
 </li>
 <li>
