@@ -579,17 +579,10 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li><b>ScreenTimeController</b></li>
 https://github.com/Evian-Zhang/ScreenTimeController/blob/master/README.md
-<li><b>MAC Apt SceenTime Plugin</b></li>
-https://github.com/ydkhatri/mac_apt/blob/master/plugins/screentime.py
 <li><b>Data Quality and Quantity – How to Get the Best of Both Worlds, Part 2 – Examining Screen Time Artifacts</b></li>
 https://cellebrite.com/en/data-quality-and-quantity-how-to-get-the-best-of-both-worlds-part-2-examining-screen-time-artifacts/
 <li><b>A Look Into Apple’s Screen Time Feature and What Insights It Lends To Digital Intelligence</b></li>
 https://cellebrite.com/en/a-look-into-apples-screen-time-feature-and-what-insights-it-lends-to-digital-intelligence/
-<li><b>APOLLO ScreenTime Modules</b></li>
-https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_timed_items.txt
-https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_counted_items.txt
-https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_by_hour.txt
-https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_by_category.txt
 <li><b>Plaso iOS SceenTime Parser</b></li>
 https://plaso.readthedocs.io/en/latest/_modules/plaso/parsers/sqlite_plugins/ios_screentime.html
 <li><b>A Look Into Apple’s Screen Time Feature and What Insights It Lends To Forensics</b></li>
@@ -598,6 +591,13 @@ https://www.goldencelle.com/post/a-look-into-apple-s-screen-time-feature-and-wha
 https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
 <li><b>Magnet Forensics Virtual Summit 2023 CTF – iOS</b></li>
 https://www.forgottennook.com/blog/magnet-ios-2023
+<li><b>MAC Apt SceenTime Plugin</b></li>
+https://github.com/ydkhatri/mac_apt/blob/master/plugins/screentime.py
+<li><b>APOLLO ScreenTime Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_timed_items.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_counted_items.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_by_hour.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/screentime_by_category.txt
 </ul>
 </li>
 <li>
@@ -1094,6 +1094,8 @@ https://gforce4n6.blogspot.com/2022/05/peeking-at-user-notification-events-in.ht
 https://dfrws.org/presentation/dfir-review-showcase-peeking-at-user-notification-events-in-ios-15/
 <li><b>iOS 16 - "Paul unsent a message." ... OR DID HE?!</b></li>
 https://blog.d204n6.com/2022/09/ios-16-paul-unsent-message-or-did-he.html
+<li><b>Magnet Forensics Virtual Summit 2023 CTF – iOS</b></li>
+https://www.forgottennook.com/blog/magnet-ios-2023
 <li><b>iLEAPP User Notifications Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsDuet.py
 </ul>
