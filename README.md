@@ -183,6 +183,8 @@ https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-3.html
 https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-4.html
 <li><b>iOS 16 - Breaking Down the Biomes Part 5 -- "Hey Siri, find me some more data..."</b></li>
 https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-5-hey.html
+<li><b>Bringing it Back With Biome Data</b></li>
+https://www.magnetforensics.com/blog/bringing-it-back-with-biome-data/
 <li><b>iLEAPP Biome Plugins</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeAppinstall.py
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeBacklight.py
@@ -622,6 +624,8 @@ https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-3.html
 https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-4.html
 <li><b>iOS 16 - Breaking Down the Biomes Part 5 -- "Hey Siri, find me some more data..."</b></li>
 https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-5-hey.html
+<li><b>Bringing it Back With Biome Data</b></li>
+https://www.magnetforensics.com/blog/bringing-it-back-with-biome-data/
 <li><b>An Alternate Location for Deleted SMS/iMessage Data in Apple Devices</b></li>
 https://sqlmcgee.wordpress.com/2022/03/28/an-alternate-location-for-deleted-sms-imessage-data-in-apple-devices-2/
 https://dfir.pubpub.org/pub/yp6efc8q/release/1
