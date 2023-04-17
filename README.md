@@ -1321,6 +1321,14 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mobileActivation
 <ul>
 <li><b>iOS Mail</b></li>
 https://www.doubleblak.com/m/blogPosts.php?id=10
+<li><b>Identification and analysis of email and contacts artefacts on iOS and OS X</b></li>
+https://researchonline.gcu.ac.uk/ws/portalfiles/portal/24600592/K.Ovens_PID4325955.pdf
+<li><b>A Digital Forensic Analysis on the iCloud® and its Synchronization to Apple® Devices</b></li>
+https://www.marshall.edu/forensics/files/FRIEDMANRACHEL-Research-Paper-08242012.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>Getting Started with iOS Forensics</b></li>
+https://www.systoolsgroup.com/forensics/sqlite/ios.html
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1749,6 +1757,8 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li>
 <b>/mobile/Library/Recents/Recents</b>
 <ul>
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
 <li><b>Recents query</b></li>
 https://github.com/kacos2000/queries/blob/master/recents.sql
 </ul>
