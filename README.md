@@ -1148,8 +1148,16 @@ https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-an
 https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
+<li><b>The iPhone Health App from a forensic perspective: can steps and distances registered during walking and running be used as digital evidence?</b></li>
+https://www.sciencedirect.com/science/article/pii/S1742287619300313
+<li><b>The phone reveals your motion: Digital traces of walking, driving and other movements on iPhones</b></li>
+https://www.sciencedirect.com/science/article/abs/pii/S2666281721000780
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>Apple Health</b></li>
+https://media.rootcon.org/ROOTCON%2012/Talks/Apple%20Health.pdf
+<li><b>Health and Activity</b></li>
+https://www.elcomsoft.com/presentations/20200129_health_and_activity_evidence_en.pdf
 <li><b>Audio and App Usage in Apple Health</b></li>
 https://www.stark4n6.com/2022/08/audio-and-app-usage-in-apple-health.html
 <li><b>Enriching Investigations with Apple Watch Data Through the healthdb_secure.sqlite Database</b></li>
