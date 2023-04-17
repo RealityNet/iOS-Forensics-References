@@ -1371,6 +1371,29 @@ https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
 <b>/mobile/Library/NanoTimeKit/</b>
 </li>
 <li>
+<b>/mobile/Library/Passes/passes23.sqlite</b>
+<ul>
+<li><b>Pocket Litter A Peek Inside Your Apple Wallet</b></li>
+https://objectivebythesea.org/v4/talks/OBTS_v4_sEdwards.pdf
+<li><b>Analysing Apple Pay Transactions</b></li>
+https://blog.elcomsoft.com/2018/08/analysing-apple-pay-transactions/
+<li><b>Cellebrite CTF 2020: Juan Mortyme</b></li>
+https://ciofecaforensics.com/2020/10/30/cellebrite-ctf-juan/
+<li><b>Cellebrite CTF 2021 Writeup</b></li>
+https://medium.com/@williamskosasi/cellebrite-ctf-2021-writeup-b73d821a708
+<li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
+<li><b>Apple Pattern of Life Lazy Output’er (APOLLO) Updates & 40 New Modules (Location, Chat, Calls, Apple Pay Transactions, Wallet Passes, Safari & Health Workouts)</b></li>
+http://www.mac4n6.com/blog/2019/1/17/apple-pattern-of-life-lazy-outputer-apollo-updates-amp-40-new-modules-location-chat-calls-apple-pay-transactions-wallet-passes-safari-amp-health-workouts?rq=passes23.sqlite
+<li><b>APOLLO passes23.sqlite Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/passes23_unique_passes_cards.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/passes23_wallet_passes.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/passes23_wallet_transactions.txt
+<li><b>iLEAPP passes23.sqlite Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/appleWalletTransactions.py
+</ul>
+</li>
+<li>
 <b>/mobile/Library/PersonalizationPortrait/PPSQLDatabase.db</b>
 <ul>
 <li><b>Guest Post by @bizzybarney! A Peek Inside the PPSQLDatabase.db Personalization Portrait Database</b></li>
