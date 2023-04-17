@@ -723,15 +723,6 @@ https://doubleblak.com/blogPosts.php?id=14
 https://doubleblak.com/BlogArticles/14/PDF2.pdf
 <li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis</b></li>
 http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
-<li><b>APOLLO iOS Routined Cloud Modules</b></li>
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_entry.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_exit.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_inbound_start.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_inbound_stop.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_outbound_start.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_outbound_stop.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_address.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_mapitem.txt
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>iOS Location Artifacts Explained</b></li>
@@ -748,6 +739,15 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 https://www.youtube.com/watch?v=eU7THDwFkiM
 <li><b>SANS 2022 DFIR Summit Queries</b></li>
 https://for585.com/dfirsummit22
+<li><b>APOLLO iOS Routined Cloud Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_entry.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_exit.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_inbound_start.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_inbound_stop.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_outbound_start.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_visit_outbound_stop.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_address.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_cloud_mapitem.txt
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -760,13 +760,6 @@ https://doubleblak.com/blogPosts.php?id=14
 https://doubleblak.com/BlogArticles/14/PDF2.pdf
 <li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis</b></li>
 http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
-<li><b>APOLLO iOS Routined Local Modules</b></li>
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_entry.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_exit.txt
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_transition_start.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_transition_stop.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_vehicle_parked.txt 
-https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_vehicle_parked_history.txt
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>iOS Location Artifacts Explained</b></li>
@@ -781,6 +774,13 @@ https://for585.com/dfirsummit22
 https://www.stark4n6.com/2022/06/cellebrite-ctf-2022-beths-iphone.html
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
+<li><b>APOLLO iOS Routined Local Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_entry.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_exit.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_transition_start.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_learned_location_of_interest_transition_stop.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_vehicle_parked.txt 
+https://github.com/mac4n6/APOLLO/blob/master/modules/routined_local_vehicle_parked_history.txt
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
