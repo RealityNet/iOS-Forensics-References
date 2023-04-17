@@ -1074,6 +1074,7 @@ https://www.marshall.edu/forensics/files/FRIEDMANRACHEL-Research-Paper-08242012.
 <li><b>Apple Watch Forensics 02: Analysis</b></li>
 https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
 <li><b>APPLE WATCH FORENSICS: IS IT EVER POSSIBLE, AND WHAT IS THE PROFIT?</b></li>
+https://www.forensicfocus.com/webinars/apple-watch-forensics-is-it-ever-possible-and-what-is-the-profit/
 https://dfrws.org/wp-content/uploads/2019/06/2019_EU_pres-apple_watch_forensics_is_it_ever_possible_and_what_is_the_profit.pdf
 <li><b>Data Extraction and Forensic Analysis for Smartphone Paired Wearables and IoT Devices</b></li>
 https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_Analysis_for_Smartphone_Paired_Wearables_and_IoT_Devices
@@ -1085,6 +1086,7 @@ https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_
 <li><b>Apple Watch Forensics 02: Analysis</b></li>
 https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
 <li><b>APPLE WATCH FORENSICS: IS IT EVER POSSIBLE, AND WHAT IS THE PROFIT?</b></li>
+https://www.forensicfocus.com/webinars/apple-watch-forensics-is-it-ever-possible-and-what-is-the-profit/
 https://dfrws.org/wp-content/uploads/2019/06/2019_EU_pres-apple_watch_forensics_is_it_ever_possible_and_what_is_the_profit.pdf
 <li><b>Data Extraction and Forensic Analysis for Smartphone Paired Wearables and IoT Devices</b></li>
 https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_Analysis_for_Smartphone_Paired_Wearables_and_IoT_Devices
@@ -2072,8 +2074,9 @@ https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
 https://www.forensicfocus.com/webinars/forensicating-the-apple-tv/
 <li><b>Apple Watch Forensics 02: Analysis</b></li>
 https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
-<li><b>Apple Watch Forensics: Is It Ever Possible, And What Is The Profit?</b></li>
+<li><b>APPLE WATCH FORENSICS: IS IT EVER POSSIBLE, AND WHAT IS THE PROFIT?</b></li>
 https://www.forensicfocus.com/webinars/apple-watch-forensics-is-it-ever-possible-and-what-is-the-profit/
+https://dfrws.org/wp-content/uploads/2019/06/2019_EU_pres-apple_watch_forensics_is_it_ever_possible_and_what_is_the_profit.pdf
 <li><b>iLEAPP Media Library Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mediaLibrary.py
 </ul>
@@ -2081,7 +2084,10 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/mediaLibrary.py
 <li>
 <b>/mobile/Media/iTunesControl/iTunes/iTunesPrefs</b>
 <ul>
-<li><b>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Forensic Analysis of iTunes Backups</b></li>
+https://farleyforensics.com/2019/04/14/forensic-analysis-of-itunes-backups/
 </ul>
 </li>
 <li>
@@ -2096,7 +2102,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Media/PhotoData/AlbumsMetadata/</b>
 <ul>
-<li><b>
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
 </ul>
 </li>
 <li>
@@ -2292,7 +2299,30 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/preferences/SystemConfiguration/com.apple.wifi.plist</b>
 <ul>
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+<li><b>From iPhone to Access Point</b></li>
+https://www.forensicfocus.com/articles/from-iphone-to-access-point/
+<li><b>Apple Private Wi-Fi Addresses</b></li>
+https://ciofecaforensics.com/2020/10/24/apple-private-addresses/
+<li><b>Using Apple “Bug Reporting” for forensic purposes</b></li>
+https://for585.com/sysdiagnose
+<li><b>Sysdiagnose in iOS 16: a first look from a Digital Forensics perspective</b></li>
+https://blog.digital-forensics.it/2022/11/sysdiagnose-in-ios-16-first-look-from.html
+<li><b>Wifi Networks – iOS</b></li>
+https://bitsplease4n6.wordpress.com/2020/12/08/wifi-networks-ios/
+<li><b>Apple Watch Forensics 02: Analysis</b></li>
+https://blog.elcomsoft.com/2019/06/apple-watch-forensics-02-analysis/
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
+https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>APPLE WATCH FORENSICS: IS IT EVER POSSIBLE, AND WHAT IS THE PROFIT?</b></li>
+https://www.forensicfocus.com/webinars/apple-watch-forensics-is-it-ever-possible-and-what-is-the-profit/
+https://dfrws.org/wp-content/uploads/2019/06/2019_EU_pres-apple_watch_forensics_is_it_ever_possible_and_what_is_the_profit.pdf
+<li><b>A journey into IoT Forensics - Episode 5 - Analysis of the Apple HomePod and the Apple Home Kit Environment (aka thanks RN Team!)</b></li>
+https://blog.digital-forensics.it/2021/01/a-journey-into-iot-forensics-episode-5.html
+<li><b>Cellebrite CTF 2020: Ruth Langmore</b></li>
+https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
+<li><b>iOS Analysis Test No. 18-5551</b></li>
 https://cts-forensics.com/reports/38551_Web.pdf
 <li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/19-5551_Web.pdf
@@ -2302,6 +2332,16 @@ https://cts-forensics.com/reports/20-5551_Web.pdf
 https://cts-forensics.com/reports/21-5551_Web.pdf
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>iOS Sysdiagnose Wi-Fi script</b></li>
+https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts/blob/master/sysdiagnose-wifi-plist.py
+<li><b>iLEAPP WiFi Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/appleWifiPlist.py
+<li><b>mac_apt WiFi Plugin</b></li>
+https://github.com/ydkhatri/mac_apt/blob/master/plugins/ios_wifi.py
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
+<li><b>iOS Forensics for Investigators</b></li>
+https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
