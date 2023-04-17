@@ -838,7 +838,7 @@ https://blog.d204n6.com/2020/09/ios-14-first-thoughts-and-analysis.html
 https://www.stark4n6.com/2022/06/cellebrite-ctf-2022-marshas-iphone.html
 <li><b>Mo’ SIMs, Mo’ Problems. Examining Phones with Dual SIMs.</b></li>
 https://thebinaryhick.blog/2022/12/06/mo-sims-mo-problems-examining-phones-with-dual-sims/
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+<li><b>iOS Analysis Test No. 18-5551</b></li>
 https://cts-forensics.com/reports/38551_Web.pdf
 <li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/19-5551_Web.pdf
@@ -1849,10 +1849,28 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <ul>
 <li><b>Missing SQLite Records Analysis</b></li>
 https://dfir.pubpub.org/pub/33vkc2ul/release/1
+<li><b>Examining mobile devices: identiffying private internet browking activity in Mobile Safari</b></li>
+https://www.opentext.com/file_source/OpenText/en_US/PDF/Examining-mobiledevices-&-private-internet-browsing-activity-whitepaper-en.pdf
 <li><b>KnowledgeC (and Friends)</b></li>
 http://www.doubleblak.com/m/blogPosts.php?id=2
+<li><b>Cellebrite CTF 2020: Ruth Langmore</b></li>
+https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
 <li><b>Magnet User Summit 2022 CTF - iPhone</b></li>
 https://www.stark4n6.com/2022/06/magnet-user-summit-2022-ctf-iphone.html
+<li><b>Magnet User Summit 2022 CTF - iPhone</b></li>
+https://www.stark4n6.com/2022/06/magnet-user-summit-2022-ctf-iphone.html
+<li><b>iOS Analysis Test No. 18-5551</b></li>
+https://cts-forensics.com/reports/38551_Web.pdf
+<li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/19-5551_Web.pdf
+<li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>iOS Analysis Test No. 21-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/21-5551_Web.pdf
+<li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/22-5551_Web.pdf
+<li><b>Reading Your Browser's History with SQLite</b></li>
+http://2016.padjo.org/tutorials/sqlite-your-browser-history/
 <li><b>APOLLO Safari History Module</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/iconsScreen.py
 <li><b>iLEAPP Safari History Plugin</b></li>
