@@ -422,12 +422,12 @@ https://smarterforensics.com/2016/12/how-the-grinch-stole-apple-maps-artifacts-o
 https://smarterforensics.com/2018/03/first-the-grinch-and-now-the-easter-bunny-where-is-apple-maps-hiding/
 <li><b>…WON’T YOU BACK THAT THING UP: A GLIMPSE OF IOS 13 ARTIFACTS</b></li>
 https://smarterforensics.com/2019/09/wont-you-back-that-thing-up-a-glimpse-of-ios-13-artifacts/
-<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
-https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 <li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
 https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
+<li><b>Practical Mobile Forensics - Fourth Edition</b></li>
+https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
 </li>
 <li>
@@ -499,7 +499,7 @@ https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory
 https://www.marshall.edu/forensics/files/FRIEDMANRACHEL-Research-Paper-08242012.pdf
 <li><b>Upgrade From NULL—Detecting iOS Wipe Artifacts</b></li>
 https://dfir.pubpub.org/pub/6i7d593n/release/1
-<li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
+<li><b>iOS Analysis Test No. 18-5551</b></li>
 https://cts-forensics.com/reports/38551_Web.pdf
 <li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/19-5551_Web.pdf
@@ -541,19 +541,19 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 https://www.mac4n6.com/blog/2017/3/12/introduction-to-the-aggregate-dictionary-database-addatastoresqlite
 <li><b>On the Fifth Day of APOLLO, My True Love Gave to Me – A Stocking Full of Random Junk, Some of Which Might be Useful!</b></li>
 https://www.mac4n6.com/blog/2018/12/18/on-the-fifth-day-of-apollo-my-true-love-gave-to-me-a-stocking-full-of-random-junk-some-of-which-might-be-useful
-<li><b>APOLLO ADDataStore Modules</b></li>
-https://github.com/mac4n6/APOLLO/blob/master/modules/aggregate_dictionary_scalars.txt
-https://github.com/mac4n6/APOLLO/blob/master/modules/aggregate_dictionary_distributed_keys.txt
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
-<li><b>SANS 2022 DFIR Summit Queries</b></li>
-https://for585.com/dfirsummit22
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
 https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
 <li><b>Forensics Tools: Stop Miscalculating iOS Usage Analytics!</b></li>
 https://www.zdziarski.com/blog/?p=2686
+<li><b>SANS 2022 DFIR Summit Queries</b></li>
+https://for585.com/dfirsummit22
+<li><b>APOLLO ADDataStore Modules</b></li>
+https://github.com/mac4n6/APOLLO/blob/master/modules/aggregate_dictionary_scalars.txt
+https://github.com/mac4n6/APOLLO/blob/master/modules/aggregate_dictionary_distributed_keys.txt
 </ul>
 </li>
 <li>
