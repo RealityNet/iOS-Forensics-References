@@ -2285,7 +2285,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 https://athenaforensics.co.uk/iphone-photodata-thumbnails/
 <li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
 https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
-<li><b>Do you have a Full-Sized Asset…or just a Thumbnail? Did Optimized iPhone Storage process occur?
+<li><b>Do you have a Full-Sized Asset…or just a Thumbnail? Did Optimized iPhone Storage process occur?</b></li>
 https://theforensicscooter.com/2022/12/05/do-you-have-a-full-sized-assetor-just-a-thumbnail-did-optimized-iphone-storage-process-occur/
 <li><b>Photos.sqlite ZINTERNALRESOURCE Table Reference Guide</b></li>
 https://theforensicscooter.com/2022/12/03/photos-sqlite-zinternalresource-table-reference-guide/
