@@ -635,6 +635,8 @@ https://belkasoft.com/lagging-for-win
 https://www.magnetforensics.com/blog/the-meaning-of-messages/
 <li><b>Magnet Forensics Virtual Summit 2023 CTF – iOS</b></li>
 https://www.forgottennook.com/blog/magnet-ios-2023
+<li><b>Magnet Virtual Summit 2023 CTF - iOS 16 iPhone</b></li>
+https://www.stark4n6.com/2023/03/magnet-virtual-summit-2023-ctf-ios-16.html
 <li><b>iLEAPP Biome Plugins</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeAppinstall.py
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/biomeBacklight.py
