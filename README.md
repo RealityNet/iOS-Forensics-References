@@ -623,8 +623,8 @@ https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-4.html
 <li><b>iOS 16 - Breaking Down the Biomes Part 5 -- "Hey Siri, find me some more data..."</b></li>
 https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-5-hey.html
 <li><b>An Alternate Location for Deleted SMS/iMessage Data in Apple Devices</b></li>
-https://dfir.pubpub.org/pub/yp6efc8q/release/1
 https://sqlmcgee.wordpress.com/2022/03/28/an-alternate-location-for-deleted-sms-imessage-data-in-apple-devices-2/
+https://dfir.pubpub.org/pub/yp6efc8q/release/1
 <li><b>Lagging for the Win: Querying for Negative Evidence in the sms.db</b></li>
 https://belkasoft.com/lagging-for-win
 <li><b>The Meaning of Messages</b></li>
@@ -1835,6 +1835,13 @@ https://www.magnetforensics.com/blog/checking-in-on-ios-16-in-magnet-axiom-6-8/
 <ul>
 <li><b>The Meaning of Messages</b></li>
 https://www.magnetforensics.com/blog/the-meaning-of-messages/
+<li><b>Using Photos.sqlite to Show the Relationships Between Photos and the Application they were Created with?</b></li>
+https://dfir.pubpub.org/pub/v19rksyf/release/1
+https://smarterforensics.com/2020/08/does-photos-sqlite-have-relations-with-cameramessagesapp-by-scott-koenig/
+<li><b>Shared with You Syndication Photo Library – Message Attachments & Linked Assets</b></li>
+https://theforensicscooter.com/2022/09/16/shared-with-you-syndication-photo-library-message-attachments-linked-assets/
+<li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
+https://cts-forensics.com/reports/19-5551_Web.pdf
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1842,6 +1849,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <li>
 <b>/mobile/Library/SMS/Drafts/</b>
 <ul>
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
 <li><b>iLEAPP Draft SMS Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/draftmessage.py
 <li><b>iOS Forensics for Investigators</b></li>
@@ -1859,6 +1868,8 @@ https://doubleblak.com/blogPosts.php?id=27
 https://blog.d204n6.com/2022/09/ios-16-paul-unsent-message-or-did-he.html
 <li><b>Message Reactions</b></li>
 https://doubleblak.com/blogPosts.php?id=24
+<li><b>Sharing Locations in iOS Messages</b></li>
+https://thebinaryhick.blog/2021/09/29/sharing-locations-in-ios-messages/
 <li><b>iOS 14 - Message Mentions and Threading</b></li>
 https://blog.d204n6.com/2020/09/ios-14-message-mentions-and-threading.html
 <li><b>Cellebrite CTF 2020: Juan Mortyme</b></li>
@@ -1869,6 +1880,21 @@ https://cts-forensics.com/reports/38551_Web.pdf
 https://cts-forensics.com/reports/19-5551_Web.pdf
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
+<li><b>Lagging for the Win: Querying for Negative Evidence in the sms.db</b></li>
+https://belkasoft.com/lagging-for-win
+<li><b>An Alternate Location for Deleted SMS/iMessage Data in Apple Devices</b></li>
+https://sqlmcgee.wordpress.com/2022/03/28/an-alternate-location-for-deleted-sms-imessage-data-in-apple-devices-2/
+https://dfir.pubpub.org/pub/yp6efc8q/release/1
+<li><b>Missing SQLite Records Analysis</b></li>
+https://dfir.pubpub.org/pub/33vkc2ul/release/1
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+<li><b>How To Identify When an IPhone or iPad was Factory Reset</b></li>
+https://athenaforensics.co.uk/how-to-identify-when-an-iphone-or-ipad-was-factory-reset/
+<li><b>KnowledgeC (and Friends)</b></li>
+http://www.doubleblak.com/m/blogPosts.php?id=2
+<li><b>Temporal Analysis Anomalies with iOS iMessage Communication Exchange</b></li>
+https://personal.cis.strath.ac.uk/george.weir/cyfor14/papers/4_govan_ovans.pdf
 <li><b>iLEAPP SMS Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/sms.py
 <li><b>APOLLO SMS Modules</b></li>
