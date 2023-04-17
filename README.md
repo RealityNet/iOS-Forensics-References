@@ -1344,6 +1344,15 @@ https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-nota
 </ul>
 </li>
 <li>
+<b>/mobile/Library/Preferences/com.apple.atc.plist</b>
+<ul>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Do you have a Full-Sized Asset…or just a Thumbnail? Did Optimized iPhone Storage process occur?</b></li>
+https://theforensicscooter.com/2022/12/05/do-you-have-a-full-sized-assetor-just-a-thumbnail-did-optimized-iphone-storage-process-occur/
+</ul>
+</li>
+<li>
 <b>/mobile/Library/Preferences/com.apple.BatteryCenter.BatteryWidget.plist</b>
 </li>
 <li>
@@ -2155,7 +2164,13 @@ https://doubleblak.com/blogPosts.php?id=14
 </ul>
 </li>
 <li>
-<b>/root/Library/Caches/locationd/Cache.sqlite</b>
+<b>/root/Library/Caches/locationd/cache.plist</b>
+<ul>
+<li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
+https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Ridin’ With Apple CarPlay</b></li>
+https://thebinaryhick.blog/2019/05/08/ridin-with-apple-carplay/
+</ul>
 </li>
 <li>
 <b>/root/Library/Caches/locationd/cache_encryptedA.db</b>
