@@ -1177,8 +1177,11 @@ https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>The iPhone Health App from a forensic perspective: can steps and distances registered during walking and running be used as digital evidence?</b></li>
 https://www.sciencedirect.com/science/article/pii/S1742287619300313
+https://dfrws.org/sites/default/files/session-files/2019_EU_paper-the_iphone_health_app_from_a_forensic_perspective.pdf
 <li><b>The phone reveals your motion: Digital traces of walking, driving and other movements on iPhones</b></li>
 https://www.sciencedirect.com/science/article/abs/pii/S2666281721000780
+<li><b>Interpreting the location data extracted from the Apple Health database</b></li>
+https://www.sciencedirect.com/science/article/pii/S2666281723000057
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
 <li><b>Apple Health</b></li>
