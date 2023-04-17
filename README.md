@@ -868,6 +868,13 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <b>/mobile/Library/CallHistoryTransactions/</b>
 </li>
 <li>
+<b>/mobile/Library/com.apple.ClipServices.clipserviced/ClipData.db</b>
+<ul>
+<li><b>iOS 14 - Tracking App Clips in iOS 14</b></li>
+https://blog.d204n6.com/2020/09/ios-14-tracking-app-clips-in-ios-14.html
+</ul>
+</li>
+<li>
 <b>/mobile/Library/com.apple.itunesstored/itunesstored2.sqlitedb</b>
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
@@ -1494,6 +1501,22 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
 </li>
 <li>
+<b>/mobile/Library/Preferences/com.apple.messages.pinning.plist</b>
+<ul>
+<li><b>The Meaning of Messages</b></li>
+https://www.magnetforensics.com/blog/the-meaning-of-messages/
+</ul>
+</li>
+<li>
+<b>/mobile/Library/Preferences/com.apple.migration.plist</b>
+<ul>
+<li><b>iOS - Tracking Device Migration</b></li>
+https://blog.d204n6.com/2021/06/ios-tracking-device-migration.html
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+</ul>
+</li>
+<li>
 <b>/mobile/Library/Preferences/com.apple.mmcs.plist</b>
 </li>
 <li>
@@ -1720,6 +1743,8 @@ https://www.magnetforensics.com/blog/checking-in-on-ios-16-in-magnet-axiom-6-8/
 <li>
 <b>/mobile/Library/SMS/Attachments/</b>
 <ul>
+<li><b>The Meaning of Messages</b></li>
+https://www.magnetforensics.com/blog/the-meaning-of-messages/
 <li><b>iOS Forensics for Investigators</b></li>
 https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 </ul>
@@ -1742,6 +1767,8 @@ https://doubleblak.com/blogPosts.php?id=27
 https://blog.d204n6.com/2022/09/ios-16-paul-unsent-message-or-did-he.html
 <li><b>Message Reactions</b></li>
 https://doubleblak.com/blogPosts.php?id=24
+<li><b>iOS 14 - Message Mentions and Threading</b></li>
+https://blog.d204n6.com/2020/09/ios-14-message-mentions-and-threading.html
 <li><b>Mobile Digital Evidence - iOS Analysis Test No. 18-5551</b></li>
 https://cts-forensics.com/reports/38551_Web.pdf
 <li><b>iOS Analysis Test No. 19-5551 Summary Report</b></li>
