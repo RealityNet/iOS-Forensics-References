@@ -1230,6 +1230,9 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/appConduit.py
 </ul>
 </li>
 <li>
+<b>/mobile/Library/Logs/AppleSupport/general.log</b>
+</li>
+<li>
 <b>/mobile/Library/Logs/mobile_installation_helper.log*</b>
 </li>
 <li>
@@ -1836,6 +1839,9 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
 https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520
 </ul>
+</li>
+<li>
+<b>/mobile/Library/SpringBoard/TodayViewArchive.plist</b>
 </li>
 <li>
 <b>/mobile/Library/SpringBoard/PushStore/</b>
