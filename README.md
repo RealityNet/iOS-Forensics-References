@@ -344,6 +344,8 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <ul>
 <li><b>Favicons</b></li>
 https://www.doubleblak.com/m/blogPosts.php?id=13
+<li><b>iLEAPP Favicon Plugin</b></li>
+https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariFavicons.py
 </ul>
 </li>
 <li>
@@ -1133,7 +1135,8 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 <li>
 <b>/mobile/Library/Health/healthdb.sqlite</b>
 <ul>
-<li><b>
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 </ul>
 </li>
 <li>
@@ -1141,6 +1144,8 @@ https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%2
 <ul>
 <li><b>#DFIRFIT or Bust - A forensic exploration of iOS Health Data</b></li>
 https://papers.put.as/papers/ios/2018/summit_archive_1528385073.pdf
+<li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
+https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>Smartphone Privacy: How Your Smartphone Tracks Your Entire Life</b></li>
 https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf
 <li><b>Audio and App Usage in Apple Health</b></li>
