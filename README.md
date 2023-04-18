@@ -268,6 +268,8 @@ https://dfrws.org/wp-content/uploads/2019/10/2019_review-ios_mobile_installation
 https://abrignoni.blogspot.com/2019/01/ios-mobile-installation-logs-parser.html
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
+<li><b>Using Apple “Bug Reporting” for forensic purposes</b></li>
+https://for585.com/sysdiagnose
 <li><b>Apple TV Forensics 03: Analysis</b></li>
 https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
 <li><b>iLEAPP Mobile Installation Log Plugin</b></li>
