@@ -945,6 +945,8 @@ https://www.youtube.com/watch?v=eU7THDwFkiM
 https://blog.d204n6.com/2022/09/ios-16-now-you-c-it-now-you-dont.html
 <li><b>iOS - Tracking Traces of Deleted Applications</b></li>
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>Tracking Traces of Deleted Applications - SANS DFIR Summit 2019</b></li>
+https://www.youtube.com/watch?v=4LcQm4ErXpA
 <li><b>iOS Analysis Test No. 22-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>Magnet User Summit 2022 CTF - iPhone</b></li>
@@ -1130,6 +1132,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/notificationsDue
 https://abrignoni.blogspot.com/2018/12/identifying-installed-and-uninstalled.html
 <li><b>iOS - Tracking Traces of Deleted Applications</b></li>
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>Tracking Traces of Deleted Applications - SANS DFIR Summit 2019</b></li>
+https://www.youtube.com/watch?v=4LcQm4ErXpA
 <li><b>iOS Application Groups & Shared data</b></li>
 http://www.swiftforensics.com/2021/01/ios-application-groups-shared-data.html
 <li><b>iOS - Tracking Bundle IDs for Containers, Shared Containers, and Plugins</b></li>
@@ -2004,6 +2008,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/iconsScreen.py
 https://salt4n6.com/2018/05/15/a-few-interesting-ios-forensic-artefacts/
 <li><b>iOS - Tracking Traces of Deleted Applications</b></li>
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>Tracking Traces of Deleted Applications - SANS DFIR Summit 2019</b></li>
+https://www.youtube.com/watch?v=4LcQm4ErXpA
 <li><b>Auto-Parser: Android Auto and Apple CarPlay Forensics</b></li>
 https://link.springer.com/chapter/10.1007/978-3-031-06365-7_4
 https://github.com/BiTLab-BaggiliTruthLab/Auto-Parser-Android-Auto-Apple-CarPlay
@@ -2348,6 +2354,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/restoreLog.py
 http://www.mac4n6.com/blog/2019/1/6/network-and-application-usage-using-netusagesqlite-amp-datausagesqlite-ios-databases
 <li><b>iOS - Tracking Traces of Deleted Applications</b></li>
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>Tracking Traces of Deleted Applications - SANS DFIR Summit 2019</b></li>
+https://www.youtube.com/watch?v=4LcQm4ErXpA
 <li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
 https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 <li><b>iLEAPP Net Usage Plugin</b></li>
@@ -2740,6 +2748,8 @@ http://www.mac4n6.com/blog/2019/1/6/network-and-application-usage-using-netusage
 https://objectivebythesea.org/v1/talks/OBTS_v1_Edwards.pdf
 <li><b>iOS - Tracking Traces of Deleted Applications</b></li>
 https://blog.d204n6.com/2019/09/ios-tracking-traces-of-deleted.html
+<li><b>Tracking Traces of Deleted Applications - SANS DFIR Summit 2019</b></li>
+https://www.youtube.com/watch?v=4LcQm4ErXpA
 <li><b>iOS Analysis Test No. 20-5551 Summary Report</b></li>
 https://cts-forensics.com/reports/20-5551_Web.pdf
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
