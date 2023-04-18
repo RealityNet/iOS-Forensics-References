@@ -1349,6 +1349,10 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
 <li><b>Using Apple “Bug Reporting” for forensic purposes</b></li>
 https://for585.com/sysdiagnose
+<li><b>Sysdiagnose in iOS 16: a first look from a Digital Forensics perspective</b></li>
+https://blog.digital-forensics.it/2022/11/sysdiagnose-in-ios-16-first-look-from.html
+<li><b>A journey into IoT Forensics - Episode 5 - Analysis of the Apple HomePod and the Apple Home Kit Environment (aka thanks RN Team!)</b></li>
+https://blog.digital-forensics.it/2021/01/a-journey-into-iot-forensics-episode-5.html
 <li><b>Apple TV Forensics 03: Analysis</b></li>
 https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
 <li><b>iLEAPP Mobile Activation Logs Plugin</b></li>
