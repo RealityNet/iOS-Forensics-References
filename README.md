@@ -1347,6 +1347,8 @@ https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/appConduit.py
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li><b>Cellebrite CTF 2021 - Beth's iPhone</b></li>
 https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-beths-iphone.html
+<li><b>Using Apple “Bug Reporting” for forensic purposes</b></li>
+https://for585.com/sysdiagnose
 <li><b>Apple TV Forensics 03: Analysis</b></li>
 https://blog.elcomsoft.com/2019/09/apple-tv-forensics-03-analysis/
 <li><b>iLEAPP Mobile Activation Logs Plugin</b></li>
