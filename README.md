@@ -22,6 +22,9 @@ https://github.com/dlcowen/FSEventsParser
 <div>
 <ul>
 <li>
+<b>/containers/Data/System/"GUID"/Documents/storeSystem.db</b>
+</li>
+<li>
 <b>/containers/Shared/SystemGroup/"GUID"/Library/BatteryLife/CurrentPowerlog.PLSQL</b>
 <ul>
 <li><b>FROM APPLE SEEDS TO APPLE PIE</b></li>
