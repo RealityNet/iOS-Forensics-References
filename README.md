@@ -601,6 +601,8 @@ https://www.goldencelle.com/post/a-look-into-apple-s-screen-time-feature-and-wha
 https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
 <li><b>Magnet Forensics Virtual Summit 2023 CTF – iOS</b></li>
 https://www.forgottennook.com/blog/magnet-ios-2023
+<li><b>Magnet 2022 CTF – iOS15</b></li>
+https://bakerstreetforensics.com/2022/07/28/magnet-2022-ctf-ios15/
 <li><b>MAC Apt SceenTime Plugin</b></li>
 https://github.com/ydkhatri/mac_apt/blob/master/plugins/screentime.py
 <li><b>APOLLO ScreenTime Modules</b></li>
