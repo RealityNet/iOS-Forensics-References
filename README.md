@@ -589,6 +589,8 @@ https://github.com/Evian-Zhang/ScreenTimeController/blob/master/README.md
 https://cellebrite.com/en/data-quality-and-quantity-how-to-get-the-best-of-both-worlds-part-2-examining-screen-time-artifacts/
 <li><b>A Look Into Apple’s Screen Time Feature and What Insights It Lends To Digital Intelligence</b></li>
 https://cellebrite.com/en/a-look-into-apples-screen-time-feature-and-what-insights-it-lends-to-digital-intelligence/
+<li><b>Getting Evidence from iOS Screen Time Artifacts</b></li>
+https://www.magnetforensics.com/blog/getting-evidence-from-ios-screen-time-artifacts/
 <li><b>Plaso iOS SceenTime Parser</b></li>
 https://plaso.readthedocs.io/en/latest/_modules/plaso/parsers/sqlite_plugins/ios_screentime.html
 <li><b>A Look Into Apple’s Screen Time Feature and What Insights It Lends To Forensics</b></li>
