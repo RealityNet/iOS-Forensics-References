@@ -563,7 +563,7 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/aggregate_dictionary_distri
 </ul>
 </li>
 <li>
-<b>/mobile/Library/AppConduit/AvailableApps.plist</b>F
+<b>/mobile/Library/AppConduit/AvailableApps.plist</b>
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
