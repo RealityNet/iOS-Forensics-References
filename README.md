@@ -773,6 +773,7 @@ https://www.packtpub.com/product/ios-forensics-for-investigators/9781803234083
 <ul>
 <li><b>Locations, Locations, Locations</b></li>
 https://doubleblak.com/blogPosts.php?id=14
+<br>
 https://doubleblak.com/BlogArticles/14/PDF2.pdf
 <li><b>On the Tenth Day of APOLLO, My True Love Gave to Me – An Oddly Detailed Map of My Recent Travels – iOS Location Analysis</b></li>
 http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
