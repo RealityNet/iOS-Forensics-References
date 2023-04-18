@@ -905,6 +905,8 @@ https://blog.d204n6.com/2020/09/ios-14-tracking-app-clips-in-ios-14.html
 https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 <li><b>iOS Forensics: BFU (Before First Unlock) acquisition, using checkra1n</b></li>
 https://andreafortuna.org/2020/01/10/ios-forensics-bfu-before-first-unlock-acquisition-using-checkra1n/
+<li><b>iOS Forensics: HFS+ file system, partitions and relevant evidences</b></li>
+https://andreafortuna.org/2020/08/31/ios-forensics-hfs-file-system-partitions-and-relevant-evidences/
 </ul>
 </li>
 <li>
