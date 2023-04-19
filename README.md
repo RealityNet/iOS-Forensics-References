@@ -292,6 +292,21 @@ https://ciofecaforensics.com/2020/11/02/cellebrite-ctf-ruth/
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/lastBuild.py
 </ul>
 </li>
+<li>
+<b>/installd/Library/Logs/MobileInstallation/MigrationInfo.plist</b>
+<ul>
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+</ul>
+</li>
+<li>
+<b>/installd/Library/Logs/MobileInstallation/RoleUserMigration.plist</b>
+<ul>
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
+</ul>
+</li>
+
 </ul>
 </div>
 <p><h2 style="text-align: left;"><b><span style="font-size: medium;">"/logs/" folder</span></b></h2></p>
