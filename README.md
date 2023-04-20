@@ -638,6 +638,13 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </ul>
 </li>
 <li>
+<b>/mobile/Library/Assistant/SiriAnalytics.db</b>
+<ul>
+<li><b>Sysdiagnose in iOS 16: a first look from a Digital Forensics perspective</b></li>
+https://blog.digital-forensics.it/2022/11/sysdiagnose-in-ios-16-first-look-from.html
+</ul>
+</li>
+<li>
 <b>/mobile/Library/Biome/</b>
 <ul>
 <li><b>Analyzing iOS Biome AppIntent Files</b></li>
