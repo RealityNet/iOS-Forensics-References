@@ -1149,6 +1149,13 @@ https://www.researchgate.net/publication/339022164_Data_Extraction_and_Forensic_
 <b>/mobile/Library/DoNotDisturb/DB/Settings.sqlite</b>
 </li>
 <li>
+<b>/mobile/Library/DoNotDisturb/DB/IDSSyncEngineMetadata.plist</b>
+<ul>
+<li><b>iOS 16 - Breaking Down the Biomes (Part 3) - Keeping up with CarPlay</b></li>
+https://blog.d204n6.com/2022/09/ios-16-breaking-down-biomes-part-3.html
+</ul>
+</li>
+<li>
 <b>/mobile/Library/DuetExpertCenter/streams/userNotificationEvent/local</b>
 <ul>
 <li><b>Peeking at User Notification Events in iOS 15</b></li>
