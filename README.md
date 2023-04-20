@@ -1313,6 +1313,13 @@ https://github.com/mac4n6/APOLLO/blob/master/modules/health_workout_weather.txt
 </ul>
 </li>
 <li>
+<b>/mobile/Library/Health/Client/HealthApp.sqlite</b>
+<ul>
+<li><b>Health Data Types</b></li>
+https://www.doubleblak.com/blogPosts.php?id=21
+</ul>
+</li>
+<li>
 <b>/mobile/Library/homed/datastore.sqlite</b>
 <ul>
 <li><b>A journey into IoT Forensics - Episode 5 - Analysis of the Apple HomePod and the Apple Home Kit Environment (aka thanks RN Team!)</b></li>
