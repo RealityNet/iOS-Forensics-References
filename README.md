@@ -1584,7 +1584,11 @@ https://blog.digital-forensics.it/2019/12/checkra1n-era-ep-4-analyzing.html
 </li>
 <li>
 <b>/mobile/Library/Preferences/com.apple.cloudphotod.plist</b>
+<ul>
+<li><b>Local Photo Library Photos.sqlite Query Documentation & Notable Artifacts</b></li>
+https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-notable-artifacts/
 </li>
+</ul>
 <li>
 <b>/mobile/Library/Preferences/com.apple.cmfsyncagent.plist</b>
 <ul>
