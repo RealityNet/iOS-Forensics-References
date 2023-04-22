@@ -1654,6 +1654,13 @@ https://cts-forensics.com/reports/38551_Web.pdf
 <b>/mobile/Library/Preferences/com.apple.icloud.findmydeviced.FMIPAccounts.plist</b>
 </li>
 <li>
+<b>/mobile/Library/Preferences/com.apple.icloud.fmfd.plist</b>
+<ul>
+<li><b>iOS - Tracking Device Migration</b></li>
+https://blog.d204n6.com/2021/06/ios-tracking-device-migration.html
+</ul>
+</li>
+<li>
 <b>/mobile/Library/Preferences/com.apple.identityservices.idstatuscache.plist</b>
 <ul>
 <li><b>How iOS Properties Files Can Confirm a Suspect’s Contacts Even If Deleted</b></li>
