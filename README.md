@@ -1525,6 +1525,13 @@ https://theforensicscooter.com/2022/05/02/photos-sqlite-query-documentation-nota
 </ul>
 </li>
 <li>
+<b>/mobile/Library/Preferences/com.apple.assetsd.plist</b>
+<ul>
+<li><b>Shared with You Syndication Photo Library – Message Attachments & Linked Assets</b></li>
+https://theforensicscooter.com/2022/09/16/shared-with-you-syndication-photo-library-message-attachments-linked-assets/
+</ul>
+</li>
+<li>
 <b>/mobile/Library/Preferences/com.apple.atc.plist</b>
 <ul>
 <li><b>Checkra1n Era - Ep 4 - Analyzing extractions "Before First Unlock"</b></li>
