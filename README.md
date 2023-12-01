@@ -1960,7 +1960,7 @@ https://cts-forensics.com/reports/22-5551_Web.pdf
 <li><b>Reading Your Browser's History with SQLite</b></li>
 http://2016.padjo.org/tutorials/sqlite-your-browser-history/
 <li><b>APOLLO Safari History Module</b></li>
-https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/iconsScreen.py
+https://github.com/mac4n6/APOLLO/blob/master/modules/safari_history.txt
 <li><b>iLEAPP Safari History Plugin</b></li>
 https://github.com/abrignoni/iLEAPP/blob/main/scripts/artifacts/safariHistory.py
 <li><b>Practical Mobile Forensics - Fourth Edition</b></li>
